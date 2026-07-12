@@ -1,0 +1,64 @@
+[
+    {
+        "Offset": "0x12024",
+        "OriginalText": "つづきから",
+        "Text": "CONT.[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x1202A",
+        "OriginalText": "はじめから",
+        "Text": "START[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x12030",
+        "OriginalText": "ファイルうつす",
+        "Text": "COPY[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x12038",
+        "OriginalText": "ファイルけす",
+        "Text": "ERASE[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x1203F",
+        "OriginalText": "タルずかん",
+        "Text": "EXTRA[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x12045",
+        "OriginalText": "ゲーム1・",
+        "Text": "FILE1[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x1204B",
+        "OriginalText": "ゲーム2・",
+        "Text": "FILE2[3F]",
+        "Table": "80"
+    },
+    {
+        "Offset": "0x120A1",
+        "Text": "NEXT[3F]",
+        "Table": "C0"
+    },
+    {
+        "Offset": "0x120A7",
+        "Text": "CHARACTR[3F]",
+        "Table": "C0"
+    },
+    {
+        "Offset": "0x120B1",
+        "Text": "ITEM[3F]",
+        "Table": "C0"
+    },
+    {
+        "Offset": "0x120BB",
+        "Text": "END[3F]",
+        "Table": "C0"
+    }
+]
