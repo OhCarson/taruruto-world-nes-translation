@@ -1,72 +1,81 @@
 [
     {
-        "Id": 0,
-        "OriginalText": "[00][00][00][00][1C][00][NL][00]で[00]ズ[00]ポ[00]ま[00]ぁ[00]チ[00][10][01][32][01]プ[01]キ[01][04] ぽ タルさま さすがですわ！[NL]たこやきを [36][03]コも おあつめになって！[3F]",
-        "Text": "Taru-sama, you are[NL]amazing! You collected[NL][36][03] Takoyaki![3F]"
-    },
-    {
-        "Id": 1,
-        "OriginalText": "どのアイテムになさいますか？[3F]",
-        "Text": "Which item would you[NL]like?[3F]"
-    },
-    {
-        "Id": 2,
-        "OriginalText": "さすが タルさま おめがたかいですわ！[3F]",
-        "Text": "Great choice, Taru-sama![3F]"
-    },
-    {
-        "Id": 3,
-        "OriginalText": "スクラッチゲームを なさいますか？[3F]",
-        "Text": "Would you like to play a[NL]Scratch Game?[3F]"
-    },
-    {
-        "Id": 4,
-        "OriginalText": "タルさま がんばってくださいね！[NL]ミモラは いつまでも タルさまの みかたですわ！[33][3F]",
-        "Text": "Good luck, Taru-sama![NL]Mimora is always on your[NL]side![33][3F]"
-    },
-    {
-        "Id": 5,
-        "OriginalText": "タルさま どうしたんですの？[3F]",
-        "Text": "What is it, Taru-sama?[3F]"
-    },
-    {
-        "Id": 6,
-        "OriginalText": "ありがとうございました[NL]スクラッチカードを[36] まい さしあげますわ！[3F]",
-        "Text": "Thank you very much! I[NL]will give you [36][02] Scratch[NL]Cards![3F]"
-    },
-    {
-        "Id": 7,
-        "OriginalText": "6コマのうち 3コマを けずってください[NL]おなじものが そろえば そのアイテムを さしあげ[NL]ますわ！ がんばってくださいね！[3C][3F]",
-        "Text": "Scratch off 3 of the 6[NL]panels. If you match 3 of[NL]the same item,[3C][3D]you win it! Good luck![3C][3F]"
-    },
-    {
-        "Id": 8,
-        "OriginalText": "タルさま そのアイテムは もう じゅうぶん[NL]もっておいでですわ…[3C][3F]",
-        "Text": "Taru-sama, you already[NL]have enough of that[NL]item...[3C][3F]"
-    },
-    {
-        "Id": 9,
-        "OriginalText": "タルさま たこやきが たりませんわ…[NL]いくら タルさまの たのみでも こればかりは[NL]おゆずりするわけには まいりませんわ…[3C][3F]",
-        "Text": "Taru-sama, you do not[NL]have enough Takoyaki.[NL]Even for you,[3C][3D]I cannot give it away for[NL]free...[3C][3F]"
-    },
-    {
-        "Id": 10,
-        "OriginalText": "あっ！ タルさまは とっても ラッキーですわ！！[NL]ただいま サーバスセールちゅうですので[NL]スクラッチカードを いつもの2ばい[3C][3D]なんと [36] も さしあげてしまいますわ！[3F]",
-        "Text": "Ah! You are very lucky,[NL]Taru-sama!! We are having[NL]a Service Sale,[3C][3D]so I will give you twice[NL]the usual cards! You get[NL][36][02]![3F]"
-    },
-    {
-        "Id": 11,
-        "OriginalText": "タルさま… たこやきを おあつめにならないと[NL]アイテムを おわけすることが できませんわ…[NL]どんどん あつめてくださいね゜[3F]",
-        "Text": "Taru-sama... I cannot[NL]give you items if you do[NL]not collect[3C][3D]Takoyaki. Please get some[NL]more.[3F]"
-    },
-    {
-        "Id": 12,
-        "OriginalText": "ありがとうございます゜ スクラッチカードを…[3C][3D]あら タルさま゜スクラッチカードが もう[NL]いっぱいですわ… 99まいしか もてませんから[NL]どんどん つかってくださいね゜[3F]",
-        "Text": "Thank you! Here are your[NL]Scratch Cards...[3C][3D]Oh, Taru-sama. You[NL]already have 99 cards![NL]Please use some.[3F]"
-    },
-    {
-        "Id": 13,
-        "OriginalText": "スクラッチカードは 99まいしか もてませんので[NL]どんどん つかってくださいね！[3F]",
-        "Text": "You can only hold 99[NL]Scratch Cards, so please[NL]use them![3F]"
+        "Config": {
+            "TextOffset": "0x3D82C",
+            "PointerBase": "0x3D810",
+            "MaxSize": 2051
+        },
+        "Entries": [
+            {
+                "TextOriginal": "タルさま さすがですわ！[NL]たこやきを [36][03]コも おあつめになって！[3F]",
+                "TextTranslation": "Taru-sama, you are[NL]amazing! You got [36][03][NL]Takoyaki![3F]",
+                "PointerAddress": "0x3D810"
+            },
+            {
+                "TextOriginal": "どのアイテムになさいますか？[3F]",
+                "TextTranslation": "Which item would you[NL]like?[3F]",
+                "PointerAddress": "0x3D812"
+            },
+            {
+                "TextOriginal": "さすが タルさま おめがたかいですわ！[3F]",
+                "TextTranslation": "Great choice, Taru-sama![3F]",
+                "PointerAddress": "0x3D814"
+            },
+            {
+                "TextOriginal": "スクラッチゲームを なさいますか？[3F]",
+                "TextTranslation": "Would you like to play a[NL]Scratch Game?[3F]",
+                "PointerAddress": "0x3D816"
+            },
+            {
+                "TextOriginal": "タルさま がんばってくださいね！[NL]ミモラは いつまでも タルさまの みかたですわ！[33][3F]",
+                "TextTranslation": "Good luck, Taru-sama![NL]Mimora is always on your[NL]side![33][3F]",
+                "PointerAddress": "0x3D818"
+            },
+            {
+                "TextOriginal": "タルさま どうしたんですの？[3F]",
+                "TextTranslation": "What is it, Taru-sama?[3F]",
+                "PointerAddress": "0x3D81A"
+            },
+            {
+                "TextOriginal": "ありがとうございました[NL]スクラッチカードを[36] まい さしあげますわ！[3F]",
+                "TextTranslation": "Thank you very much! I[NL]will give you [36][02] Scratch[NL]Cards![3F]",
+                "PointerAddress": "0x3D81C"
+            },
+            {
+                "TextOriginal": "6コマのうち 3コマを けずってください[NL]おなじものが そろえば そのアイテムを さしあげ[NL]ますわ！ がんばってくださいね！[3C][3F]",
+                "TextTranslation": "Scratch off 3 of the 6[NL]panels. If you match 3 of[NL]the same item,[3C][3D]you win it! Good luck![3C][3F]",
+                "PointerAddress": "0x3D81E"
+            },
+            {
+                "TextOriginal": "タルさま そのアイテムは もう じゅうぶん[NL]もっておいでですわ…[3C][3F]",
+                "TextTranslation": "Taru-sama, you already[NL]have enough of that[NL]item...[3C][3F]",
+                "PointerAddress": "0x3D820"
+            },
+            {
+                "TextOriginal": "タルさま たこやきが たりませんわ…[NL]いくら タルさまの たのみでも こればかりは[NL]おゆずりするわけには まいりませんわ…[3C][3F]",
+                "TextTranslation": "Taru-sama, you do not[NL]have enough Takoyaki.[NL]Even for you,[3C][3D]I cannot give it away for[NL]free...[3C][3F]",
+                "PointerAddress": "0x3D822"
+            },
+            {
+                "TextOriginal": "あっ！ タルさまは とっても ラッキーですわ！！[NL]ただいま サーバスセールちゅうですので[NL]スクラッチカードを いつもの2ばい[3C][3D]なんと [36] も さしあげてしまいますわ！[3F]",
+                "TextTranslation": "Ah! You are very lucky,[NL]Taru-sama!! We are having[NL]a Service Sale,[3C][3D]so I will give you twice[NL]the usual cards! You get[NL][36][02]![3F]",
+                "PointerAddress": "0x3D824"
+            },
+            {
+                "TextOriginal": "タルさま… たこやきを おあつめにならないと[NL]アイテムを おわけすることが できませんわ…[NL]どんどん あつめてくださいね゜[3F]",
+                "TextTranslation": "Taru-sama... I cannot[NL]give you items if you do[NL]not collect[3C][3D]Takoyaki. Please get some[NL]more.[3F]",
+                "PointerAddress": "0x3D826"
+            },
+            {
+                "TextOriginal": "ありがとうございます゜ スクラッチカードを…[3C][3D]あら タルさま゜スクラッチカードが もう[NL]いっぱいですわ… 99まいしか もてませんから[NL]どんどん つかってくださいね゜[3F]",
+                "TextTranslation": "Thank you! Here are your[NL]Scratch Cards...[3C][3D]Oh, Taru-sama. You[NL]already have 99 cards![NL]Please use some.[3F]",
+                "PointerAddress": "0x3D828"
+            },
+            {
+                "TextOriginal": "スクラッチカードは 99まいしか もてませんので[NL]どんどん つかってくださいね！[3F]",
+                "TextTranslation": "You can only hold 99[NL]Scratch Cards, so please[NL]use them![3F]",
+                "PointerAddress": "0x3D82A"
+            }
+        ]
     }
 ]

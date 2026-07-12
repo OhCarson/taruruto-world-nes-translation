@@ -1,0 +1,116 @@
+[
+    {
+        "Config": {
+            "TextOffset": "0x3AC3A",
+            "PointerBase": "0x3AC10",
+            "MaxSize": 3070
+        },
+        "Entries": [
+            {
+                "TextOriginal": "ほんまる「タルー！ どうする？[NL]タル  「うーん…[3F]",
+                "TextTranslation": "Honmaru \"Taru! What now?\"[NL]Taru:   \"Hmmm...\"[3F]",
+                "PointerAddress": "0x3AC10"
+            },
+            {
+                "TextOriginal": "ほんまる「つよきだなー タルー！[NL]タル  「おう！[3F]",
+                "TextTranslation": "Honmaru \"You are brave!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "PointerAddress": "0x3AC12"
+            },
+            {
+                "TextOriginal": "ほんまる「タルー！アイテム1コで だいじょうぶか？[NL]タル  「まかせろ ほんまる！[3F]",
+                "TextTranslation": "Honmaru \"Taru! You okay[NL]with just 1 item?\"[NL]Taru:   \"Leave it to me!\"[3F]",
+                "PointerAddress": "0x3AC14"
+            },
+            {
+                "TextOriginal": "ほんまる「みエッチんかー おれも ほしいぜー！[NL]タル  「ほんまる ちょっと スケブ…[3F]",
+                "TextTranslation": "Honmaru \"Mi-etchin! I[NL]want that too!\"[NL]Taru:   \"Pervert...\"[3F]",
+                "PointerAddress": "0x3AC16"
+            },
+            {
+                "TextOriginal": "ほんまる「イキフキカエルかー ようじんぶかいぜ！[NL]タル  「おう！[3F]",
+                "TextTranslation": "Honmaru \"Ikifukikaeru?[NL]Very cautious!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "PointerAddress": "0x3AC18"
+            },
+            {
+                "TextOriginal": "ほんまる「タルー！ いっきにゴールだぜー！[NL]タル  「よし！ テレペテトつかう！[3F]",
+                "TextTranslation": "Honmaru \"Taru! Warp[NL]straight to the goal!\"[NL]Taru:   \"Okay!\"[3F]",
+                "PointerAddress": "0x3AC1A"
+            },
+            {
+                "TextOriginal": "ほんまる「アイテム3つとは ふとっぱらだぜー！[NL]タル  「おう！ オレ ふとっぱら！[3F]",
+                "TextTranslation": "Honmaru \"3 items? You[NL]are so generous!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "PointerAddress": "0x3AC1C"
+            },
+            {
+                "TextOriginal": "ほんまる「タルー！ アイテム つかいすぎだぜー！[NL]タル  「………[3F]",
+                "TextTranslation": "Honmaru \"Taru! You use[NL]too many items!\"[NL]Taru:   \".........\"[3F]",
+                "PointerAddress": "0x3AC1E"
+            },
+            {
+                "TextOriginal": "スパードと ジャンピが ボワーアッピするよ！[3F]",
+                "TextTranslation": "Speed and Jump will[NL]Power Up![3F]",
+                "PointerAddress": "0x3AC20"
+            },
+            {
+                "TextOriginal": "みずのなかでも うごきやすくなるよ！[3F]",
+                "TextTranslation": "You will move easier in[NL]the water![3F]",
+                "PointerAddress": "0x3AC22"
+            },
+            {
+                "TextOriginal": "そらを とべるようになるよ！[3F]",
+                "TextTranslation": "You will be able to fly![3F]",
+                "PointerAddress": "0x3AC24"
+            },
+            {
+                "TextOriginal": "かくしたこやきが みえるようになるよ！[3F]",
+                "TextTranslation": "You will see hidden[NL]Takoyaki![3F]",
+                "PointerAddress": "0x3AC26"
+            },
+            {
+                "TextOriginal": "ちょっとのあいだ むてきに なれるよ！[3F]",
+                "TextTranslation": "You will be invincible[NL]for a bit![3F]",
+                "PointerAddress": "0x3AC28"
+            },
+            {
+                "TextOriginal": "いっかいなら てきにあたっても へいきになるよ！[3F]",
+                "TextTranslation": "You can take 1 hit[NL]without getting hurt![3F]",
+                "PointerAddress": "0x3AC2A"
+            },
+            {
+                "TextOriginal": "ゴールまで いっきに ワーピできるよ！[3F]",
+                "TextTranslation": "Warp straight to[NL]the goal![3F]",
+                "PointerAddress": "0x3AC2C"
+            },
+            {
+                "TextOriginal": "このマッピのとくちょうを おしえてくれるよ！[3F]",
+                "TextTranslation": "I will tell you about[NL]this map![3F]",
+                "PointerAddress": "0x3AC2E"
+            },
+            {
+                "TextOriginal": "そのアイテムは もってないよ！[3F]",
+                "TextTranslation": "You do not have that![3F]",
+                "PointerAddress": "0x3AC30"
+            },
+            {
+                "TextOriginal": "テレペテトは ほかのといっしょに つかえないよ！[3F]",
+                "TextTranslation": "Cannot use Telepeteto[NL]with other items![3F]",
+                "PointerAddress": "0x3AC32"
+            },
+            {
+                "TextOriginal": "いだてんそくん・くろーるけーきくん・つばさ は[NL]どれか1コしか えらべないよ！[3F]",
+                "TextTranslation": "You can only pick 1 of:[NL]Idaten Shoes, Crawl[NL]Cake, or Wings![3F]",
+                "PointerAddress": "0x3AC34"
+            },
+            {
+                "TextOriginal": "ほんまる「タルー！ がんばれよー！[NL]タル  「おう！[3F]",
+                "TextTranslation": "Honmaru \"Good luck, Taru!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "PointerAddress": "0x3AC36"
+            },
+            {
+                "TextOriginal": "それは もうえらんでいるよ！[3F]",
+                "TextTranslation": "You already chose that![3F]",
+                "PointerAddress": "0x3AC38"
+            }
+        ]
+    }
+]

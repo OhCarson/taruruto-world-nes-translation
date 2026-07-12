@@ -1,52 +1,61 @@
 [
     {
-        "Id": 0,
-        "OriginalText": "[14][00][20][00][2C][00][39][00]ざ[00]ぼ[00]ゼ[00]ブ[00][77][00]こ[00]おう！[NL]はじめからか？[3F]",
-        "Text": "Oh! Start a new game?[3F]"
-    },
-    {
-        "Id": 1,
-        "OriginalText": "おう！[NL]つづきからか？[3F]",
-        "Text": "Oh! Continue your saved[NL]game?[3F]"
-    },
-    {
-        "Id": 2,
-        "OriginalText": "ファイルを[NL]うつすのか？[3F]",
-        "Text": "Copy a save file?[3F]"
-    },
-    {
-        "Id": 3,
-        "OriginalText": "ファイルを[NL]けすのか？[3F]",
-        "Text": "Erase a save file?[3F]"
-    },
-    {
-        "Id": 4,
-        "OriginalText": "ファイルめいを[NL]きめちくり！[3F]",
-        "Text": "Please enter a name for[NL]your file![3F]"
-    },
-    {
-        "Id": 5,
-        "OriginalText": "[38][00]か！[NL]がんばっちくり！[3F]",
-        "Text": "[38][00]? Do your best![3F]"
-    },
-    {
-        "Id": 6,
-        "OriginalText": "おう！[NL][38][00]だな！[3F]",
-        "Text": "Oh! So you are [38][00]![3F]"
-    },
-    {
-        "Id": 7,
-        "OriginalText": "おう！[NL]うつしたぞ！[3F]",
-        "Text": "Oh! File copied![3F]"
-    },
-    {
-        "Id": 8,
-        "OriginalText": "ほんとにけすか？[NL] はい  いいえ[3F]",
-        "Text": "Are you sure? Yes No[3F]"
-    },
-    {
-        "Id": 9,
-        "OriginalText": "",
-        "Text": "Oh! File erased![3F]"
+        "Config": {
+            "TextOffset": "0x3BC24",
+            "PointerBase": "0x3BC10",
+            "MaxSize": 1023
+        },
+        "Entries": [
+            {
+                "TextOriginal": "おう！[NL]はじめからか？[3F]",
+                "TextTranslation": "Oh! Start a new game?[3F]",
+                "PointerAddress": "0x3BC10"
+            },
+            {
+                "TextOriginal": "おう！[NL]つづきからか？[3F]",
+                "TextTranslation": "Oh! Continue your saved[NL]game?[3F]",
+                "PointerAddress": "0x3BC12"
+            },
+            {
+                "TextOriginal": "ファイルを[NL]うつすのか？[3F]",
+                "TextTranslation": "Copy a save file?[3F]",
+                "PointerAddress": "0x3BC14"
+            },
+            {
+                "TextOriginal": "ファイルを[NL]けすのか？[3F]",
+                "TextTranslation": "Erase a save file?[3F]",
+                "PointerAddress": "0x3BC16"
+            },
+            {
+                "TextOriginal": "ファイルめいを[NL]きめちくり！[3F]",
+                "TextTranslation": "Please enter a name for[NL]your file![3F]",
+                "PointerAddress": "0x3BC18"
+            },
+            {
+                "TextOriginal": "[38]",
+                "TextTranslation": "[38][00]? Do your best![3F]",
+                "PointerAddress": "0x3BC1A"
+            },
+            {
+                "TextOriginal": "おう！[NL][38]",
+                "TextTranslation": "Oh! So you are [38][00]![3F]",
+                "PointerAddress": "0x3BC1C"
+            },
+            {
+                "TextOriginal": "おう！[NL]うつしたぞ！[3F]",
+                "TextTranslation": "Oh! File copied![3F]",
+                "PointerAddress": "0x3BC1E"
+            },
+            {
+                "TextOriginal": "ほんとにけすか？[NL] はい  いいえ[3F]",
+                "TextTranslation": "Are you sure? Yes No[3F]",
+                "PointerAddress": "0x3BC20"
+            },
+            {
+                "TextOriginal": "おう！[NL]けしたぞ！[3F]",
+                "TextTranslation": "Oh! File erased![3F]",
+                "PointerAddress": "0x3BC22"
+            }
+        ]
     }
 ]

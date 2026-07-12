@@ -1,64 +1,104 @@
 [
     {
-        "Offset": "0x12024",
-        "OriginalText": "つづきから",
-        "Text": "CONT.[3F]",
-        "Table": "80"
+        "TextOriginal": "つづきから[3F]",
+        "TextTranslation": "CONT.[3F]",
+        "MaxLength": 0,
+        "Address": "0x12024"
     },
     {
-        "Offset": "0x1202A",
-        "OriginalText": "はじめから",
-        "Text": "START[3F]",
-        "Table": "80"
+        "TextOriginal": "はじめから[3F]",
+        "TextTranslation": "START[3F]",
+        "MaxLength": 0,
+        "Address": "0x1202A"
     },
     {
-        "Offset": "0x12030",
-        "OriginalText": "ファイルうつす",
-        "Text": "COPY[3F]",
-        "Table": "80"
+        "TextOriginal": "ファイルうつす[3F]",
+        "TextTranslation": "COPY[3F]",
+        "MaxLength": 0,
+        "Address": "0x12030"
     },
     {
-        "Offset": "0x12038",
-        "OriginalText": "ファイルけす",
-        "Text": "ERASE[3F]",
-        "Table": "80"
+        "TextOriginal": "ファイルけす[3F]",
+        "TextTranslation": "ERASE[3F]",
+        "MaxLength": 0,
+        "Address": "0x12038"
     },
     {
-        "Offset": "0x1203F",
-        "OriginalText": "タルずかん",
-        "Text": "EXTRA[3F]",
-        "Table": "80"
+        "TextOriginal": "タルずかん[3F]",
+        "TextTranslation": "EXTRA[3F]",
+        "MaxLength": 0,
+        "Address": "0x1203F"
     },
     {
-        "Offset": "0x12045",
-        "OriginalText": "ゲーム1・",
-        "Text": "FILE1[3F]",
-        "Table": "80"
+        "TextOriginal": "ゲーム1・[3F]",
+        "TextTranslation": "FILE1[3F]",
+        "MaxLength": 0,
+        "Address": "0x12045"
     },
     {
-        "Offset": "0x1204B",
-        "OriginalText": "ゲーム2・",
-        "Text": "FILE2[3F]",
-        "Table": "80"
+        "TextOriginal": "ゲーム2・[3F]",
+        "TextTranslation": "FILE2[3F]",
+        "MaxLength": 0,
+        "Address": "0x1204B"
     },
     {
-        "Offset": "0x120A1",
-        "Text": "NEXT[3F]",
-        "Table": "C0"
+        "TextOriginal": "つぎをみる[3F]",
+        "TextTranslation": "NEXT[3F]",
+        "MaxLength": 0,
+        "Address": "0x120A1"
     },
     {
-        "Offset": "0x120A7",
-        "Text": "CHARACTR[3F]",
-        "Table": "C0"
+        "TextOriginal": "じんぶつへんをみる[3F]",
+        "TextTranslation": "CHARACTR[3F]",
+        "MaxLength": 0,
+        "Address": "0x120A7"
     },
     {
-        "Offset": "0x120B1",
-        "Text": "ITEM[3F]",
-        "Table": "C0"
+        "TextOriginal": "どうぐへんをみる[3F]",
+        "TextTranslation": "ITEM[3F]",
+        "MaxLength": 0,
+        "Address": "0x120B1"
     },
     {
-        "Offset": "0x120BB",
-        "Text": "END[3F]",
-        "Table": "C0"
+        "TextOriginal": "わる[3F]",
+        "TextTranslation": "END[3F]",
+        "MaxLength": 0,
+        "Address": "0x120BB"
+    },
+    {
+        "TextOriginal": "アイテムかう  ためとく[3F]",
+        "TextTranslation": "Buy   ",
+        "MaxLength": 0,
+        "Address": "1216B"
+    },
+    {
+        "TextOriginal": "ためとく[3F]",
+        "TextTranslation": "Keep",
+        "MaxLength": 0,
+        "Address": "12173"
+    },
+    {
+        "TextOriginal": "つかう  やめる[3F]",
+        "TextTranslation": "Use",
+        "MaxLength": 0,
+        "Address": "12123"
+    },
+    {
+        "TextOriginal": "やめる[3F]",
+        "TextTranslation": "End",
+        "MaxLength": 0,
+        "Address": "12128"
+    },
+    {
+        "TextOriginal": "やる  やめとく[3F]",
+        "TextTranslation": "Go",
+        "MaxLength": 0,
+        "Address": "12178"
+    },
+    {
+        "TextOriginal": "やめとく[3F]",
+        "TextTranslation": "Stop",
+        "MaxLength": 0,
+        "Address": "1217C"
     }
 ]

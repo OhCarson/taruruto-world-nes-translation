@@ -1,188 +1,218 @@
 [
-  {
-    "Offset": "0x3c050",
-    "MaxLength": 72,
-    "OriginalText": "\u3044\u3064\u3067\u3082\u3069\u3053\u3067\u3082\u3088\u3079\u3070\u3042\u3089\u308f\u308c\u308b\u3042\u307e\u3050\u3082\u309c[NL]\u304b\u3058\u306e\u3068\u304d\u306a\u3069\u3042\u3063\u3068\u3044\u3046\u307e\u306b\u3051\u3057\u3066\u304f\u308c\u308b\u309c[NL]\u3089\u3044\u3046\u3093\u305f\u308d\u3046\u306a\u3069\u306a\u304b\u307e\u304c3\u30fb4\u306b\u3093\u3044\u308b\u309c[3F]",
-    "Text": "Calls a raincloud to[NL]put out fires. Has[NL]friends like Raizou.[3F]"
-  },
-  {
-    "Offset": "0x3c098",
-    "MaxLength": 65,
-    "OriginalText": "\u3053\u306e\u30ab\u30a8\u30eb\u306e\u3044\u304d\u3092\u3059\u3046\u3068\u3044\u304d\u3092\u3075\u304d\u304b\u3048\u3059\u3068\u3044\u3046[NL]\u304d\u3085\u3046\u304d\u3085\u3046\u3044\u308a\u3087\u3046\u30ac\u30a8\u30eb\u309c\u3061\u3087\u3063\u3068\u3052\u3072\u3093\u309c[NL]\u308a\u3042\u306d\u30fc\u3061\u3083\u3093\u304c\u3082\u3063\u3066\u3044\u308b\u309c[3F]",
-    "Text": "Medical frog. Its breath[NL]revives you, but its[NL]vulgar.[3F]"
-  },
-  {
-    "Offset": "0x3c0d9",
-    "MaxLength": 70,
-    "OriginalText": "\u306f\u304f\u3068\u3082\u306e\u3059\u3054\u3044\u30b9\u30d1\u30fc\u30c9\u3067\u3068\u3093\u3060\u308a\u306f\u306d\u305f\u308a[NL]\u3067\u304d\u308b\u3061\u3087\u3063\u3068\u304d\u3085\u3046\u304f\u3064\u306a\u304f\u3064\u309c[NL]\u305a\u3063\u3068\u306f\u3044\u3066\u3044\u308b\u3068\u3042\u3057\u304c\u3061\u3044\u3055\u304f\u306a\u3063\u3061\u3083\u3046\uff1f[3F]",
-    "Text": "Fast jumping shoes.[NL]Wearing them too long[NL]shrinks your feet.[3F]"
-  },
-  {
-    "Offset": "0x3c11f",
-    "MaxLength": 75,
-    "OriginalText": "\u3081\u3044\u3058\u305f\u3082\u306e\u3092\u306a\u3093\u3067\u3082\u3072\u304d\u3064\u3051\u3066\u3057\u307e\u3046\u305f\u307e\u309c[NL]\u305f\u308b\uff01\u3068\u3044\u3046\u3058\u3085\u3082\u3093\u3067\u305b\u304d\u308a\u3087\u304f\u3093\u306b\u3082\u306a\u308b\u309c[NL]\u30bf\u30eb\u306e\u30a2\u30a4\u30c6\u30e0\u306e\u306a\u304b\u3067\u3082\u308a\u3088\u3046\u304b\u3061\u304c\u305f\u304b\u3044\u309c[3F]",
-    "Text": "Ball that attracts[NL]things. Say TARU! to[NL]turn it to Repel-kun.[3F]"
-  },
-  {
-    "Offset": "0x3c16a",
-    "MaxLength": 68,
-    "OriginalText": "\u3053\u308c\u3092\u3042\u305f\u307e\u306b\u306e\u305b\u3066\u308f\u308b\u3044\u3053\u3068\u3092\u3059\u308b\u3068[NL]\u307b\u3081\u3089\u308c\u3066\u3057\u307e\u3046\u3068\u3044\u3046\u30e9\u30c3\u30ad\u30fc\u306a\u30a2\u30a4\u30c6\u30e0\u309c[NL]\u305f\u3060\u3057\u3088\u3044\u3053\u3068\u3092\u3059\u308b\u3068\u304a\u3053\u3089\u308c\u3066\u3057\u307e\u3046\u2026[3F]",
-    "Text": "Worn on head. Praised[NL]for bad deeds, scolded[NL]for good deeds.[3F]"
-  },
-  {
-    "Offset": "0x3c1ae",
-    "MaxLength": 65,
-    "OriginalText": "\u307b\u3093\u307e\u308b\u306e\u3068\u30fc\u3061\u3083\u3093\u304c\u3064\u304f\u3063\u305f\u3048\u307b\u3093\u309c[NL]\u3061\u3087\u3063\u3068\u304d\u304c\u3088\u308f\u3044\u3086\u3046\u3057\u3083\u306e\u304a\u306f\u306a\u3057\u309c[NL]\u30bf\u30a4\u30c8\u30eb\u3081\u3044\u306f\u3069\u3079\u308b\u304f\u306e\u307c\u3046\u3051\u3093[3F]",
-    "Text": "Dads picture book about[NL]a timid hero.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c1ef",
-    "MaxLength": 71,
-    "OriginalText": "\u3044\u308d\u3044\u308d\u306a\u304b\u305c\u3092\u304a\u3053\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u3046\u3061\u308f\u309c[NL]\u3082\u306e\u306a\u3069\u3092\u3075\u304d\u3068\u3070\u3059\u3053\u3068\u306b\u3082\u3064\u304b\u3048\u308b\u309c[NL]\u3042\u307e\u308a\u304a\u3082\u3044\u3082\u306e\u306f\u3068\u3070\u306a\u3044\u3053\u3068\u3082\u3042\u308b\u304b\u3082\u2026[3F]",
-    "Text": "Fan that creates winds[NL]to blow things away.[NL]Fails on heavy stuff.[3F]"
-  },
-  {
-    "Offset": "0x3c236",
-    "MaxLength": 63,
-    "OriginalText": "\u304a\u3053\u3063\u305f\u3072\u3068\u306e\u3042\u305f\u307e\u306e\u3046\u3048\u306b\u306e\u305b\u308b\u3068\u304a\u3086\u304c[NL]\u308f\u3044\u3066\u304a\u3053\u3063\u305f\u3072\u3068\u306e\u3044\u304b\u308a\u304c\u304a\u3055\u307e\u308b\u3068\u3044\u3046[NL]\u3068\u3066\u3082\u3078\u3044\u308f\u306a\u30a2\u30a4\u30c6\u30e0\u309c[3F]",
-    "Text": "Boils water on an angry[NL]persons head.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c275",
-    "MaxLength": 75,
-    "OriginalText": "\u3053\u3048\u3092\u304a\u304a\u304d\u304f\u3057\u3066\u30d3\u30ad\u306b\u3057\u305f\u308a\u3072\u3068\u306e\u304b\u3093\u304c[NL]\u3048\u3092\u304d\u304f\u3053\u3068\u3082\u3067\u304d\u308b\u309c\u305f\u308b\uff01\u3068\u3044\u3046\u3058\u3085\u3082\u3093[NL]\u3067\u304d\u304f\u304d\u304f\u3093\u3068\u3044\u3046\u30a2\u30a4\u30c6\u30e0\u306b\u3078\u3093\u3057\u3093\u3059\u308b\u309c[3F]",
-    "Text": "Amplifies voice, hears[NL]thoughts. Say TARU! to[NL]become Listen-kun.[3F]"
-  },
-  {
-    "Offset": "0x3c2c0",
-    "MaxLength": 74,
-    "OriginalText": "\u305f\u3079\u308b\u3068\u305c\u3093\u305c\u3093\u304a\u3088\u3052\u306a\u3044\u3072\u3068\u3067\u3082\u30af\u30ed\u30fc\u30eb[NL]\u3092\u304a\u3088\u3052\u308b\u3088\u3046\u306b\u3066\u3068\u308a\u3042\u3057\u3068\u308a\u30b3\u30fc\u30c1\u3057\u3066\u304f[NL]\u308c\u308b\u305f\u306e\u3082\u3057\u3044\u30b1\u30fc\u30ad\u309c\u3068\u3063\u3066\u3082\u304a\u3044\u3057\u3044\u309c[3F]",
-    "Text": "Cake that coaches poor[NL]swimmers to swim well.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c30a",
-    "MaxLength": 67,
-    "OriginalText": "\u3053\u3076\u3092\u3068\u3063\u305f\u308a\u304f\u3063\u3064\u3051\u305f\u308a\u3067\u304d\u308b\u30a2\u30a4\u30c6\u30e0\u309c[NL]\u3053\u3076\u3068\u308a\u3058\u30fc\u3055\u3093\u306b\u3067\u3066\u304f\u308b\u30aa\u30cb\u3082\u3058\u3064\u306f\u3053\u306e[NL]\u3053\u3076\u3068\u308a\u304f\u3093\u3092\u3064\u304b\u3063\u305f\u305d\u3046\u3067\u3042\u308b\u309c[3F]",
-    "Text": "Removes/adds lumps. The[NL]demon in Kobutori Jiisan[NL]used this.[3F]"
-  },
-  {
-    "Offset": "0x3c34d",
-    "MaxLength": 73,
-    "OriginalText": "\u3053\u306e\u30b7\u30fc\u30eb\u3092\u3042\u305f\u307e\u306b\u306f\u308b\u3068\u306d\u3093\u304c\u3064\u3088\u304f\u306a\u308a[NL]\u3053\u3053\u308d\u306b\u304a\u3082\u3063\u305f\u3053\u3068\u304c\u304b\u306a\u3046\u309c\u3067\u3082\u3072\u3068\u3092[NL]\u3046\u3089\u3093\u3060\u308a\u3059\u308b\u3068\u3042\u3068\u3067\u3058\u3076\u3093\u306b\u304b\u3048\u3063\u3066\u304f\u308b\u309c[3F]",
-    "Text": "Sticker grants wishes[NL]via mental power.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c396",
-    "MaxLength": 72,
-    "OriginalText": "\u3053\u308c\u3092\u304f\u3073\u306b\u3064\u3051\u308b\u3068\u3044\u3063\u305f\u3053\u3068\u304c\u3052\u3093\u3058\u3064\u306b[NL]\u306a\u308b\u309c\u305f\u3060\u3057\u3064\u304b\u3044\u304b\u305f\u306b\u3061\u3085\u3046\u3044\u3057\u306a\u3044\u3068[NL]\u305f\u3044\u3078\u3093\u306a\u3081\u306b\u3042\u3046\u3058\u3064\u306f\u3080\u306a\u3057\u3044\u30a2\u30a4\u30c6\u30e0\u309c[3F]",
-    "Text": "Wearing this makes words[NL]come true. Vain item can[NL]cause disaster.[3F]"
-  },
-  {
-    "Offset": "0x3c3de",
-    "MaxLength": 70,
-    "OriginalText": "\u3057\u3087\u3046\u3058\u304d\u3060\u3068\u30dc\u30c3\u3068\u306f\u306a\u304c\u3055\u304d\u3046\u305d\u3092\u3064\u304f\u3068[NL]\u304b\u308c\u3066\u3057\u307e\u3046\u3078\u3093\u306a\u304d\u309c\u3069\u3093\u306a\u306b\u3046\u307e\u304f\u3046\u305d\u3092[NL]\u3064\u3044\u3066\u3082\u305f\u3061\u307e\u3061\u307f\u3084\u3076\u3063\u3066\u3057\u307e\u3046\u309c[3F]",
-    "Text": "Tree blooms for truth,[NL]withers for lies.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c424",
-    "MaxLength": 74,
-    "OriginalText": "\u3081\u3044\u3058\u305f\u3082\u306e\u3092\u306a\u3093\u3067\u3082\u306f\u306d\u306e\u3051\u3066\u3057\u307e\u3046\u305f\u307e\u309c[NL]\u305f\u308b\uff01\u3068\u3044\u3046\u3058\u3085\u3082\u3093\u3067\u3044\u3093\u308a\u3087\u304f\u3093\u306b\u3082\u306a\u308b\u309c[NL]\u3044\u3093\u308a\u3087\u304f\u3093\u3088\u308a\u306f\u3042\u307e\u308a\u3064\u304b\u308f\u308c\u3066\u3044\u306a\u3044\u309c[3F]",
-    "Text": "Ball that repels things.[NL]Say TARU! to become[NL]Attract-kun. Rare.[3F]"
-  },
-  {
-    "Offset": "0x3c46e",
-    "MaxLength": 75,
-    "OriginalText": "\u3053\u308c\u3092\u3064\u3051\u308b\u3068\u3042\u3044\u3066\u306e\u308f\u308b\u3044\u3068\u3053\u308d\u304c\u3088\u304f\u307f\u3048[NL]\u308f\u308b\u3050\u3061\u304c\u305f\u304f\u3055\u3093\u3067\u3066\u304f\u308b\u3042\u304f\u307e\u306e\u3088\u3046\u306a\u30a2\u30a4[NL]\u30c6\u30e0\u309c\u304e\u3083\u304f\u306b\u3064\u3051\u308b\u3068\u307b\u3081\u3053\u3068\u3070\u304c\u3067\u3066\u304f\u308b\u309c[3F]",
-    "Text": "Devil item shows flaws,[NL]causes insults. Wear[NL]backward for praise.[3F]"
-  },
-  {
-    "Offset": "0x3c4b9",
-    "MaxLength": 72,
-    "OriginalText": "\u3058\u304b\u3093\u3092\u3068\u3081\u308b\u309c\u3082\u306e\u306b\u3044\u306e\u3061\u3092\u3042\u305f\u3048\u308b\u309c\u304d\u308b\u309c[NL]\u3051\u3059\u309c[69]\u30e9\u306e\u304f\u304d\u3067\u3066\u304d\u3092\u3057\u3070\u308b[69]\u30e9\u3057\u3070\u308a\u309c[NL]\u306a\u3069\u3044\u308d\u3044\u308d\u3064\u304b\u3048\u308b\u3061\u3087\u3046\u3079\u3093\u308a\u30a2\u30a4\u30c6\u30e0\uff01[3F]",
-    "Text": "Stops time. Gives life.[NL]Cuts. Erases.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c501",
-    "MaxLength": 56,
-    "OriginalText": "\u307b\u3093\u307e\u308b\u304c\u3069\u3093\u306a\u306b\u30d1\u30f3\u30c1\u306e\u3068\u304d\u3067\u3082\u3064\u3044[NL]\u3075\u3089\u3075\u3089\u3063\u3068\u3064\u3089\u308c\u3066\u3057\u307e\u3046\u307b\u3069\u306e\u30bf\u30eb\u308b\u30fc\u30c8\u306e[NL]\u3060\u3044\u3053\u3046\u3076\u3064\u309c[3F]",
-    "Text": "Taruruutos favorite[NL]food. Honmaru is sick of[NL]it.[3F]"
-  },
-  {
-    "Offset": "0x3c539",
-    "MaxLength": 70,
-    "OriginalText": "\u3068\u3063\u3066\u3082\u3082\u306e\u3057\u308a\u3067\u305b\u3093\u308a\u304c\u3093\u309c\u3044\u308d\u3093\u306a\u3082\u306e\u3092[NL]\u307f\u305b\u3066\u304f\u308c\u305f\u308a\u304a\u3057\u3048\u3066\u304f\u308c\u308b\u309c\u3067\u3082\u305a\u308b\u3092\u3059\u308b[NL]\u3068\u3053\u3046\u305b\u3093\u3067\u304a\u3057\u304a\u304d\u3055\u308c\u3066\u3057\u307e\u3046\u309c[3F]",
-    "Text": "Clairvoyant. Teaches[NL]things. Punishes liars.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c57f",
-    "MaxLength": 62,
-    "OriginalText": "\u30bf\u30eb\u308b\u30fc\u30c8\u306e\u30de\u30f3\u30c8\u309c\u305d\u3089\u3092\u3068\u3076\u3068\u304d\u30de\u30f3\u30c8\u304c[NL]\u3078\u3093\u3051\u3044\u3057\u3066\u3064\u3070\u3055\u306b\u306a\u308a\u304a\u304a\u305e\u3089\u3092\u3058\u3086\u3046\u306b[NL]\u3068\u3073\u307e\u308f\u308c\u308b\u3088\u3046\u306b\u306a\u308b\u309c[3F]",
-    "Text": "Taruruutos cape. Turns[NL]into wings, shield, etc.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c5bd",
-    "MaxLength": 62,
-    "OriginalText": "\u3061\u3048\u3068\u3086\u3046\u304d\u304c\u30dc\u30ef\u30fc\u30a2\u30c3\u30d4\u3059\u308b\u3068\u3044\u3046\u30ea\u30f3\u30b4[NL]\u3042\u3058\u306e\u30b8\u30e5\u30fc\u30b9\u309c\u304b\u3089\u3060\u304c\u30d9\u30ed\u30d9\u30ed\u306e\u3068\u304d\u306f[NL]\u3052\u3093\u304d\u306b\u306a\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u309c[3F]",
-    "Text": "Apple juice boosts[NL]wisdom and courage.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c5fb",
-    "MaxLength": 67,
-    "OriginalText": "\u3053\u308c\u3092\u3082\u3063\u3066\u304a\u306d\u304c\u3044\u3059\u308b\u3068\u305d\u306e\u307b\u3093\u306e\u306a\u304b\u306b[NL]\u306f\u3044\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u309c\u305f\u3060\u3057\u306a\u304f\u3057\u305f\u308a\u3059\u308b\u3068[NL]\u3082\u3069\u308c\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3046\u306e\u3067\u3061\u3085\u3046\u3044\u309c[3F]",
-    "Text": "Enter a book by holding[NL]it and wishing.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c63e",
-    "MaxLength": 56,
-    "OriginalText": "\u3053\u308c\u3092\u3064\u3051\u308b\u3068\u3082\u3063\u3066\u3044\u308b\u3072\u3068\u306e\u3059\u304c\u305f\u3092\u3079\u3064\u306e[NL]\u3082\u306e\u306b\u3046\u3064\u3057\u3060\u3057\u3058\u3076\u3093\u306e\u307f\u304c\u308f\u308a\u306b\u3059\u308b\u3053\u3068[NL]\u304c\u3067\u304d\u308b\u309c[3F]",
-    "Text": "Projects users image[NL]to another object.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c676",
-    "MaxLength": 71,
-    "OriginalText": "\u3053\u308c\u3092\u306e\u3080\u3068\u304a\u3068\u3053\u306f\u304a\u3093\u306a\u306b\u306a\u308a\u304a\u3093\u306a\u306f[NL]\u304a\u3068\u3053\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u309c\u3053\u308c\u3092\u3064\u304b\u3063\u305f\u3042\u3068\u306f[NL]\u30aa\u30ab\u30de\u3063\u307d\u304f\u306a\u3089\u306a\u3044\u3088\u3046\u306b\u304d\u3092\u3064\u3051\u3088\u3046\u309c[3F]",
-    "Text": "Drink swaps genders.[NL]Careful not to act[NL]weird.[3F]"
-  },
-  {
-    "Offset": "0x3c6bd",
-    "MaxLength": 70,
-    "OriginalText": "\u30bf\u30eb\u308b\u30fc\u30c8\u306e\u304b\u305a\u304b\u305a\u306e\u307e\u307b\u3046\u306e\u30a2\u30a4\u30c6\u30e0\u304c[NL]\u306f\u3044\u3063\u3066\u3044\u308b\u3075\u3057\u304e\u306a\u304b\u3070\u3093\u309c\u3044\u304f\u3064\u306e\u30a2\u30a4\u30c6\u30e0\u304c[NL]\u306f\u3044\u3063\u3066\u3044\u308b\u306e\u304b\u306f\u307e\u3063\u305f\u304f\u306e\u306a\u305e\u3067\u3042\u308b\u309c[3F]",
-    "Text": "Bag with Taruruutos[NL]items. How many are in[NL]there?[3F]"
-  },
-  {
-    "Offset": "0x3c703",
-    "MaxLength": 66,
-    "OriginalText": "\u307f\u308b\u307f\u308b\uff01\u3068\u3044\u3046\u3058\u3085\u3082\u3093\u3067\u3082\u306e\u304c\u3059\u3051\u3066[NL]\u307f\u3048\u308b\u307b\u3093\u307e\u308b\u306e\u3060\u3044\u3059\u304d\u306a\u30a2\u30a4\u30c6\u30e0\u309c[NL]\u307e\u3058\u307e\u3058\uff01\u3068\u3044\u3046\u3058\u3085\u3082\u3093\u3067\u3082\u3068\u306b\u3082\u3069\u308b\u309c[3F]",
-    "Text": "Say MIRUMIRU! to see[NL]through things.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c745",
-    "MaxLength": 74,
-    "OriginalText": "\u3081\u3044\u3058\u305f\u3082\u306e\u3092\u3084\u3058\u308b\u3057\u306e\u307b\u3046\u3053\u3046\u306b\u307e\u3052\u308b\u3053\u3068[NL]\u304c\u3067\u304d\u308b\u309c\u307f\u3061\u3057\u308b\u3079\u3048\uff01\u3068\u3081\u3044\u3058\u308b\u3068\u3084\u3058\u308b\u3057\u306e[NL]\u307b\u3046\u3053\u3046\u306b\u3058\u3076\u3093\u304c\u3068\u3093\u3067\u3044\u304f\u3053\u3068\u3082\u3067\u304d\u308b\u309c[3F]",
-    "Text": "Bends things in arrows[NL]direction. Say TARU! to[NL]turn to Straight-kun.[3F]"
-  },
-  {
-    "Offset": "0x3c78f",
-    "MaxLength": 74,
-    "OriginalText": "\u304b\u3089\u3060\u306b\u3064\u3051\u3066\u3044\u304d\u3092\u3075\u304d\u3053\u3080\u3068\u304d\u3093\u306b\u304f\u304c[NL]\u3082\u308a\u3082\u308a\u3082\u308a\u3042\u304c\u3063\u3066\u3059\u3054\u3044\u3061\u304b\u3089\u3082\u3061\u306b\u306a\u308b\u309c[NL]\u3078\u308d\u3078\u308d\u3072\u3093\u3058\u3083\u304f\u3093\u306a\u3069\u304e\u3083\u304f\u30a2\u30a4\u30c6\u30e0\u3082\u3042\u308b\u309c[3F]",
-    "Text": "Wear and blow to gain[NL]super strength.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c7d9",
-    "MaxLength": 68,
-    "OriginalText": "\u3053\u306e\u3084\u3067\u3042\u3044\u3066\u306e\u30cf\u30fc\u30c8\u3092\u3044\u308b\u3068\u3069\u3093\u306a\u306b[NL]\u3044\u3058\u3092\u306f\u3063\u3066\u3044\u3066\u3082\u3059\u306a\u304a\u306b\u306a\u3063\u3066\u3044\u307e\u3046\u309c[NL]\u3088\u304f\u306b\u305f\u30a2\u30a4\u30c6\u30e0\u306b\u3084\u3042\u307b\u308c\u305f\u304f\u3093\u304c\u3042\u308b\u309c[3F]",
-    "Text": "Arrow makes anyone[NL]honest, even if[NL]stubborn.[3F]"
-  },
-  {
-    "Offset": "0x3c81d",
-    "MaxLength": 71,
-    "OriginalText": "\u3053\u308c\u3092\u305f\u3079\u308b\u3068\u3086\u3081\u306e\u305b\u304b\u3044\u306b\u306f\u3044\u308c\u308b\u309c[NL]\u305f\u3060\u3057\u3086\u3081\u306e\u306a\u304b\u3067\u30b1\u30ac\u3092\u3059\u308b\u3068\u307b\u3093\u3068\u3046\u306b[NL]\u30b1\u30ac\u3092\u3057\u3066\u3057\u307e\u3046\u309c\u3075\u305f\u308a\u3067\u3069\u3046\u3058\u306b\u3082\u3064\u304b\u3048\u308b\u309c[3F]",
-    "Text": "Eat to enter dreams.[NL]Injuries are real.[NL][3F]"
-  },
-  {
-    "Offset": "0x3c864",
-    "MaxLength": 67,
-    "OriginalText": "\u304b\u304a\u3058\u3083\u3057\u3093\u3092\u306f\u308b\u3068\u3057\u3083\u3057\u3093\u306b\u3046\u3064\u3063\u3066\u3044\u308b[NL]\u3072\u3068\u306e\u3053\u3046\u3069\u3046\u3092\u3042\u3084\u3064\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u309c[NL]\u306a\u304b\u307e\u306e\u30a2\u30a4\u30c6\u30e0\u306b\u308f\u3089\u308f\u3089\u3089\u304c\u3042\u308b\u309c[3F]",
-    "Text": "Paste face photo to[NL]control person.[NL][3F]"
-  }
+    {
+        "TextOriginal": "いつでも どこでも よべばあらわれる あまぐも゜[NL]かじのときなど あっというまに けしてくれる゜[NL]らいうんたろうなど なかまが3・4にんいる゜[3F]",
+        "TextTranslation": "Calls a raincloud to[NL]put out fires. Has[NL]friends like Raizou.[3F]",
+        "MaxLength": 72,
+        "Address": "0x3c050"
+    },
+    {
+        "TextOriginal": "このカエルのいきをすうと いきをふきかえすという[NL]きゅうきゅういりょうガエル゜ちょっと げひん゜[NL]りあねーちゃんが もっている゜[3F]",
+        "TextTranslation": "Medical frog. Its breath[NL]revives you, but its[NL]vulgar.[3F]",
+        "MaxLength": 65,
+        "Address": "0x3c098"
+    },
+    {
+        "TextOriginal": "はくと ものすごいスパードで とんだり はねたり[NL]できる ちょっと きゅうくつな くつ゜[NL]ずっとはいていると あしが ちいさくなっちゃう？[3F]",
+        "TextTranslation": "Fast jumping shoes.[NL]Wearing them too long[NL]shrinks your feet.[3F]",
+        "MaxLength": 70,
+        "Address": "0x3c0d9"
+    },
+    {
+        "TextOriginal": "めいじたものを なんでも ひきつけてしまうたま゜[NL]たる！という じゅもんで せきりょくんにもなる゜[NL]タルのアイテムのなかでも りようかちが たかい゜[3F]",
+        "TextTranslation": "Ball that attracts[NL]things. Say TARU! to[NL]turn it to Repel-kun.[3F]",
+        "MaxLength": 75,
+        "Address": "0x3c11f"
+    },
+    {
+        "TextOriginal": "これを あたまにのせて わるいことをすると[NL]ほめられてしまうという ラッキーなアイテム゜[NL]ただし よいことをすると おこられてしまう…[3F]",
+        "TextTranslation": "Worn on head. Praised[NL]for bad deeds, scolded[NL]for good deeds.[3F]",
+        "MaxLength": 68,
+        "Address": "0x3c16a"
+    },
+    {
+        "TextOriginal": "ほんまるの とーちゃんが つくった えほん゜[NL]ちょっと きがよわい ゆうしゃの おはなし゜[NL]タイトルめいは どべるくの ぼうけん[3F]",
+        "TextTranslation": "Dads picture book about[NL]a timid hero.[NL][3F]",
+        "MaxLength": 65,
+        "Address": "0x3c1ae"
+    },
+    {
+        "TextOriginal": "いろいろなかぜを おこすことができる うちわ゜[NL]ものなどを ふきとばすことにも つかえる゜[NL]あまり おもいものは とばないことも あるかも…[3F]",
+        "TextTranslation": "Fan that creates winds[NL]to blow things away.[NL]Fails on heavy stuff.[3F]",
+        "MaxLength": 71,
+        "Address": "0x3c1ef"
+    },
+    {
+        "TextOriginal": "おこったひとの あたまのうえにのせると おゆが[NL]わいて おこったひとの いかりが おさまるという[NL]とても へいわなアイテム゜[3F]",
+        "TextTranslation": "Boils water on an angry[NL]persons head.[NL][3F]",
+        "MaxLength": 63,
+        "Address": "0x3c236"
+    },
+    {
+        "TextOriginal": "こえを おおきくして ビキにしたり ひとのかんが[NL]えを きくこともできる゜ たる！という じゅもん[NL]で きくきくん という アイテムにへんしんする゜[3F]",
+        "TextTranslation": "Amplifies voice, hears[NL]thoughts. Say TARU! to[NL]become Listen-kun.[3F]",
+        "MaxLength": 75,
+        "Address": "0x3c275"
+    },
+    {
+        "TextOriginal": "たべると ぜんぜん およげないひとでも クロール[NL]を およげるように てとりあしとり コーチしてく[NL]れる たのもしいケーキ゜ とっても おいしい゜[3F]",
+        "TextTranslation": "Cake that coaches poor[NL]swimmers to swim well.[NL][3F]",
+        "MaxLength": 74,
+        "Address": "0x3c2c0"
+    },
+    {
+        "TextOriginal": "こぶをとったり くっつけたりできるアイテム゜[NL]こぶとりじーさんに でてくるオニも じつは この[NL]こぶとりくんを つかったそうである゜[3F]",
+        "TextTranslation": "Removes/adds lumps. The[NL]demon in Kobutori Jiisan[NL]used this.[3F]",
+        "MaxLength": 67,
+        "Address": "0x3c30a"
+    },
+    {
+        "TextOriginal": "このシールを あたまにはると ねんが つよくなり[NL]こころにおもったことが かなう゜でも ひとを[NL]うらんだりすると あとで じぶんにかえってくる゜[3F]",
+        "TextTranslation": "Sticker grants wishes[NL]via mental power.[NL][3F]",
+        "MaxLength": 73,
+        "Address": "0x3c34d"
+    },
+    {
+        "TextOriginal": "これをくびにつけると いったことが げんじつに[NL]なる゜ ただし つかいかたに ちゅういしないと[NL]たいへんなめにあう じつは むなしいアイテム゜[3F]",
+        "TextTranslation": "Wearing this makes words[NL]come true. Vain item can[NL]cause disaster.[3F]",
+        "MaxLength": 72,
+        "Address": "0x3c396"
+    },
+    {
+        "TextOriginal": "しょうじきだと ボッと はながさき うそをつくと[NL]かれてしまう へんなき゜ どんなにうまく うそを[NL]ついても たちまち みやぶってしまう゜[3F]",
+        "TextTranslation": "Tree blooms for truth,[NL]withers for lies.[NL][3F]",
+        "MaxLength": 70,
+        "Address": "0x3c3de"
+    },
+    {
+        "TextOriginal": "めいじたものを なんでも はねのけてしまうたま゜[NL]たる！という じゅもんで いんりょくんにもなる゜[NL]いんりょくんよりは あまり つかわれていない゜[3F]",
+        "TextTranslation": "Ball that repels things.[NL]Say TARU! to become[NL]Attract-kun. Rare.[3F]",
+        "MaxLength": 74,
+        "Address": "0x3c424"
+    },
+    {
+        "TextOriginal": "これをつけると あいてのわるいところが よくみえ[NL]わるぐちが たくさんでてくる あくまのようなアイ[NL]テム゜ ぎゃくにつけると ほめことばがでてくる゜[3F]",
+        "TextTranslation": "Devil item shows flaws,[NL]causes insults. Wear[NL]backward for praise.[3F]",
+        "MaxLength": 75,
+        "Address": "0x3c46e"
+    },
+    {
+        "TextOriginal": "じかんをとめる゜ものにいのちをあたえる゜きる゜[NL]けす゜[69]ラのくきで てきをしばる [69]ラしばり゜[NL]など いろいろつかえる ちょうべんりアイテム！[3F]",
+        "TextTranslation": "Stops time. Gives life.[NL]Cuts. Erases.[NL][3F]",
+        "MaxLength": 72,
+        "Address": "0x3c4b9"
+    },
+    {
+        "TextOriginal": "ほんまるが どんなに パンチのときでも つい[NL]ふらふらっと つられてしまうほどの タルるートの[NL]だいこうぶつ゜[3F]",
+        "TextTranslation": "Taruruutos favorite[NL]food. Honmaru is sick of[NL]it.[3F]",
+        "MaxLength": 56,
+        "Address": "0x3c501"
+    },
+    {
+        "TextOriginal": "とっても ものしりで せんりがん゜いろんなものを[NL]みせてくれたり おしえてくれる゜でも ずるをする[NL]と こうせんで おしおきされてしまう゜[3F]",
+        "TextTranslation": "Clairvoyant. Teaches[NL]things. Punishes liars.[NL][3F]",
+        "MaxLength": 70,
+        "Address": "0x3c539"
+    },
+    {
+        "TextOriginal": "タルるートのマント゜ そらをとぶとき マントが[NL]へんけいして つばさになり おおぞらを じゆうに[NL]とびまわれるようになる゜[3F]",
+        "TextTranslation": "Taruruutos cape. Turns[NL]into wings, shield, etc.[NL][3F]",
+        "MaxLength": 62,
+        "Address": "0x3c57f"
+    },
+    {
+        "TextOriginal": "ちえと ゆうきが ボワーアッピするという リンゴ[NL]あじのジュース゜ からだが ベロベロのときは[NL]げんきになることができる゜[3F]",
+        "TextTranslation": "Apple juice boosts[NL]wisdom and courage.[NL][3F]",
+        "MaxLength": 62,
+        "Address": "0x3c5bd"
+    },
+    {
+        "TextOriginal": "これをもって おねがいすると そのほんのなかに[NL]はいることができる゜ただし なくしたりすると[NL]もどれなくなってしまうので ちゅうい゜[3F]",
+        "TextTranslation": "Enter a book by holding[NL]it and wishing.[NL][3F]",
+        "MaxLength": 67,
+        "Address": "0x3c5fb"
+    },
+    {
+        "TextOriginal": "これをつけると もっているひとのすがたを べつの[NL]ものに うつしだし じぶんの みがわりにすること[NL]ができる゜[3F]",
+        "TextTranslation": "Projects users image[NL]to another object.[NL][3F]",
+        "MaxLength": 56,
+        "Address": "0x3c63e"
+    },
+    {
+        "TextOriginal": "これをのむと おとこは おんなになり おんなは[NL]おとこになってしまう゜ これを つかったあとは[NL]オカマっぽく ならないように きをつけよう゜[3F]",
+        "TextTranslation": "Drink swaps genders.[NL]Careful not to act[NL]weird.[3F]",
+        "MaxLength": 71,
+        "Address": "0x3c676"
+    },
+    {
+        "TextOriginal": "タルるートの かずかずの まほうのアイテムが[NL]はいっている ふしぎなかばん゜いくつのアイテムが[NL]はいっているのかは まったくのなぞである゜[3F]",
+        "TextTranslation": "Bag with Taruruutos[NL]items. How many are in[NL]there?[3F]",
+        "MaxLength": 70,
+        "Address": "0x3c6bd"
+    },
+    {
+        "TextOriginal": "みるみる！という じゅもんで ものが すけて[NL]みえる ほんまるのだいすきなアイテム゜[NL]まじまじ！という じゅもんで もとにもどる゜[3F]",
+        "TextTranslation": "Say MIRUMIRU! to see[NL]through things.[NL][3F]",
+        "MaxLength": 66,
+        "Address": "0x3c703"
+    },
+    {
+        "TextOriginal": "めいじたものを やじるしのほうこうに まげること[NL]ができる゜みちしるべえ！とめいじると やじるしの[NL]ほうこうに じぶんが とんでいくこともできる゜[3F]",
+        "TextTranslation": "Bends things in arrows[NL]direction. Say TARU! to[NL]turn to Straight-kun.[3F]",
+        "MaxLength": 74,
+        "Address": "0x3c745"
+    },
+    {
+        "TextOriginal": "からだにつけて いきを ふきこむと きんにくが[NL]もりもり もりあがって すごいちからもちになる゜[NL]へろへろひんじゃくんなど ぎゃくアイテムもある゜[3F]",
+        "TextTranslation": "Wear and blow to gain[NL]super strength.[NL][3F]",
+        "MaxLength": 74,
+        "Address": "0x3c78f"
+    },
+    {
+        "TextOriginal": "このやで あいてのハートを いると どんなに[NL]いじをはっていても すなおになっていまう゜[NL]よくにたアイテムに やあほれたくん がある゜[3F]",
+        "TextTranslation": "Arrow makes anyone[NL]honest, even if[NL]stubborn.[3F]",
+        "MaxLength": 68,
+        "Address": "0x3c7d9"
+    },
+    {
+        "TextOriginal": "これをたべると ゆめのせかいに はいれる゜[NL]ただし ゆめのなかで ケガをすると ほんとうに[NL]ケガをしてしまう゜ふたりで どうじにもつかえる゜[3F]",
+        "TextTranslation": "Eat to enter dreams.[NL]Injuries are real.[NL][3F]",
+        "MaxLength": 71,
+        "Address": "0x3c81d"
+    },
+    {
+        "TextOriginal": "かおじゃしんをはると しゃしんに うつっている[NL]ひとの こうどうを あやつることができる゜[NL]なかまのアイテムに わらわらら がある゜[3F]",
+        "TextTranslation": "Paste face photo to[NL]control person.[NL][3F]",
+        "MaxLength": 67,
+        "Address": "0x3c864"
+    },
+    {
+        "TextOriginal": "て[B0]もら みわままよ゜[NL]ぃりほまわ[B0]ひぁまわ[NL]よもゆま ひ みもんめ・                                [3F]",
+        "TextTranslation": "Swim freely[NL]underwater[NL]like a fish.[3F]",
+        "MaxLength": 68,
+        "Address": "0x3D556"
+    },
+    {
+        "TextOriginal": "とめもりゆ みひんぁ…[NL]ふぃぁ ぃんま ぁるる らぃへめ[NL]ひりほ ゜るぃ ーるりま るぃぁ・                          [3F]",
+        "TextTranslation": "Think fast,[NL]but use too much[NL]and you zone out.[3F]",
+        "MaxLength": 73,
+        "Address": "0x3D59A"
+    },
+    {
+        "TextOriginal": "す゜んぁまわもるぃん[NL]ぁまひへめまわ [B0]める[NL]わひわまよ゜ ひれれまひわん・                                   [3F]",
+        "TextTranslation": "Mysterious[NL]teacher who[NL]rarely appears.[3F]",
+        "MaxLength": 74,
+        "Address": "0x3D5E3"
+    },
+    {
+        "TextOriginal": "ぬひわれ ひり゜[B0]めまわま…[NL]ふぃぁ らひゆまん ゜るぃ[NL]みひわぁ・                                   [3F]",
+        "TextTranslation": "Warp anywhere,[NL]but makes you[NL]fart.[3F]",
+        "MaxLength": 70,
+        "Address": "0x3D62D"
+    },
+    {
+        "TextOriginal": "・  [3F]",
+        "TextTranslation": ".[3F]",
+        "MaxLength": 4,
+        "Address": "0x3D673"
+    }
 ]

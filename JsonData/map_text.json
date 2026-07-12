@@ -1,0 +1,271 @@
+[
+    {
+        "Config": {
+            "TextOffset": "0x3E078",
+            "PointerBase": "0x3E010",
+            "MaxSize": 8160
+        },
+        "Entries": [
+            {
+                "TextOriginal": "いじがわ「ほんまる じゃばおと けっとうだって？[NL]やめときな かないっこないって！[NL]ほんまる「よけーな おせわだぜ！ とおしてくれ！[3C][3D]いじがわ「とおして やんないよー！[NL]ほんまる「かー なんて いじがわりーんだ！！[3C][3F]",
+                "TextTranslation": "Ijigawa: Honmaru, a duel[NL]with Jabao? Don do it,[NL]you cannot win![3C][3D]Honmaru: None of your[NL]business! Let me pass![NL]Ijigawa: I won let you![3C][3D]Honmaru: Gah, she is so[NL]mean!![3C][3F]",
+                "PointerAddress": "0x3E010"
+            },
+            {
+                "TextOriginal": "タル「よし やあすなおくん つかう！[NL]……やあすなおくんが いじがわに めいちゅう！[3C][3D]いじがわ「ほんまる じゃばおなんかに まけるな！[NL]あたしも ほんまるを おうえんするぜ！[3C][3D]ほんまる「やったー あんなに いやな いじがわが[NL]すなおだぜー！！[NL]タル「おう！[33][3F]",
+                "TextTranslation": "Taru: Okay, use[NL]Yaa-sunao-kun![NL]...Yaa-sunao-kun hit[3C][3D]Ijigawa![3C][3D]Ijigawa: Honmaru, don[NL]lose to Jabao! I am[NL]cheering for you too![3C][3D]Honmaru: Yes! The usually[NL]mean Ijigawa is being[NL]honest!![3C][3D]Taru: Yeah![33][3F]",
+                "PointerAddress": "0x3E012"
+            },
+            {
+                "TextOriginal": "タル「あっ まじっくんだ！ これがあれば[NL]じかんを とめられるるるー！[NL]ほんまる「タルー！ やったぜー！！[33][3F]",
+                "TextTranslation": "Taru: Ah, Magic-kun! With[NL]this, you can stop time![NL]Honmaru: Taru! We did[3C][3D]it!![33][3F]",
+                "PointerAddress": "0x3E014"
+            },
+            {
+                "TextOriginal": "ほんまる「なんだ これ？[NL]タル「これ やあすなおくん゜どんなひとでも[NL]すなおになる！[33][3F]",
+                "TextTranslation": "Honmaru: What is this?[NL]Taru: This is[NL]Yaa-sunao-kun. It makes[3C][3D]anyone honest![33][3F]",
+                "PointerAddress": "0x3E016"
+            },
+            {
+                "TextOriginal": "じゃばお「おそいぞ ほんまる！[NL]ほんまる「おまえなんかには まけねーぜ！[NL]じゃばお「そのちびはなんだ？[3C][3F]",
+                "TextTranslation": "Jabao: You are late,[NL]Honmaru! Honmaru: I won[NL]lose to you! Jabao: Who[3C][3D]is that midget?[3C][3F]",
+                "PointerAddress": "0x3E018"
+            },
+            {
+                "TextOriginal": "タル「オレはタルるートだ！ ほんまるのかわりに[NL]おまえ やっつける！[NL]ほんまる「たのんだぞ タルー！[33][3F]",
+                "TextTranslation": "Taru: I am Taruruuto! I[NL]will beat you instead of[NL]Honmaru![3C][3D]Honmaru: I am counting on[NL]you, Taru![33][3F]",
+                "PointerAddress": "0x3E01A"
+            },
+            {
+                "TextOriginal": "ほんまる「じゃばお つかまえたぜー！[NL]タル「つかまえたー！[NL]じゃばお「くそー……[33][3F]",
+                "TextTranslation": "Honmaru: I caught Jabao![NL]Taru: We caught him![NL]Jabao: Damn it...[33][3F]",
+                "PointerAddress": "0x3E01C"
+            },
+            {
+                "TextOriginal": "はらこ「せかいジュニア すいちゅう おにごっこ[NL]せんしゅけん さいゆうしゅうの このオレさまに[NL]かなうわけ あるまい！ わはははは！！[3C][3D]ほんまる「くそー…[3C][3F]",
+                "TextTranslation": "Harako: As the champion[NL]of the World Junior[NL]Underwater Tag[3C][3D]Championship,[3C][3D]there is no way you can[NL]beat me! Hahaha! Honmaru:[NL]Damn it...[3C][3F]",
+                "PointerAddress": "0x3E01E"
+            },
+            {
+                "TextOriginal": "タル「ほんまる すいすいにんぎょくん つかえ！[NL]ほんまる「サンキュー タルー！[NL]……ほんまるは すいすいにんぎょくんを つけた！[3C][3D]ほんまる「やった！ あっさり つかまえたぜ！[NL]タル「やったな ほんまる！[NL]はらこ「そんな ばかな…[33][3F]",
+                "TextTranslation": "Taru: Honmaru, use[NL]Suisui-ningyo-kun![NL]Honmaru: Thanks, Taru![3C][3D]...Honmaru equipped[NL]Suisui-ningyo-kun![3C][3D]Honmaru: I did it! I[NL]easily caught him! Taru:[NL]You did it, Honmaru![3C][3D]Harako: Impossible...[33][3F]",
+                "PointerAddress": "0x3E020"
+            },
+            {
+                "TextOriginal": "ほんまる「ほら！ タッチ！！[NL]いじがわ「ほんまる… おまえって すげーな…[NL]タル「おう！ ほんまる すげー！[33][3F]",
+                "TextTranslation": "Honmaru: Look! Touch!![NL]Ijigawa: Honmaru... you[NL]are amazing...[3C][3D]Taru: Yeah! Honmaru is[NL]amazing![33][3F]",
+                "PointerAddress": "0x3E022"
+            },
+            {
+                "TextOriginal": "タル「すいすいにんぎょくん つかまえたぞー[NL]ほんまる「タルー！ あいてが ちがうぜー！！[33][3F]",
+                "TextTranslation": "Taru: We caught[NL]Suisui-ningyo-kun![NL]Honmaru: Taru! Wrong[3C][3D]target!![33][3F]",
+                "PointerAddress": "0x3E024"
+            },
+            {
+                "TextOriginal": "ほんまる「タルー！ まほうアイテムだぜー！[NL]タル「いんりょくんだ！ これで たこやき あつめ[NL]ほうだい！ オレうれしいるるー！[33][3F]",
+                "TextTranslation": "Honmaru: Taru! It is a[NL]magic item! Taru: It is[NL]Inryo-kun![3C][3D]Now we can collect all[NL]the Takoyaki! I am[NL]happy![33][3F]",
+                "PointerAddress": "0x3E026"
+            },
+            {
+                "TextOriginal": "ほんまる「ひー！ カッボだー！[NL]タル「だれだ おまえ？[NL]こたろう「おいら カッボのこたろうでちゅ[3C][3D]こたろう「みつかったので ごほうびの[NL]たこやきを 30コあげまちゅ゜[NL]タル「わーい！！[33][3F]",
+                "TextTranslation": "Honmaru: Eek! It is[NL]Kabbo! Taru: Who are you?[3C][3D]Kotarou: I am Kotarou of[NL]the Kabbo.[3C][3D]Kotarou: Since you found[NL]me, I will give you 30[NL]Takoyaki as a reward.[3C][3D]Taru: Yay!![33][3F]",
+                "PointerAddress": "0x3E028"
+            },
+            {
+                "TextOriginal": "ほんまる「あ おまえは よわむしの ドブルク！[NL]ドブルク「ちがわーい！ ゆうしゃだもーん！[NL]ほんまる「じゃあ どわっはだいおうを たおせよ！[3C][3D]ドブルク「こわいから やだ！[NL]ほんまる「それなら オレたちが やってやるぜー！[NL]タル「おう！ おれたち ゆうしゃ！！[33][3F]",
+                "TextTranslation": "Honmaru: Ah, you are the[NL]wimp Doburuku![3C][3D]Doburuku: No I am not! I[NL]am a hero![3C][3D]Honmaru: Then defeat the[NL]Dowah King! Doburuku: No,[NL]it is scary![3C][3D]Honmaru: Then we will do[NL]it for you![3C][3D]Taru: Yeah! We are[NL]heroes!![33][3F]",
+                "PointerAddress": "0x3E02A"
+            },
+            {
+                "TextOriginal": "エランド「われこそは どわっはだいおうの[NL]4てんのうのひとり エランドさまなり！ かくご！[NL]ほんまる「よし いけ タルー！[33][3F]",
+                "TextTranslation": "Erand: I am Erand, one of[NL]the four heavenly kings[NL]of the Dowah King![3C][3D]Prepare yourself![NL]Honmaru: Okay, go Taru![33][3F]",
+                "PointerAddress": "0x3E02C"
+            },
+            {
+                "TextOriginal": "ほんまる「おまえなんか すぐ たおしてやるぜー！[NL]ラキュル「わたしが ラキュルです゜すぐにたおして[NL]みなさい゜ やれっ きゅうけつコーモ！[33][3F]",
+                "TextTranslation": "Honmaru: I will defeat[NL]you quickly! Rakyu: I am[NL]Rakyu.[3C][3D]Try to defeat me quickly.[NL]Go, Bloodsucking Bat![33][3F]",
+                "PointerAddress": "0x3E02E"
+            },
+            {
+                "TextOriginal": "せんにん「どわっはを たおしに ゆくのか゜よし！[NL]はしを つくってやろう！ さあ ゆきなさい！[NL]タル「サンキュー じいちゃん！[33][3F]",
+                "TextTranslation": "Hermit: You are going to[NL]defeat Dowah? Okay! I[NL]will build a bridge for[3C][3D]you![3C][3D]Now, go! Taru: Thanks,[NL]Grandpa![33][3F]",
+                "PointerAddress": "0x3E030"
+            },
+            {
+                "TextOriginal": "ボチュラス「チバー！オレさまのキ[69]で [69]ラ[69]ラに[NL]くいちぎってやるー！！[NL]ほんまる「タルー ゆだんするなー！[33][3F]",
+                "TextTranslation": "Bochurasu: Chiba! I will[NL]tear you apart with my[NL]fangs![3C][3D]Honmaru: Taru! Don let[NL]your guard down![33][3F]",
+                "PointerAddress": "0x3E032"
+            },
+            {
+                "TextOriginal": "ガブイラ「ぜんぶ やきつくしてやるー！[NL]タル「わーい オレたち やきつくしてくれるのか！[NL]ほんまる「タルー！ よろこぶなー！！[33][3F]",
+                "TextTranslation": "Gabuira: I will burn[NL]everything down![3C][3D]Taru: Yay! You are going[NL]to burn us?[3C][3D]Honmaru: Taru! Don be[NL]happy about it!![33][3F]",
+                "PointerAddress": "0x3E034"
+            },
+            {
+                "TextOriginal": "どわっは「よくも わが ぐんだんを……[NL]みんな しけいにしてやる！！[NL]ほんまる「そうはいくか！ タル！たのんだぞー！[33][3F]",
+                "TextTranslation": "Dowah: How dare you[NL]defeat my army... I will[NL]execute all of you!![3C][3D]Honmaru: I won let you![NL]Taru! I am counting on[NL]you![33][3F]",
+                "PointerAddress": "0x3E036"
+            },
+            {
+                "TextOriginal": "タル「あー ぶんがくはかせぼうだー！[NL]ほんまる「やりー これで もとのせかいに[NL]もどれるぞー！[33][3F]",
+                "TextTranslation": "Taru: Ah! It is the[NL]Bungaku-hakase-bou![NL]Honmaru: Yay! Now we can[3C][3D]return to our original[NL]world![33][3F]",
+                "PointerAddress": "0x3E038"
+            },
+            {
+                "TextOriginal": "タル「あまぐもたろうだ！ こいつを よべば[NL]ほのおを かたっぱしから けしてくれるんだぞー！[NL]ほんまる「おー そいつは べんりだぜー！[33][3F]",
+                "TextTranslation": "Taru: It is[NL]Amagumo-tarou! If we call[NL]him, he will put out all[3C][3D]the fires![3C][3D]Honmaru: Oh, that is[NL]convenient![33][3F]",
+                "PointerAddress": "0x3E03A"
+            },
+            {
+                "TextOriginal": "はらこ「ふふふ せかいジュニア スキーチャンピの[NL]このオレのじつりょくを みせてやろう゜[NL]いよなさん このしょうぶは わたしのかちです！[3C][3D]はらこ「そうそう じゃばおには ハンデをやろう゜[NL]じゃばお「ばかにするなよ！[NL]いじがわ「さあ スタートよ！！[33][3F]",
+                "TextTranslation": "Harako: Fufufu, I will[NL]show you my skills as the[NL]World Junior Ski[3C][3D]Champion.[3C][3D]Iyona-san, this match is[NL]my victory![3C][3D]Harako: Oh right, I will[NL]give Jabao a handicap.[3C][3D]Jabao: Don underestimate[NL]me![3C][3D]Ijigawa: Ready, start!![33][3F]",
+                "PointerAddress": "0x3E03C"
+            },
+            {
+                "TextOriginal": "タル「こんなところに きくんだあがあるるー！[NL]これで てきを こうげきできるぞー！[33][3F]",
+                "TextTranslation": "Taru: There is a Kikundaa[NL]here! With this, we can[NL]attack the enemies![33][3F]",
+                "PointerAddress": "0x3E03E"
+            },
+            {
+                "TextOriginal": "タル「やったー！ ゴールイン！！[33][3F]",
+                "TextTranslation": "Taru: Yay! Goal in!![33][3F]",
+                "PointerAddress": "0x3E040"
+            },
+            {
+                "TextOriginal": "ほんまる「あれ？ いんりょくんじゃないか？[NL]タル「ちがう゜ これせきりょくんていう゜[NL]てきのたまを はねのけてくれる！[33][3F]",
+                "TextTranslation": "Honmaru: Huh? Isn this[NL]Inryo-kun?[3C][3D]Taru: No. This is[NL]Sekiryo-kun.[3C][3D]It repels enemy bullets![33][3F]",
+                "PointerAddress": "0x3E042"
+            },
+            {
+                "TextOriginal": "ミモラ「タルさまー ライ[69]ーなんかに まけないで[NL]くださいねっ！ ミモラは いつでも タルさまの[NL]みかたですわっ！！[3C][3F]",
+                "TextTranslation": "Mimora: Taru-sama, don[NL]lose to Raibaa! Mimora is[NL]always on Taru-samas[3C][3D]side!![3C][3F]",
+                "PointerAddress": "0x3E044"
+            },
+            {
+                "TextOriginal": "タル「けっ！ うっとおしいんだよ！ いつもオレに[NL]ブタブタしやがってよー！ チバビスはかえれよ！！[NL]ほんまる「タ タル なにいってんだよー…[3C][3D]……タルは ぜんあくんを かけてしまっている！[NL]ミモラ「タ タルさま… あ… あ…[3C][3F]",
+                "TextTranslation": "Taru: Keh! You are[NL]annoying! Always being[NL]all clingy to me! Go[3C][3D]home!![3C][3D]Honmaru: Ta, Taru, what[NL]are you saying...[3C][3D]...Taru has put on[NL]Zen-a-kun! Mimora: Ta,[NL]Taru-sama... Ah...[3C][3F]",
+                "PointerAddress": "0x3E046"
+            },
+            {
+                "TextOriginal": "タル「これ ぜんあくんっていう゜ これをかけると[NL]どんどん ひとのわるくちが とびだす！[NL]ほんまる「ひいー あくまのような アイテムだぜ！[33][3F]",
+                "TextTranslation": "Taru: This is Zen-a-kun.[NL]If you wear it, you start[NL]saying bad things![3C][3D]Honmaru: Eek! It is a[NL]devilish item![33][3F]",
+                "PointerAddress": "0x3E048"
+            },
+            {
+                "TextOriginal": "ライ[69]ー「きたな タルるート！ ミモラちゃんは[NL]このライ[69]ーさまのものだ！ きさまを たおす゜[NL]ほんまる「タルー！ まけるなよー！！[33][3F]",
+                "TextTranslation": "Raibaa: You are here,[NL]Taruruuto! Mimora-chan[NL]belongs to me, Raibaa![3C][3D]I will defeat you.[NL]Honmaru: Taru! Don[NL]lose!![33][3F]",
+                "PointerAddress": "0x3E04A"
+            },
+            {
+                "TextOriginal": "ほんまる「おっ テレペテトじゃねーか！ これで[NL]さっきの しまのほうに かえれるぜー！[NL]タル「ワー… ピッ[33][3F]",
+                "TextTranslation": "Honmaru: Oh, it is[NL]Terepeteto! With this we[NL]can return to that[3C][3D]island![3C][3D]Taru: Wow... Beep![33][3F]",
+                "PointerAddress": "0x3E04C"
+            },
+            {
+                "TextOriginal": "    あんまりですわーーーーーー！！[33][3F]",
+                "TextTranslation": "This is too cruel!!!!!![33][3F]",
+                "PointerAddress": "0x3E04E"
+            },
+            {
+                "TextOriginal": "タル「これ かんかんやかん゜ おこったひとの[NL]あたまにのせると いかりが おさまる゜[NL]ほんまる「こいつは つかえるぞー！[33][3F]",
+                "TextTranslation": "Taru: This is[NL]Kankan-yakan. If you put[NL]it on an angry persons[3C][3D]head,[3C][3D]their anger subsides.[NL]Honmaru: We can use[NL]this![33][3F]",
+                "PointerAddress": "0x3E050"
+            },
+            {
+                "TextOriginal": "わせだ「なぜ わたしが こんなところで ひとりで[NL]ペツンと つったってなければ ならないんだー！！[NL]ほんまる「やばいぞ なんか おこってるみたいだ…[33][3F]",
+                "TextTranslation": "Waseda: Why must I stand[NL]here all alone in a place[NL]like this?!![3C][3D]Honmaru: Uh oh, he looks[NL]pretty angry...[33][3F]",
+                "PointerAddress": "0x3E052"
+            },
+            {
+                "TextOriginal": "タル「ほんまる このやかんを つかえ！[NL]……せんせいの あたまに やかんをのせた！[NL]わせだ「お ほんまるくんか゜はい チェック！[33][3F]",
+                "TextTranslation": "Taru: Honmaru, use this[NL]kettle![3C][3D]...Placed the kettle on[NL]the teachers head![3C][3D]Waseda: Oh, Honmaru-kun.[NL]Okay, check![33][3F]",
+                "PointerAddress": "0x3E054"
+            },
+            {
+                "TextOriginal": "ほんまる「うちわかー！ ちょーどいいぜー！[NL]タル「これ かぜかぜうちわくん゜ これをあおげば[NL]ものすごいかぜで てきを ふっとばす！[33][3F]",
+                "TextTranslation": "Honmaru: A fan! Perfect[NL]timing![3C][3D]Taru: This is[NL]Kazekaze-uchiwa-kun.[3C][3D]If you fan it, it blows[NL]enemies away with a huge[NL]wind![33][3F]",
+                "PointerAddress": "0x3E056"
+            },
+            {
+                "TextOriginal": "ほんまる「で でたーーー！！[NL]タル「わーい！ おばけ おばけー！[33][3F]",
+                "TextTranslation": "Honmaru: I-It[NL]appeared---!! Taru: Yay![NL]A ghost! A ghost![33][3F]",
+                "PointerAddress": "0x3E058"
+            },
+            {
+                "TextOriginal": "じい「タルるくん よくきたねえ゜ きょうは[NL]たこやきのひで たべほうだいなんだよ゜[NL]タル「ほんと？ わーい！！[3C][3D]ほんまる「まてよー タルー！[33][3F]",
+                "TextTranslation": "Jii: Taruru-kun, welcome.[NL]Today is Takoyaki day,[NL]all you can eat.[3C][3D]Taru: Really? Yay!![NL]Honmaru: Wait for me,[NL]Taru![33][3F]",
+                "PointerAddress": "0x3E05A"
+            },
+            {
+                "TextOriginal": "ほんまる「よーし はらこを おどろかしてやるぜ！[NL]……ほんまるは ホルモンガーを のんだ[NL]タル「ほんまる おんなになった！[3C][3D][31]まるえ「こんにちは あたし まるえっていうの゜[NL]そこを とおして いただけないかしら？[NL]はらこ「これは しつれい゜ さあ どうぞ…[33][3F]",
+                "TextTranslation": "Honmaru: Okay, I will[NL]surprise Harako![NL]...Honmaru drank[3C][3D]Horumongaa![3C][3D]Taru: Honmaru turned into[NL]a girl![3C][3D][31]Marue: Hello, my name is[NL]Marue. Could you let me[NL]pass?[3C][3D]Harako: Oh, excuse me. Go[NL]ahead...[33][3F]",
+                "PointerAddress": "0x3E05C"
+            },
+            {
+                "TextOriginal": "はらこ「のこのこ やしきにくるとは [69]カなやつだ[NL]いよなさんは おまえには わたさん！[33][3F]",
+                "TextTranslation": "Harako: Coming to my[NL]mansion so casually...[NL]You fool,[3C][3D]I won give Iyona-san to[NL]you![33][3F]",
+                "PointerAddress": "0x3E05E"
+            },
+            {
+                "TextOriginal": "タル「あっ ぶんしんライトくん みつけた！[NL]これつかうと ぶんしんできる！！[NL]ほんまる「べんりな アイテムたぜー！[33][3F]",
+                "TextTranslation": "Taru: Ah, I found[NL]Bunshin-light-kun! If you[NL]use this, you can clone[3C][3D]yourself!![3C][3D]Honmaru: What a[NL]convenient item![33][3F]",
+                "PointerAddress": "0x3E060"
+            },
+            {
+                "TextOriginal": "ほんまる「おっ ジュースだ゜[NL]タル「ちがう゜ それホルモンガー゜のむと ほんまる[NL]おんなになる゜[33][3F]",
+                "TextTranslation": "Honmaru: Oh, juice. Taru:[NL]No. Thats Horumongaa.[3C][3D]If you drink it, Honmaru[NL]will turn into a girl.[33][3F]",
+                "PointerAddress": "0x3E062"
+            },
+            {
+                "TextOriginal": "はらこ「さっきはよくも このオレを だましたなっ！[NL]ほんまる「いよなちゃんを かえしてもらうぞ！[NL]タル「いよな かえせー！！[33][3F]",
+                "TextTranslation": "Harako: How dare you[NL]trick me earlier![3C][3D]Honmaru: Give Iyona-chan[NL]back![3C][3D]Taru: Give Iyona back!![33][3F]",
+                "PointerAddress": "0x3E064"
+            },
+            {
+                "TextOriginal": "じい「タルるくん きょうも たこやきのひだよ…[NL]タル「わーい！！[NL]ほんまる「タ タルー！[33][3F]",
+                "TextTranslation": "Jii: Taruru-kun, today is[NL]Takoyaki day again...[3C][3D]Taru: Yay!! Honmaru: Ta,[NL]Taru![33][3F]",
+                "PointerAddress": "0x3E066"
+            },
+            {
+                "TextOriginal": "ほんまる「やったぜー！ ほんものの ピレゼントを[NL]はっけんしたぜー！[NL]タル「ほんまる はやく いよなんちに いこー！！[33][3F]",
+                "TextTranslation": "Honmaru: Yes! I found the[NL]real present![3C][3D]Taru: Honmaru, lets hurry[NL]to Iyonas house!![33][3F]",
+                "PointerAddress": "0x3E068"
+            },
+            {
+                "TextOriginal": "タル「わーい！ たこやきが いっぱいあるぞ！！[NL]ほんまる「タルー！ はやく いこーぜ！[33][3F]",
+                "TextTranslation": "Taru: Yay! There is lots[NL]of Takoyaki!! Honmaru:[NL]Taru! Lets hurry!![33][3F]",
+                "PointerAddress": "0x3E06A"
+            },
+            {
+                "TextOriginal": "ほんまる「いよなちゃん たんじょうびおめでとう！[NL]タル「いよなー おめでとー！！[NL]いよな「ありがとう ほんまるくん タルちゃん！[3C][3D]いよな「さあどうぞ゜ボーティーを はじめましょ！[33][3F]",
+                "TextTranslation": "Honmaru: Iyona-chan,[NL]happy birthday! Taru:[NL]Iyona, happy birthday!![3C][3D]Iyona: Thank you,[NL]Honmaru-kun, Taru-chan![3C][3D]Iyona: Please come in.[NL]Lets start the party![33][3F]",
+                "PointerAddress": "0x3E06C"
+            },
+            {
+                "TextOriginal": "ほんまる「だめだー！ まだ ピレゼントを ようい[NL]してないぜー！！[NL]タル「ほんまる はやく さがそう！[33][3F]",
+                "TextTranslation": "Honmaru: Oh no! I haven[NL]prepared a present yet!![3C][3D]Taru: Honmaru, lets hurry[NL]and look![33][3F]",
+                "PointerAddress": "0x3E06E"
+            },
+            {
+                "TextOriginal": "タル「いよな つかまえたぞー！[NL]いよな「きゃっ タルちゃん くすぐったいわ！[NL]ほんまる「タ タルー！ ずるいぜー！！[33][3F]",
+                "TextTranslation": "Taru: I caught Iyona![NL]Iyona: Eek, Taru-chan,[NL]that tickles![3C][3D]Honmaru: Ta, Taru! That[NL]is not fair!![33][3F]",
+                "PointerAddress": "0x3E070"
+            },
+            {
+                "TextOriginal": "おおあや「ほんまるくん タルちゃん ゴールね！[NL]あら？ ほんまるくん どうしたの？[NL]ほんまる「や やっと た たどりついたかあ……[33][3F]",
+                "TextTranslation": "Ooaya: Honmaru-kun,[NL]Taru-chan, goal! Oh?[NL]Honmaru-kun, whats wrong?[3C][3D]Honmaru: I, I finally[NL]made it...[33][3F]",
+                "PointerAddress": "0x3E072"
+            },
+            {
+                "TextOriginal": "ほんまる「いよなちゃん！ ぶじかー！！[NL]いよな「ほんまるくん！ たすけにきてくれたのね！[NL]タル「おう！ オレたち いよな たすけにきた！[33][3F]",
+                "TextTranslation": "Honmaru: Iyona-chan! Are[NL]you safe?![3C][3D]Iyona: Honmaru-kun! You[NL]came to save me![3C][3D]Taru: Yeah! We came to[NL]save Iyona![33][3F]",
+                "PointerAddress": "0x3E074"
+            },
+            {
+                "TextOriginal": "タル「まっつぁん もうかりまっかー！[NL]ほんまる「まっつぁんのたこやきが くいたいぜー！[NL]まつごろう「ようきたのー ちび゜[3C][3D]まつごろう「しゃーないなー！ もってけやワレー！[NL]こら ごっつう サーバスやでー！！[NL]タル「わーい！！[33][3F]",
+                "TextTranslation": "Taru: Mattsan, how is[NL]business?[3C][3D]Honmaru: I want to eat[NL]Mattsans Takoyaki![3C][3D]Matsugorou: Welcome,[NL]squirts. Can be helped![NL]Take em![3C][3D]This is a huge service!![NL]Taru: Yay!![33][3F]",
+                "PointerAddress": "0x3E076"
+            }
+        ]
+    }
+]
