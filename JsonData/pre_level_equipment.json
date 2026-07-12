@@ -1,7 +1,7 @@
 [
     {
         "Config": {
-            "TextOffset": "0x3AC3A",
+            "TextOffset": "0x3AC88",
             "PointerBase": "0x3AC10",
             "MaxSize": 3070
         },
@@ -110,6 +110,201 @@
                 "TextOriginal": "それは もうえらんでいるよ！[3F]",
                 "TextTranslation": "You already chose that![3F]",
                 "PointerAddress": "0x3AC38"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC3A"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC3C"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC3E"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC40"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC42"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC44"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC46"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC48"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC4A"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC4C"
+            },
+            {
+                "TextOriginal": "",
+                "TextTranslation": "",
+                "PointerAddress": "0x3AC4E"
+            },
+            {
+                "TextOriginal": "リフトのうごきにきをつけてね！[0x33][3F]",
+                "TextTranslation": "リフトのうごきにきをつけてね！[0x33][3F]",
+                "PointerAddress": "0x3AC50"
+            },
+            {
+                "TextOriginal": "ゆきであしもとがすべるからきをつけてね！[3F]",
+                "TextTranslation": "ゆきであしもとがすべるからきをつけてね！[3F]",
+                "PointerAddress": "0x3AC52"
+            },
+            {
+                "TextOriginal": "あわてないでかくじつにすすめばだいじょうぶ！[3F]",
+                "TextTranslation": "あわてないでかくじつにすすめばだいじょうぶ！[3F]",
+                "PointerAddress": "0x3AC54"
+            },
+            {
+                "TextOriginal": "とくにむずかしくないとおもうわ！[3F]",
+                "TextTranslation": "とくにむずかしくないとおもうわ！[3F]",
+                "PointerAddress": "0x3AC56"
+            },
+            {
+                "TextOriginal": "じかんにちゅういしてね！[0x33][3F]",
+                "TextTranslation": "じかんにちゅういしてね！[0x33][3F]",
+                "PointerAddress": "0x3AC58"
+            },
+            {
+                "TextOriginal": "おちついてすすんでね！[0x33][3F]",
+                "TextTranslation": "おちついてすすんでね！[0x33][3F]",
+                "PointerAddress": "0x3AC5A"
+            },
+            {
+                "TextOriginal": "がんばってね！[0x33][3F]",
+                "TextTranslation": "がんばってね！[0x33][3F]",
+                "PointerAddress": "0x3AC5C"
+            },
+            {
+                "TextOriginal": "きをつけてね！[0x33][3F]",
+                "TextTranslation": "きをつけてね！[0x33][3F]",
+                "PointerAddress": "0x3AC5E"
+            },
+            {
+                "TextOriginal": "あしもとにちゅういしてすすんでね！[0x33][3F]",
+                "TextTranslation": "あしもとにちゅういしてすすんでね！[0x33][3F]",
+                "PointerAddress": "0x3AC60"
+            },
+            {
+                "TextOriginal": "このステージのどこかにベーナスルームがあるわ！[3F]",
+                "TextTranslation": "このステージのどこかにベーナスルームがあるわ！[3F]",
+                "PointerAddress": "0x3AC62"
+            },
+            {
+                "TextOriginal": "あんまりのんびりしているとじかんぎれに[NL]なってしまうかもしれないわ！[3F]",
+                "TextTranslation": "あんまりのんびりしているとじかんぎれに[NL]なってしまうかもしれないわ！[3F]",
+                "PointerAddress": "0x3AC64"
+            },
+            {
+                "TextOriginal": "たこやきがどっさりのステージよ！[3F]",
+                "TextTranslation": "たこやきがどっさりのステージよ！[3F]",
+                "PointerAddress": "0x3AC66"
+            },
+            {
+                "TextOriginal": "きくんだぁをつかうとらくにすすめるとおもうわ゜[3F]",
+                "TextTranslation": "きくんだぁをつかうとらくにすすめるとおもうわ゜[3F]",
+                "PointerAddress": "0x3AC68"
+            },
+            {
+                "TextOriginal": "ぶんしんライトくんをつかうとらくにすすめると[NL]おもうわ゜[3F]",
+                "TextTranslation": "ぶんしんライトくんをつかうとらくにすすめると[NL]おもうわ゜[3F]",
+                "PointerAddress": "0x3AC6A"
+            },
+            {
+                "TextOriginal": "いんりょくんをうまくつかってすすんでね！[3F]",
+                "TextTranslation": "いんりょくんをうまくつかってすすんでね！[3F]",
+                "PointerAddress": "0x3AC6C"
+            },
+            {
+                "TextOriginal": "まほうをじょうずにつかいわけてすすむのよ！[3F]",
+                "TextTranslation": "まほうをじょうずにつかいわけてすすむのよ！[3F]",
+                "PointerAddress": "0x3AC6E"
+            },
+            {
+                "TextOriginal": "せきりょくんをつかうとあんしんして[NL]すすめるとおもうわ゜[3F]",
+                "TextTranslation": "せきりょくんをつかうとあんしんして[NL]すすめるとおもうわ゜[3F]",
+                "PointerAddress": "0x3AC70"
+            },
+            {
+                "TextOriginal": "あまぐもたろうでひをけしてしまえば[NL]らくちんよ゜[3F]",
+                "TextTranslation": "あまぐもたろうでひをけしてしまえば[NL]らくちんよ゜[3F]",
+                "PointerAddress": "0x3AC72"
+            },
+            {
+                "TextOriginal": "かぜかぜうちわくんでてきをふきとばすといいわ！[3F]",
+                "TextTranslation": "かぜかぜうちわくんでてきをふきとばすといいわ！[3F]",
+                "PointerAddress": "0x3AC74"
+            },
+            {
+                "TextOriginal": "みエッチんをつかうとらくにすすめるはずよ゜[3F]",
+                "TextTranslation": "みエッチんをつかうとらくにすすめるはずよ゜[3F]",
+                "PointerAddress": "0x3AC76"
+            },
+            {
+                "TextOriginal": "イキフキカエルをつかったほうがいいとおもうわ゜[3F]",
+                "TextTranslation": "イキフキカエルをつかったほうがいいとおもうわ゜[3F]",
+                "PointerAddress": "0x3AC78"
+            },
+            {
+                "TextOriginal": "どこかにあるむてきたこやきをうまくつかってね゜[3F]",
+                "TextTranslation": "どこかにあるむてきたこやきをうまくつかってね゜[3F]",
+                "PointerAddress": "0x3AC7A"
+            },
+            {
+                "TextOriginal": "いだてんそくんをつかうといいかもしれないわ！[3F]",
+                "TextTranslation": "いだてんそくんをつかうといいかもしれないわ！[3F]",
+                "PointerAddress": "0x3AC7C"
+            },
+            {
+                "TextOriginal": "ボワーアッピルジュースをつかうと[NL]いいかもしれないわ！[3F]",
+                "TextTranslation": "ボワーアッピルジュースをつかうと[NL]いいかもしれないわ！[3F]",
+                "PointerAddress": "0x3AC7E"
+            },
+            {
+                "TextOriginal": "もうひといきよ！がんばってね！[0x33][3F]",
+                "TextTranslation": "もうひといきよ！がんばってね！[0x33][3F]",
+                "PointerAddress": "0x3AC80"
+            },
+            {
+                "TextOriginal": "あとはんぶんよおちついてすすんでね！[0x33][3F]",
+                "TextTranslation": "あとはんぶんよおちついてすすんでね！[0x33][3F]",
+                "PointerAddress": "0x3AC82"
+            },
+            {
+                "TextOriginal": "それをもうひとつ[3F]",
+                "TextTranslation": "それをもうひとつ[3F]",
+                "PointerAddress": "0x3AC84"
+            },
+            {
+                "TextOriginal": "このステージできっといいことがあるわ！[3F]",
+                "TextTranslation": "このステージできっといいことがあるわ！[3F]",
+                "PointerAddress": "0x3AC86"
             }
         ]
     }
