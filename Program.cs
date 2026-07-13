@@ -59,6 +59,7 @@ else
 
     // Expand chr rom
     rom.ExpandChrRom(32);
+    rom.ExpandPrgRom();
 
     // Apply fixed and static text patches
     rom.PatchFixedLengthText(charDataPath, parser80);

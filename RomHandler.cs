@@ -34,9 +34,18 @@ namespace TaruruutoCLI
             byte[] newRom = new byte[16 + currentPrgSize + (extraBlocks * 16384) + currentChrSize];
 
             Array.Copy(romData, 0, newRom, 0, 16);
-            Array.Copy(romData, 16, newRom, 16, currentPrgSize - 16384);
-            for (int i = 0; i < extraBlocks * 16384; i++) newRom[16 + currentPrgSize - 16384 + i] = 0xFF;
-            Array.Copy(romData, 16 + currentPrgSize - 16384, newRom, 16 + currentPrgSize - 16384 + (extraBlocks * 16384), 16384);
+            
+            // 1. Copy the entire original PRG ROM (e.g. Banks 0-7)
+            Array.Copy(romData, 16, newRom, 16, currentPrgSize);
+            
+            // 2. Fill the new gap (e.g. Banks 8-14) with 0xFF
+            for (int i = 0; i < (extraBlocks - 1) * 16384; i++) 
+                newRom[16 + currentPrgSize + i] = 0xFF;
+                
+            // 3. Duplicate the original last bank (e.g. Bank 7) to the very end (Bank 15)
+            Array.Copy(romData, 16 + currentPrgSize - 16384, newRom, 16 + currentPrgSize + ((extraBlocks - 1) * 16384), 16384);
+            
+            // 4. Copy CHR ROM
             Array.Copy(romData, 16 + currentPrgSize, newRom, 16 + currentPrgSize + (extraBlocks * 16384), currentChrSize);
 
             newRom[4] = (byte)(currentPrgBlocks + extraBlocks);
