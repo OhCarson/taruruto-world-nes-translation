@@ -21,6 +21,7 @@ namespace TaruruutoCLI
         public int MaxSize { get; set; }
         public string PrgPointerOffset { get; set; }
         public int TargetChrBank { get; set; }
+        public string TerminatorByte { get; set; }
     }
 
     public class DynamicTextEntry

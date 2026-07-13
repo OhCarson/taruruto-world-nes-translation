@@ -262,6 +262,13 @@ namespace TaruruutoCLI
             {
                 int pointerBase = Convert.ToInt32(group.Config.PointerBase, 16);
                 
+                // Determine the terminator byte, defaulting to 0x3F
+                byte terminatorByte = 0x3F;
+                if (!string.IsNullOrEmpty(group.Config.TerminatorByte))
+                {
+                    terminatorByte = Convert.ToByte(group.Config.TerminatorByte, 16);
+                }
+
                 // Track duplicate pointers to support empty dummy strings
                 Dictionary<int, string> ptrToText = new Dictionary<int, string>();
                 
@@ -285,9 +292,9 @@ namespace TaruruutoCLI
                     while (currentOffset < romData.Length)
                     {
                         byte b = romData[currentOffset];
-                        if (b == 0x3F)
+                        if (b == terminatorByte)
                         {
-                            extracted += "[3F]";
+                            extracted += $"[{b:X2}]";
                             break;
                         }
                         
