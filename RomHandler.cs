@@ -84,6 +84,20 @@ namespace TaruruutoCLI
             return extracted;
         }
 
+        private int GetActualOffset(int originalOffset)
+        {
+            int currentPrgBlocks = romData[4];
+            if (currentPrgBlocks <= 8) return originalOffset;
+
+            int shiftThreshold = 16 + (7 * 16384); // 0x1C010
+            if (originalOffset >= shiftThreshold)
+            {
+                int shiftAmount = (currentPrgBlocks - 8) * 16384;
+                return originalOffset + shiftAmount;
+            }
+            return originalOffset;
+        }
+
         public void SaveRom(string filename)
         {
             File.WriteAllBytes(filename, this.romData);
@@ -176,6 +190,7 @@ namespace TaruruutoCLI
             {
                 if (string.IsNullOrEmpty(entry.Address)) continue;
                 int currentOffset = Convert.ToInt32(entry.Address, 16);
+                currentOffset = GetActualOffset(currentOffset);
                 List<byte> encoded = EncodeString(entry.TextTranslation, parser);
 
                 if (entry.MaxLength > 0)
@@ -242,6 +257,7 @@ namespace TaruruutoCLI
             {
                 if (string.IsNullOrEmpty(entry.Address) || entry.MaxLength <= 0) continue;
                 int currentOffset = Convert.ToInt32(entry.Address, 16);
+                currentOffset = GetActualOffset(currentOffset);
                 
                 string extracted = "";
                 for (int i = 0; i < entry.MaxLength; i++)

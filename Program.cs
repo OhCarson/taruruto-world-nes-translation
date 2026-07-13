@@ -61,6 +61,7 @@ else
     rom.ExpandChrRom(32);
     rom.ExpandPrgRom();
 
+
     // Apply fixed and static text patches
     rom.PatchFixedLengthText(charDataPath, parser80);
     rom.PatchFixedLengthText(itemsPath, parser80);
@@ -74,7 +75,6 @@ else
 
     // Compile script
     rom.CompileScript(cutscenePath, parser80);
-
     // Hardcoded output file name
     string outputPath = "mtk-eng-full.nes";
     rom.SaveRom(outputPath);
