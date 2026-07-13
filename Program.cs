@@ -64,6 +64,7 @@ else
 
     // Apply fixed and static text patches
     rom.PatchFixedLengthText(charDataPath, parser80);
+
     rom.PatchFixedLengthText(itemsPath, parser80);
     rom.PatchFixedLengthText(menusPath, parser80);
 
@@ -72,7 +73,6 @@ else
     rom.PatchTextWithPointers(shopTextPath, parser80, false);
     rom.PatchTextWithPointers(fileMenuPath, parser80, false);
     rom.PatchTextWithPointers(preLevelEquipPath, parser80, true);
-
     // Compile script
     rom.CompileScript(cutscenePath, parser80);
     // Hardcoded output file name

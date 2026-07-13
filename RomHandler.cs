@@ -112,9 +112,10 @@ namespace TaruruutoCLI
             foreach (var scene in scenes)
             {
                 int prgPointerOffset = Convert.ToInt32(scene.Config.PrgPointerOffset, 16);
+                prgPointerOffset = GetActualOffset(prgPointerOffset);
                 romData[prgPointerOffset] = (byte)scene.Config.TargetChrBank;
 
-                int newBankOffset = 16 + (this.originalPrgBlocks * 16384) + (scene.Config.TargetChrBank * 1024);
+                int newBankOffset = 16 + (romData[4] * 16384) + (scene.Config.TargetChrBank * 1024);
                 int currentOffset = newBankOffset + (scene.Entries.Count * 2);
 
                 for (int i = 0; i < scene.Entries.Count; i++)
@@ -146,7 +147,11 @@ namespace TaruruutoCLI
             foreach (var group in groups)
             {
                 int currentTextOffset = Convert.ToInt32(group.Config.TextOffset, 16);
+                currentTextOffset = GetActualOffset(currentTextOffset);
+                
                 int pointerBase = Convert.ToInt32(group.Config.PointerBase, 16);
+                pointerBase = GetActualOffset(pointerBase);
+                
                 int maxSize = group.Config.MaxSize;
                 int startTextOffset = currentTextOffset;
 
@@ -155,6 +160,8 @@ namespace TaruruutoCLI
                 foreach (var entry in group.Entries)
                 {
                     int pointerAddress = Convert.ToInt32(entry.PointerAddress, 16);
+                    pointerAddress = GetActualOffset(pointerAddress);
+                    
                     if (deduplicate && stringToOffset.ContainsKey(entry.TextTranslation))
                     {
                         int ptrValue = stringToOffset[entry.TextTranslation] - pointerBase;
@@ -286,6 +293,7 @@ namespace TaruruutoCLI
             foreach (var group in groups)
             {
                 int pointerBase = Convert.ToInt32(group.Config.PointerBase, 16);
+                pointerBase = GetActualOffset(pointerBase);
                 
                 // Determine the terminator byte, defaulting to 0x3F
                 byte terminatorByte = 0x3F;
@@ -302,6 +310,8 @@ namespace TaruruutoCLI
                     if (string.IsNullOrEmpty(entry.PointerAddress)) continue;
                     
                     int pointerAddress = Convert.ToInt32(entry.PointerAddress, 16);
+                    pointerAddress = GetActualOffset(pointerAddress);
+                    
                     int ptrValue = romData[pointerAddress] | (romData[pointerAddress + 1] << 8);
                     int textOffset = pointerBase + ptrValue;
                     
