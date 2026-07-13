@@ -3,102 +3,102 @@
         "TextOriginal": "つづきから[3F]",
         "TextTranslation": "CONT.[3F]",
         "MaxLength": 0,
-        "Address": "0x12024"
+        "Address": "0x18024"
     },
     {
         "TextOriginal": "はじめから[3F]",
         "TextTranslation": "START[3F]",
         "MaxLength": 0,
-        "Address": "0x1202A"
+        "Address": "0x1802A"
     },
     {
         "TextOriginal": "ファイルうつす[3F]",
         "TextTranslation": "COPY[3F]",
         "MaxLength": 0,
-        "Address": "0x12030"
+        "Address": "0x18030"
     },
     {
         "TextOriginal": "ファイルけす[3F]",
         "TextTranslation": "ERASE[3F]",
         "MaxLength": 0,
-        "Address": "0x12038"
+        "Address": "0x18038"
     },
     {
         "TextOriginal": "タルずかん[3F]",
         "TextTranslation": "EXTRA[3F]",
         "MaxLength": 0,
-        "Address": "0x1203F"
+        "Address": "0x1803F"
     },
     {
         "TextOriginal": "ゲーム1・[3F]",
         "TextTranslation": "FILE1[3F]",
         "MaxLength": 0,
-        "Address": "0x12045"
+        "Address": "0x18045"
     },
     {
         "TextOriginal": "ゲーム2・[3F]",
         "TextTranslation": "FILE2[3F]",
         "MaxLength": 0,
-        "Address": "0x1204B"
+        "Address": "0x1804B"
     },
     {
         "TextOriginal": "つぎをみる[3F]",
         "TextTranslation": "NEXT[3F]",
         "MaxLength": 0,
-        "Address": "0x120A1"
+        "Address": "0x180A1"
     },
     {
         "TextOriginal": "じんぶつへんをみる[3F]",
         "TextTranslation": "CHARACTR[3F]",
         "MaxLength": 0,
-        "Address": "0x120A7"
+        "Address": "0x180A7"
     },
     {
         "TextOriginal": "どうぐへんをみる[3F]",
         "TextTranslation": "ITEM[3F]",
         "MaxLength": 0,
-        "Address": "0x120B1"
+        "Address": "0x180B1"
     },
     {
         "TextOriginal": "わる[3F]",
         "TextTranslation": "END[3F]",
         "MaxLength": 0,
-        "Address": "0x120BB"
+        "Address": "0x180BB"
     },
     {
         "TextOriginal": "アイテムかう  ためとく[3F]",
         "TextTranslation": "Buy   ",
         "MaxLength": 0,
-        "Address": "1216B"
+        "Address": "0x1816B"
     },
     {
         "TextOriginal": "ためとく[3F]",
         "TextTranslation": "Keep",
         "MaxLength": 0,
-        "Address": "12173"
+        "Address": "0x18173"
     },
     {
         "TextOriginal": "つかう  やめる[3F]",
         "TextTranslation": "Use",
         "MaxLength": 0,
-        "Address": "12123"
+        "Address": "0x18123"
     },
     {
         "TextOriginal": "やめる[3F]",
         "TextTranslation": "End",
         "MaxLength": 0,
-        "Address": "12128"
+        "Address": "0x18128"
     },
     {
         "TextOriginal": "やる  やめとく[3F]",
         "TextTranslation": "Go",
         "MaxLength": 0,
-        "Address": "12178"
+        "Address": "0x18178"
     },
     {
         "TextOriginal": "やめとく[3F]",
         "TextTranslation": "Stop",
         "MaxLength": 0,
-        "Address": "1217C"
+        "Address": "0x1817C"
     }
 ]

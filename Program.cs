@@ -57,9 +57,14 @@ else
     Console.WriteLine("Running in COMPILATION mode...");
     RomHandler rom = new RomHandler(romPath);
 
-    // Expand chr rom
-    rom.ExpandChrRom(32);
+    // Expand chr rom (16 blocks = 128KB, bringing total CHR to 256KB)
+    rom.ExpandChrRom(16);
     rom.ExpandPrgRom();
+
+    // Apply ASM patches to redirect bank loads
+    rom.romData[0x17B6A + 1] = 0x80; // Map text bank load -> Bank 128
+    rom.romData[0x17C44 + 1] = 0x80; // Map text bank load -> Bank 128
+    rom.romData[0x1A7D + 1]  = 0x88; // Fixed-length text bank load -> Bank 136
 
 
     // Apply fixed and static text patches

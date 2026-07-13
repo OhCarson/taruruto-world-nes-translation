@@ -3,216 +3,216 @@
         "TextOriginal": "いつでも どこでも よべばあらわれる あまぐも゜[NL]かじのときなど あっというまに けしてくれる゜[NL]らいうんたろうなど なかまが3・4にんいる゜[3F]",
         "TextTranslation": "Calls a raincloud to[NL]put out fires. Has[NL]friends like Raizou.[3F]",
         "MaxLength": 72,
-        "Address": "0x3c050"
+        "Address": "0x42050"
     },
     {
         "TextOriginal": "このカエルのいきをすうと いきをふきかえすという[NL]きゅうきゅういりょうガエル゜ちょっと げひん゜[NL]りあねーちゃんが もっている゜[3F]",
         "TextTranslation": "Medical frog. Its breath[NL]revives you, but its[NL]vulgar.[3F]",
         "MaxLength": 65,
-        "Address": "0x3c098"
+        "Address": "0x42098"
     },
     {
         "TextOriginal": "はくと ものすごいスパードで とんだり はねたり[NL]できる ちょっと きゅうくつな くつ゜[NL]ずっとはいていると あしが ちいさくなっちゃう？[3F]",
         "TextTranslation": "Fast jumping shoes.[NL]Wearing them too long[NL]shrinks your feet.[3F]",
         "MaxLength": 70,
-        "Address": "0x3c0d9"
+        "Address": "0x420D9"
     },
     {
         "TextOriginal": "めいじたものを なんでも ひきつけてしまうたま゜[NL]たる！という じゅもんで せきりょくんにもなる゜[NL]タルのアイテムのなかでも りようかちが たかい゜[3F]",
         "TextTranslation": "Ball that attracts[NL]things. Say TARU! to[NL]turn it to Repel-kun.[3F]",
         "MaxLength": 75,
-        "Address": "0x3c11f"
+        "Address": "0x4211F"
     },
     {
         "TextOriginal": "これを あたまにのせて わるいことをすると[NL]ほめられてしまうという ラッキーなアイテム゜[NL]ただし よいことをすると おこられてしまう…[3F]",
         "TextTranslation": "Worn on head. Praised[NL]for bad deeds, scolded[NL]for good deeds.[3F]",
         "MaxLength": 68,
-        "Address": "0x3c16a"
+        "Address": "0x4216A"
     },
     {
         "TextOriginal": "ほんまるの とーちゃんが つくった えほん゜[NL]ちょっと きがよわい ゆうしゃの おはなし゜[NL]タイトルめいは どべるくの ぼうけん[3F]",
         "TextTranslation": "Dads picture book about[NL]a timid hero.[NL][3F]",
         "MaxLength": 65,
-        "Address": "0x3c1ae"
+        "Address": "0x421AE"
     },
     {
         "TextOriginal": "いろいろなかぜを おこすことができる うちわ゜[NL]ものなどを ふきとばすことにも つかえる゜[NL]あまり おもいものは とばないことも あるかも…[3F]",
         "TextTranslation": "Fan that creates winds[NL]to blow things away.[NL]Fails on heavy stuff.[3F]",
         "MaxLength": 71,
-        "Address": "0x3c1ef"
+        "Address": "0x421EF"
     },
     {
         "TextOriginal": "おこったひとの あたまのうえにのせると おゆが[NL]わいて おこったひとの いかりが おさまるという[NL]とても へいわなアイテム゜[3F]",
         "TextTranslation": "Boils water on an angry[NL]persons head.[NL][3F]",
         "MaxLength": 63,
-        "Address": "0x3c236"
+        "Address": "0x42236"
     },
     {
         "TextOriginal": "こえを おおきくして ビキにしたり ひとのかんが[NL]えを きくこともできる゜ たる！という じゅもん[NL]で きくきくん という アイテムにへんしんする゜[3F]",
         "TextTranslation": "Amplifies voice, hears[NL]thoughts. Say TARU! to[NL]become Listen-kun.[3F]",
         "MaxLength": 75,
-        "Address": "0x3c275"
+        "Address": "0x42275"
     },
     {
         "TextOriginal": "たべると ぜんぜん およげないひとでも クロール[NL]を およげるように てとりあしとり コーチしてく[NL]れる たのもしいケーキ゜ とっても おいしい゜[3F]",
         "TextTranslation": "Cake that coaches poor[NL]swimmers to swim well.[NL][3F]",
         "MaxLength": 74,
-        "Address": "0x3c2c0"
+        "Address": "0x422C0"
     },
     {
         "TextOriginal": "こぶをとったり くっつけたりできるアイテム゜[NL]こぶとりじーさんに でてくるオニも じつは この[NL]こぶとりくんを つかったそうである゜[3F]",
         "TextTranslation": "Removes/adds lumps. The[NL]demon in Kobutori Jiisan[NL]used this.[3F]",
         "MaxLength": 67,
-        "Address": "0x3c30a"
+        "Address": "0x4230A"
     },
     {
         "TextOriginal": "このシールを あたまにはると ねんが つよくなり[NL]こころにおもったことが かなう゜でも ひとを[NL]うらんだりすると あとで じぶんにかえってくる゜[3F]",
         "TextTranslation": "Sticker grants wishes[NL]via mental power.[NL][3F]",
         "MaxLength": 73,
-        "Address": "0x3c34d"
+        "Address": "0x4234D"
     },
     {
         "TextOriginal": "これをくびにつけると いったことが げんじつに[NL]なる゜ ただし つかいかたに ちゅういしないと[NL]たいへんなめにあう じつは むなしいアイテム゜[3F]",
         "TextTranslation": "Wearing this makes words[NL]come true. Vain item can[NL]cause disaster.[3F]",
         "MaxLength": 72,
-        "Address": "0x3c396"
+        "Address": "0x42396"
     },
     {
         "TextOriginal": "しょうじきだと ボッと はながさき うそをつくと[NL]かれてしまう へんなき゜ どんなにうまく うそを[NL]ついても たちまち みやぶってしまう゜[3F]",
         "TextTranslation": "Tree blooms for truth,[NL]withers for lies.[NL][3F]",
         "MaxLength": 70,
-        "Address": "0x3c3de"
+        "Address": "0x423DE"
     },
     {
         "TextOriginal": "めいじたものを なんでも はねのけてしまうたま゜[NL]たる！という じゅもんで いんりょくんにもなる゜[NL]いんりょくんよりは あまり つかわれていない゜[3F]",
         "TextTranslation": "Ball that repels things.[NL]Say TARU! to become[NL]Attract-kun. Rare.[3F]",
         "MaxLength": 74,
-        "Address": "0x3c424"
+        "Address": "0x42424"
     },
     {
         "TextOriginal": "これをつけると あいてのわるいところが よくみえ[NL]わるぐちが たくさんでてくる あくまのようなアイ[NL]テム゜ ぎゃくにつけると ほめことばがでてくる゜[3F]",
         "TextTranslation": "Devil item shows flaws,[NL]causes insults. Wear[NL]backward for praise.[3F]",
         "MaxLength": 75,
-        "Address": "0x3c46e"
+        "Address": "0x4246E"
     },
     {
         "TextOriginal": "じかんをとめる゜ものにいのちをあたえる゜きる゜[NL]けす゜[69]ラのくきで てきをしばる [69]ラしばり゜[NL]など いろいろつかえる ちょうべんりアイテム！[3F]",
         "TextTranslation": "Stops time. Gives life.[NL]Cuts. Erases.[NL][3F]",
         "MaxLength": 72,
-        "Address": "0x3c4b9"
+        "Address": "0x424B9"
     },
     {
         "TextOriginal": "ほんまるが どんなに パンチのときでも つい[NL]ふらふらっと つられてしまうほどの タルるートの[NL]だいこうぶつ゜[3F]",
         "TextTranslation": "Taruruutos favorite[NL]food. Honmaru is sick of[NL]it.[3F]",
         "MaxLength": 56,
-        "Address": "0x3c501"
+        "Address": "0x42501"
     },
     {
         "TextOriginal": "とっても ものしりで せんりがん゜いろんなものを[NL]みせてくれたり おしえてくれる゜でも ずるをする[NL]と こうせんで おしおきされてしまう゜[3F]",
         "TextTranslation": "Clairvoyant. Teaches[NL]things. Punishes liars.[NL][3F]",
         "MaxLength": 70,
-        "Address": "0x3c539"
+        "Address": "0x42539"
     },
     {
         "TextOriginal": "タルるートのマント゜ そらをとぶとき マントが[NL]へんけいして つばさになり おおぞらを じゆうに[NL]とびまわれるようになる゜[3F]",
         "TextTranslation": "Taruruutos cape. Turns[NL]into wings, shield, etc.[NL][3F]",
         "MaxLength": 62,
-        "Address": "0x3c57f"
+        "Address": "0x4257F"
     },
     {
         "TextOriginal": "ちえと ゆうきが ボワーアッピするという リンゴ[NL]あじのジュース゜ からだが ベロベロのときは[NL]げんきになることができる゜[3F]",
         "TextTranslation": "Apple juice boosts[NL]wisdom and courage.[NL][3F]",
         "MaxLength": 62,
-        "Address": "0x3c5bd"
+        "Address": "0x425BD"
     },
     {
         "TextOriginal": "これをもって おねがいすると そのほんのなかに[NL]はいることができる゜ただし なくしたりすると[NL]もどれなくなってしまうので ちゅうい゜[3F]",
         "TextTranslation": "Enter a book by holding[NL]it and wishing.[NL][3F]",
         "MaxLength": 67,
-        "Address": "0x3c5fb"
+        "Address": "0x425FB"
     },
     {
         "TextOriginal": "これをつけると もっているひとのすがたを べつの[NL]ものに うつしだし じぶんの みがわりにすること[NL]ができる゜[3F]",
         "TextTranslation": "Projects users image[NL]to another object.[NL][3F]",
         "MaxLength": 56,
-        "Address": "0x3c63e"
+        "Address": "0x4263E"
     },
     {
         "TextOriginal": "これをのむと おとこは おんなになり おんなは[NL]おとこになってしまう゜ これを つかったあとは[NL]オカマっぽく ならないように きをつけよう゜[3F]",
         "TextTranslation": "Drink swaps genders.[NL]Careful not to act[NL]weird.[3F]",
         "MaxLength": 71,
-        "Address": "0x3c676"
+        "Address": "0x42676"
     },
     {
         "TextOriginal": "タルるートの かずかずの まほうのアイテムが[NL]はいっている ふしぎなかばん゜いくつのアイテムが[NL]はいっているのかは まったくのなぞである゜[3F]",
         "TextTranslation": "Bag with Taruruutos[NL]items. How many are in[NL]there?[3F]",
         "MaxLength": 70,
-        "Address": "0x3c6bd"
+        "Address": "0x426BD"
     },
     {
         "TextOriginal": "みるみる！という じゅもんで ものが すけて[NL]みえる ほんまるのだいすきなアイテム゜[NL]まじまじ！という じゅもんで もとにもどる゜[3F]",
         "TextTranslation": "Say MIRUMIRU! to see[NL]through things.[NL][3F]",
         "MaxLength": 66,
-        "Address": "0x3c703"
+        "Address": "0x42703"
     },
     {
         "TextOriginal": "めいじたものを やじるしのほうこうに まげること[NL]ができる゜みちしるべえ！とめいじると やじるしの[NL]ほうこうに じぶんが とんでいくこともできる゜[3F]",
         "TextTranslation": "Bends things in arrows[NL]direction. Say TARU! to[NL]turn to Straight-kun.[3F]",
         "MaxLength": 74,
-        "Address": "0x3c745"
+        "Address": "0x42745"
     },
     {
         "TextOriginal": "からだにつけて いきを ふきこむと きんにくが[NL]もりもり もりあがって すごいちからもちになる゜[NL]へろへろひんじゃくんなど ぎゃくアイテムもある゜[3F]",
         "TextTranslation": "Wear and blow to gain[NL]super strength.[NL][3F]",
         "MaxLength": 74,
-        "Address": "0x3c78f"
+        "Address": "0x4278F"
     },
     {
         "TextOriginal": "このやで あいてのハートを いると どんなに[NL]いじをはっていても すなおになっていまう゜[NL]よくにたアイテムに やあほれたくん がある゜[3F]",
         "TextTranslation": "Arrow makes anyone[NL]honest, even if[NL]stubborn.[3F]",
         "MaxLength": 68,
-        "Address": "0x3c7d9"
+        "Address": "0x427D9"
     },
     {
         "TextOriginal": "これをたべると ゆめのせかいに はいれる゜[NL]ただし ゆめのなかで ケガをすると ほんとうに[NL]ケガをしてしまう゜ふたりで どうじにもつかえる゜[3F]",
         "TextTranslation": "Eat to enter dreams.[NL]Injuries are real.[NL][3F]",
         "MaxLength": 71,
-        "Address": "0x3c81d"
+        "Address": "0x4281D"
     },
     {
         "TextOriginal": "かおじゃしんをはると しゃしんに うつっている[NL]ひとの こうどうを あやつることができる゜[NL]なかまのアイテムに わらわらら がある゜[3F]",
         "TextTranslation": "Paste face photo to[NL]control person.[NL][3F]",
         "MaxLength": 67,
-        "Address": "0x3c864"
+        "Address": "0x42864"
     },
     {
         "TextOriginal": "て[B0]もら みわままよ゜[NL]ぃりほまわ[B0]ひぁまわ[NL]よもゆま ひ みもんめ・                                [3F]",
         "TextTranslation": "Swim freely[NL]underwater[NL]like a fish.[3F]",
         "MaxLength": 68,
-        "Address": "0x3D556"
+        "Address": "0x43556"
     },
     {
         "TextOriginal": "とめもりゆ みひんぁ…[NL]ふぃぁ ぃんま ぁるる らぃへめ[NL]ひりほ ゜るぃ ーるりま るぃぁ・                          [3F]",
         "TextTranslation": "Think fast,[NL]but use too much[NL]and you zone out.[3F]",
         "MaxLength": 73,
-        "Address": "0x3D59A"
+        "Address": "0x4359A"
     },
     {
         "TextOriginal": "す゜んぁまわもるぃん[NL]ぁまひへめまわ [B0]める[NL]わひわまよ゜ ひれれまひわん・                                   [3F]",
         "TextTranslation": "Mysterious[NL]teacher who[NL]rarely appears.[3F]",
         "MaxLength": 74,
-        "Address": "0x3D5E3"
+        "Address": "0x435E3"
     },
     {
         "TextOriginal": "ぬひわれ ひり゜[B0]めまわま…[NL]ふぃぁ らひゆまん ゜るぃ[NL]みひわぁ・                                   [3F]",
         "TextTranslation": "Warp anywhere,[NL]but makes you[NL]fart.[3F]",
         "MaxLength": 70,
-        "Address": "0x3D62D"
+        "Address": "0x4362D"
     },
     {
         "TextOriginal": "・  [3F]",
         "TextTranslation": ".[3F]",
         "MaxLength": 4,
-        "Address": "0x3D673"
+        "Address": "0x43673"
     }
 ]
