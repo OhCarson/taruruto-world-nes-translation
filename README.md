@@ -8,7 +8,7 @@ At the moment the text stored in PRG rom is unexpanded, however there's text sto
 
 Unfortunatly my japanese is pretty bad, so this is a machine translated project as it stands. I'm hoping to colaberate with someone to properly translate the project at some point.
 There's still testing to do, but I think I've extracted all the text at this point.
-There's an interesting character encyclopedia in the game, I've not managed to figure out how the bigger graphical kanji is stored yet, and the furigama is manged, but the profiles themselves are all translated.
+There's an interesting character encyclopedia in the game, I've not managed to figure out how the bigger graphical kanji is stored yet, and the furigana is manged, but the profiles themselves are all translated.
 
 I'll add building instructions soon and an ips patch or something like that down the line.
 Once this is out I might see if i can get the sequal done too.
