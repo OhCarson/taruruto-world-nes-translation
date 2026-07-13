@@ -49,6 +49,9 @@ if (isExtractionMode)
     rom.ExtractTextWithPointers(fileMenuPath, parser80);
     rom.ExtractTextWithPointers(preLevelEquipPath, parser80);
 
+    // Extract Furigana
+    rom.ExtractFixedLengthText("JsonData/furigana.json", parser80);
+
     Console.WriteLine("Extraction complete!");
 }
 else
@@ -59,7 +62,7 @@ else
 
     // Expand chr rom
     rom.ExpandChrRom(32);
-    rom.ExpandPrgRom();
+    //rom.ExpandPrgRom();
 
 
     // Apply fixed and static text patches
@@ -67,6 +70,7 @@ else
 
     rom.PatchFixedLengthText(itemsPath, parser80);
     rom.PatchFixedLengthText(menusPath, parser80);
+    rom.PatchFixedLengthText("JsonData/furigana.json", parser80);
 
     // Apply dynamic text patches
     rom.PatchTextWithPointers(mapTextPath, parser80, false);

@@ -8,67 +8,67 @@
         "Entries": [
             {
                 "TextOriginal": "ほんまる「タルー！ どうする？[NL]タル  「うーん…[3F]",
-                "TextTranslation": "Honmaru \"Taru! What now?\"[NL]Taru:   \"Hmmm...\"[3F]",
+                "TextTranslation": "[Honmaru]:[Taru]! What now?[NL][Taru]:Hmmm...[3F]",
                 "PointerAddress": "0x3AC10"
             },
             {
                 "TextOriginal": "ほんまる「つよきだなー タルー！[NL]タル  「おう！[3F]",
-                "TextTranslation": "Honmaru \"You are brave!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "TextTranslation": "[Honmaru]:You're confident,[NL][Taru]![NL][Taru]:Yeah![3F]",
                 "PointerAddress": "0x3AC12"
             },
             {
                 "TextOriginal": "ほんまる「タルー！アイテム1コで だいじょうぶか？[NL]タル  「まかせろ ほんまる！[3F]",
-                "TextTranslation": "Honmaru \"Taru! You okay[NL]with just 1 item?\"[NL]Taru:   \"Leave it to me!\"[3F]",
+                "TextTranslation": "[Honmaru]:[Taru]! Are you[NL]okay with just 1 item?[NL][Taru]:Leave it to me![3F]",
                 "PointerAddress": "0x3AC14"
             },
             {
                 "TextOriginal": "ほんまる「みエッチんかー おれも ほしいぜー！[NL]タル  「ほんまる ちょっと スケブ…[3F]",
-                "TextTranslation": "Honmaru \"Mi-etchin! I[NL]want that too!\"[NL]Taru:   \"Pervert...\"[3F]",
+                "TextTranslation": "[Honmaru]:Mi-etchin! I[NL]want that too![NL][Taru]:[Honmaru], you pervert...[3F]",
                 "PointerAddress": "0x3AC16"
             },
             {
                 "TextOriginal": "ほんまる「イキフキカエルかー ようじんぶかいぜ！[NL]タル  「おう！[3F]",
-                "TextTranslation": "Honmaru \"Ikifukikaeru?[NL]Very cautious!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "TextTranslation": "[Honmaru]:Ikifukikaeru?[NL]You're being cautious![NL][Taru]:Yeah![3F]",
                 "PointerAddress": "0x3AC18"
             },
             {
                 "TextOriginal": "ほんまる「タルー！ いっきにゴールだぜー！[NL]タル  「よし！ テレペテトつかう！[3F]",
-                "TextTranslation": "Honmaru \"Taru! Warp[NL]straight to the goal!\"[NL]Taru:   \"Okay!\"[3F]",
+                "TextTranslation": "[Honmaru]:[Taru]! Warp straight[NL]to the goal![NL][Taru]:Okay! Telepeteto![3F]",
                 "PointerAddress": "0x3AC1A"
             },
             {
                 "TextOriginal": "ほんまる「アイテム3つとは ふとっぱらだぜー！[NL]タル  「おう！ オレ ふとっぱら！[3F]",
-                "TextTranslation": "Honmaru \"3 items? You[NL]are so generous!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "TextTranslation": "[Honmaru]:3 items? You[NL]are so generous![NL][Taru]:Yeah! I'm generous![3F]",
                 "PointerAddress": "0x3AC1C"
             },
             {
                 "TextOriginal": "ほんまる「タルー！ アイテム つかいすぎだぜー！[NL]タル  「………[3F]",
-                "TextTranslation": "Honmaru \"Taru! You use[NL]too many items!\"[NL]Taru:   \".........\"[3F]",
+                "TextTranslation": "[Honmaru]:[Taru]! You're using[NL]too many items![NL][Taru]:.........[3F]",
                 "PointerAddress": "0x3AC1E"
             },
             {
                 "TextOriginal": "スパードと ジャンピが ボワーアッピするよ！[3F]",
-                "TextTranslation": "Speed and Jump will[NL]Power Up![3F]",
+                "TextTranslation": "Speed and Jump will[NL]power up![3F]",
                 "PointerAddress": "0x3AC20"
             },
             {
                 "TextOriginal": "みずのなかでも うごきやすくなるよ！[3F]",
-                "TextTranslation": "You will move easier in[NL]the water![3F]",
+                "TextTranslation": "You will be able to[NL]move easily underwater![3F]",
                 "PointerAddress": "0x3AC22"
             },
             {
                 "TextOriginal": "そらを とべるようになるよ！[3F]",
-                "TextTranslation": "You will be able to fly![3F]",
+                "TextTranslation": "You will be able to[NL]fly in the sky![3F]",
                 "PointerAddress": "0x3AC24"
             },
             {
                 "TextOriginal": "かくしたこやきが みえるようになるよ！[3F]",
-                "TextTranslation": "You will see hidden[NL]Takoyaki![3F]",
+                "TextTranslation": "Hidden Takoyaki will[NL]become visible![3F]",
                 "PointerAddress": "0x3AC26"
             },
             {
                 "TextOriginal": "ちょっとのあいだ むてきに なれるよ！[3F]",
-                "TextTranslation": "You will be invincible[NL]for a bit![3F]",
+                "TextTranslation": "You will be invincible[NL]for a short time![3F]",
                 "PointerAddress": "0x3AC28"
             },
             {
@@ -78,37 +78,37 @@
             },
             {
                 "TextOriginal": "ゴールまで いっきに ワーピできるよ！[3F]",
-                "TextTranslation": "Warp straight to[NL]the goal![3F]",
+                "TextTranslation": "You can warp straight[NL]to the goal![3F]",
                 "PointerAddress": "0x3AC2C"
             },
             {
                 "TextOriginal": "このマッピのとくちょうを おしえてくれるよ！[3F]",
-                "TextTranslation": "I will tell you about[NL]this map![3F]",
+                "TextTranslation": "I will tell you about[NL]this stage's features![3F]",
                 "PointerAddress": "0x3AC2E"
             },
             {
                 "TextOriginal": "そのアイテムは もってないよ！[3F]",
-                "TextTranslation": "You do not have that![3F]",
+                "TextTranslation": "You don't have that[NL]item![3F]",
                 "PointerAddress": "0x3AC30"
             },
             {
                 "TextOriginal": "テレペテトは ほかのといっしょに つかえないよ！[3F]",
-                "TextTranslation": "Cannot use Telepeteto[NL]with other items![3F]",
+                "TextTranslation": "Telepeteto cannot be[NL]used with other items![3F]",
                 "PointerAddress": "0x3AC32"
             },
             {
                 "TextOriginal": "いだてんそくん・くろーるけーきくん・つばさ は[NL]どれか1コしか えらべないよ！[3F]",
-                "TextTranslation": "You can only pick 1 of:[NL]Idaten Shoes, Crawl[NL]Cake, or Wings![3F]",
+                "TextTranslation": "Idatensokun, Crawl-cake,[NL]and Wings...[NL]You can only pick 1![3F]",
                 "PointerAddress": "0x3AC34"
             },
             {
                 "TextOriginal": "ほんまる「タルー！ がんばれよー！[NL]タル  「おう！[3F]",
-                "TextTranslation": "Honmaru \"Good luck, Taru!\"[NL]Taru:   \"Yeah!\"[3F]",
+                "TextTranslation": "[Honmaru]:[Taru]! Good luck![NL][Taru]:Yeah![3F]",
                 "PointerAddress": "0x3AC36"
             },
             {
                 "TextOriginal": "それは もうえらんでいるよ！[3F]",
-                "TextTranslation": "You already chose that![3F]",
+                "TextTranslation": "You have already[NL]selected that![3F]",
                 "PointerAddress": "0x3AC38"
             },
             {
@@ -168,142 +168,142 @@
             },
             {
                 "TextOriginal": "リフトのうごきにきをつけてね！[0x33][3F]",
-                "TextTranslation": "Watch out for the[NL]lift's movements![0x33][3F]",
+                "TextTranslation": "Watch out for the[NL]moving lifts![33][3F]",
                 "PointerAddress": "0x3AC50"
             },
             {
                 "TextOriginal": "ゆきであしもとがすべるからきをつけてね！[3F]",
-                "TextTranslation": "Watch your step,[NL]the snow is slippery![3F]",
+                "TextTranslation": "The snow makes it[NL]slippery, so be careful![3F]",
                 "PointerAddress": "0x3AC52"
             },
             {
                 "TextOriginal": "あわてないでかくじつにすすめばだいじょうぶ！[3F]",
-                "TextTranslation": "Don't panic! Advance[NL]slowly and steadily![3F]",
+                "TextTranslation": "Don't panic! Move steadily[NL]and you'll be fine![3F]",
                 "PointerAddress": "0x3AC54"
             },
             {
                 "TextOriginal": "とくにむずかしくないとおもうわ！[3F]",
-                "TextTranslation": "I don't think it's[NL]too difficult![3F]",
+                "TextTranslation": "I don't think it's[NL]particularly difficult![3F]",
                 "PointerAddress": "0x3AC56"
             },
             {
                 "TextOriginal": "じかんにちゅういしてね！[0x33][3F]",
-                "TextTranslation": "Keep an eye on[NL]the time![0x33][3F]",
+                "TextTranslation": "Pay attention to the[NL]time limit![33][3F]",
                 "PointerAddress": "0x3AC58"
             },
             {
                 "TextOriginal": "おちついてすすんでね！[0x33][3F]",
-                "TextTranslation": "Stay calm as you[NL]move forward![0x33][3F]",
+                "TextTranslation": "Stay calm and proceed![33][3F]",
                 "PointerAddress": "0x3AC5A"
             },
             {
                 "TextOriginal": "がんばってね！[0x33][3F]",
-                "TextTranslation": "Do your best![0x33][3F]",
+                "TextTranslation": "Do your best![33][3F]",
                 "PointerAddress": "0x3AC5C"
             },
             {
                 "TextOriginal": "きをつけてね！[0x33][3F]",
-                "TextTranslation": "Be careful![0x33][3F]",
+                "TextTranslation": "Be careful![33][3F]",
                 "PointerAddress": "0x3AC5E"
             },
             {
                 "TextOriginal": "あしもとにちゅういしてすすんでね！[0x33][3F]",
-                "TextTranslation": "Watch your step as[NL]you go![0x33][3F]",
+                "TextTranslation": "Watch your step as[NL]you go![33][3F]",
                 "PointerAddress": "0x3AC60"
             },
             {
                 "TextOriginal": "このステージのどこかにベーナスルームがあるわ！[3F]",
-                "TextTranslation": "There's a bonus room[NL]somewhere here![3F]",
+                "TextTranslation": "There is a bonus room[NL]hidden in this stage![3F]",
                 "PointerAddress": "0x3AC62"
             },
             {
                 "TextOriginal": "あんまりのんびりしているとじかんぎれに[NL]なってしまうかもしれないわ！[3F]",
-                "TextTranslation": "If you take too long,[NL]time will run out![3F]",
+                "TextTranslation": "If you take too long,[NL]you might run out of time![3F]",
                 "PointerAddress": "0x3AC64"
             },
             {
                 "TextOriginal": "たこやきがどっさりのステージよ！[3F]",
-                "TextTranslation": "A stage loaded with[NL]lots of Takoyaki![3F]",
+                "TextTranslation": "This stage is full of[NL]Takoyaki![3F]",
                 "PointerAddress": "0x3AC66"
             },
             {
                 "TextOriginal": "きくんだぁをつかうとらくにすすめるとおもうわ゜[3F]",
-                "TextTranslation": "Using Kikun will[NL]make it much easier.[3F]",
+                "TextTranslation": "Using Kikundaa will make[NL]it easier to proceed.[3F]",
                 "PointerAddress": "0x3AC68"
             },
             {
                 "TextOriginal": "ぶんしんライトくんをつかうとらくにすすめると[NL]おもうわ゜[3F]",
-                "TextTranslation": "Using Bunshin will[NL]make it much easier.[3F]",
+                "TextTranslation": "Using Bunshin Light-kun[NL]will make it easier.[3F]",
                 "PointerAddress": "0x3AC6A"
             },
             {
                 "TextOriginal": "いんりょくんをうまくつかってすすんでね！[3F]",
-                "TextTranslation": "Use Inryo well[NL]to progress![3F]",
+                "TextTranslation": "Use Inryokun well to[NL]proceed![3F]",
                 "PointerAddress": "0x3AC6C"
             },
             {
                 "TextOriginal": "まほうをじょうずにつかいわけてすすむのよ！[3F]",
-                "TextTranslation": "Use your magic[NL]skills wisely![3F]",
+                "TextTranslation": "Use your magic wisely[NL]to progress![3F]",
                 "PointerAddress": "0x3AC6E"
             },
             {
                 "TextOriginal": "せきりょくんをつかうとあんしんして[NL]すすめるとおもうわ゜[3F]",
-                "TextTranslation": "Use Sekiryo to[NL]progress safely.[3F]",
+                "TextTranslation": "Using Sekiryokun will[NL]make you feel safe.[3F]",
                 "PointerAddress": "0x3AC70"
             },
             {
                 "TextOriginal": "あまぐもたろうでひをけしてしまえば[NL]らくちんよ゜[3F]",
-                "TextTranslation": "Use Amagumo to[NL]put out fires.[3F]",
+                "TextTranslation": "If you put out the fire[NL]with Amagumo Tarou...[NL]it'll be a breeze.[3F]",
                 "PointerAddress": "0x3AC72"
             },
             {
                 "TextOriginal": "かぜかぜうちわくんでてきをふきとばすといいわ！[3F]",
-                "TextTranslation": "Use Kaze-kun to[NL]blow enemies away![3F]",
+                "TextTranslation": "It's a good idea to blow[NL]enemies away with[NL]Kazekaze Uchiwa-kun![3F]",
                 "PointerAddress": "0x3AC74"
             },
             {
                 "TextOriginal": "みエッチんをつかうとらくにすすめるはずよ゜[3F]",
-                "TextTranslation": "Using Mi-etchin will[NL]make it easier.[3F]",
+                "TextTranslation": "Using Mi-etchin will[NL]make it easier to proceed.[3F]",
                 "PointerAddress": "0x3AC76"
             },
             {
                 "TextOriginal": "イキフキカエルをつかったほうがいいとおもうわ゜[3F]",
-                "TextTranslation": "I think you should[NL]use Ikifukikaeru.[3F]",
+                "TextTranslation": "I think it's better to[NL]use Ikifukikaeru.[3F]",
                 "PointerAddress": "0x3AC78"
             },
             {
                 "TextOriginal": "どこかにあるむてきたこやきをうまくつかってね゜[3F]",
-                "TextTranslation": "Use the hidden[NL]Invincible Takoyaki.[3F]",
+                "TextTranslation": "Make good use of the[NL]invincible Takoyaki[NL]hidden somewhere.[3F]",
                 "PointerAddress": "0x3AC7A"
             },
             {
                 "TextOriginal": "いだてんそくんをつかうといいかもしれないわ！[3F]",
-                "TextTranslation": "You might want to[NL]use Idaten Shoes![3F]",
+                "TextTranslation": "It might be a good idea[NL]to use Idatensokun![3F]",
                 "PointerAddress": "0x3AC7C"
             },
             {
                 "TextOriginal": "ボワーアッピルジュースをつかうと[NL]いいかもしれないわ！[3F]",
-                "TextTranslation": "You might want to[NL]use Power Up Juice![3F]",
+                "TextTranslation": "It might be a good idea[NL]to use Power-Apple Juice![3F]",
                 "PointerAddress": "0x3AC7E"
             },
             {
                 "TextOriginal": "もうひといきよ！がんばってね！[0x33][3F]",
-                "TextTranslation": "Almost there![NL]Keep it up![0x33][3F]",
+                "TextTranslation": "Just a little more![NL]Do your best![33][3F]",
                 "PointerAddress": "0x3AC80"
             },
             {
                 "TextOriginal": "あとはんぶんよおちついてすすんでね！[0x33][3F]",
-                "TextTranslation": "Halfway done![NL]Stay calm and go![0x33][3F]",
+                "TextTranslation": "You're halfway there![NL]Stay calm and proceed![33][3F]",
                 "PointerAddress": "0x3AC82"
             },
             {
                 "TextOriginal": "それをもうひとつ[3F]",
-                "TextTranslation": "One more of that![3F]",
+                "TextTranslation": "You need one more of[NL]that![3F]",
                 "PointerAddress": "0x3AC84"
             },
             {
                 "TextOriginal": "このステージできっといいことがあるわ！[3F]",
-                "TextTranslation": "Something good will[NL]happen here![3F]",
+                "TextTranslation": "I'm sure something good[NL]will happen in this stage![3F]",
                 "PointerAddress": "0x3AC86"
             }
         ]

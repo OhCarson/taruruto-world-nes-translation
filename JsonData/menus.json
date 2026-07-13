@@ -100,5 +100,137 @@
         "TextTranslation": "Stop",
         "MaxLength": 0,
         "Address": "1217C"
+    },
+    {
+        "TextOriginal": "ABCDE",
+        "TextTranslation": "ABCDE",
+        "MaxLength": 5,
+        "Address": "0x12051"
+    },
+    {
+        "TextOriginal": "FGHIJ",
+        "TextTranslation": "FGHIJ",
+        "MaxLength": 5,
+        "Address": "0x12058"
+    },
+    {
+        "TextOriginal": "KLMNO",
+        "TextTranslation": "KLMNO",
+        "MaxLength": 5,
+        "Address": "0x1205F"
+    },
+    {
+        "TextOriginal": "PQRST",
+        "TextTranslation": "PQRST",
+        "MaxLength": 5,
+        "Address": "0x12065"
+    },
+    {
+        "TextOriginal": "UVWXY",
+        "TextTranslation": "UVWXY",
+        "MaxLength": 5,
+        "Address": "0x1206C"
+    },
+    {
+        "TextOriginal": "Zabcd",
+        "TextTranslation": "Zabcd",
+        "MaxLength": 5,
+        "Address": "0x12073"
+    },
+    {
+        "TextOriginal": "efghi",
+        "TextTranslation": "efghi",
+        "MaxLength": 5,
+        "Address": "0x12079"
+    },
+    {
+        "TextOriginal": "jklmn",
+        "TextTranslation": "jklmn",
+        "MaxLength": 5,
+        "Address": "0x12080"
+    },
+    {
+        "TextOriginal": "opqrs",
+        "TextTranslation": "opqrs",
+        "MaxLength": 5,
+        "Address": "0x12087"
+    },
+    {
+        "TextOriginal": "tuvwx",
+        "TextTranslation": "tuvwx",
+        "MaxLength": 5,
+        "Address": "0x1208D"
+    },
+    {
+        "TextOriginal": "yz012",
+        "TextTranslation": "yz012",
+        "MaxLength": 5,
+        "Address": "0x12094"
+    },
+    {
+        "TextOriginal": "END",
+        "TextTranslation": "END",
+        "MaxLength": 3,
+        "Address": "0x1209D"
+    },
+    {
+        "TextOriginal": "Save OK",
+        "TextTranslation": "Save OK",
+        "MaxLength": 7,
+        "Address": "0x120CD"
+    },
+    {
+        "TextOriginal": "Save   Stop",
+        "TextTranslation": "Save   Stop",
+        "MaxLength": 11,
+        "Address": "0x120D5"
+    },
+    {
+        "TextOriginal": "Save Done!!",
+        "TextTranslation": "Save Done!!",
+        "MaxLength": 11,
+        "Address": "0x120E0"
+    },
+    {
+        "TextOriginal": "Need Save",
+        "TextTranslation": "Need Save",
+        "MaxLength": 9,
+        "Address": "0x120EC"
+    },
+    {
+        "TextOriginal": "Item! ",
+        "TextTranslation": "Item! ",
+        "MaxLength": 6,
+        "Address": "0x120F6"
+    },
+    {
+        "TextOriginal": "Save OK",
+        "TextTranslation": "Save OK[3F]",
+        "MaxLength": 0,
+        "Address": "0x120CF"
+    },
+    {
+        "TextOriginal": "Save   Stop",
+        "TextTranslation": "Save   Stop[3F]",
+        "MaxLength": 0,
+        "Address": "0x120D8"
+    },
+    {
+        "TextOriginal": "Save Done!!",
+        "TextTranslation": "Save Done!![3F]",
+        "MaxLength": 0,
+        "Address": "0x120E4"
+    },
+    {
+        "TextOriginal": "Need Save",
+        "TextTranslation": "Need Save[3F]",
+        "MaxLength": 0,
+        "Address": "0x120F0"
+    },
+    {
+        "TextOriginal": "Item! ",
+        "TextTranslation": "Item! [3F]",
+        "MaxLength": 0,
+        "Address": "0x120FA"
     }
 ]

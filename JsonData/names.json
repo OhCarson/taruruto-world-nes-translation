@@ -1,4 +1,69 @@
 {
+    "[Boch]": [
+        "BC",
+        "BD"
+    ],
+    "[Doberk]": [
+        "FA",
+        "FB",
+        "FC"
+    ],
+    "[Dowah]": [
+        "FA",
+        "FD",
+        "FE"
+    ],
+    "[Erand]": [
+        "C4",
+        "C5"
+    ],
+    "[Gabu]": [
+        "CE",
+        "BF"
+    ],
+    "[Haradoko]": [
+        "C0",
+        "C1",
+        "C3"
+    ],
+    "[Herm]": [
+        "C6",
+        "C7"
+    ],
+    "[Jii]": [
+        "E2"
+    ],
+    "[Kotarou]": [
+        "D4",
+        "D5",
+        "D3"
+    ],
+    "[Marue]": [
+        "E8",
+        "E9",
+        "EA"
+    ],
+    "[Matt]": [
+        "E3",
+        "E4"
+    ],
+    "[Miss Ooaya]": [
+        "C8",
+        "C9"
+    ],
+    "[Rai]": [
+        "EE",
+        "EF"
+    ],
+    "[Raibaa]": [
+        "EE",
+        "DF",
+        "FF"
+    ],
+    "[Wase]": [
+        "CE",
+        "CF"
+    ],
     "[Haruko]": [
         "C0",
         "C1",
@@ -10,19 +75,13 @@
         "D2",
         "D3"
     ],
-    "[Miss Ooaya]": [
-        "C6",
-        "C7",
-        "C8",
-        "C9"
-    ],
     "[Taru]": [
         "CA",
         "CB"
     ],
     "[Mari]": [
-        "CD",
-        "CE"
+        "CC",
+        "CD"
     ],
     "[Ijigawa]": [
         "D6",
@@ -30,33 +89,27 @@
         "D8"
     ],
     "[Jabao]": [
+        "D9",
         "DA",
-        "DB",
-        "DC"
+        "DB"
     ],
     "[Mimora]": [
+        "DC",
         "DD",
-        "DE",
-        "DF"
+        "DE"
     ],
     "[MrHat]": [
+        "E5",
         "E6",
-        "E7",
-        "E8"
+        "E7"
     ],
     "[Iyona]": [
-        "EA",
         "EB",
         "EC"
     ],
     "[Ria]": [
         "ED",
-        "EE"
-    ],
-    "[Doberk]": [
-        "FA",
-        "FB",
-        "FC"
+        "DB"
     ],
     "[Dad]": [
         "E0",
