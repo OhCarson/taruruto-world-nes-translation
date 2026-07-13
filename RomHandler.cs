@@ -221,5 +221,91 @@ namespace TaruruutoCLI
             }
             return outBytes;
         }
+
+        public void ExtractFixedLengthText(string jsonFile, TableParser parser)
+        {
+            if (!File.Exists(jsonFile)) return;
+            string json = File.ReadAllText(jsonFile);
+            var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true, WriteIndented = true };
+            List<UniversalTextEntry> texts = JsonSerializer.Deserialize<List<UniversalTextEntry>>(json, options);
+
+            foreach (var entry in texts)
+            {
+                if (string.IsNullOrEmpty(entry.Address) || entry.MaxLength <= 0) continue;
+                int currentOffset = Convert.ToInt32(entry.Address, 16);
+                
+                string extracted = "";
+                for (int i = 0; i < entry.MaxLength; i++)
+                {
+                    byte b = romData[currentOffset + i];
+                    if (parser.hexToText.ContainsKey(b)) extracted += parser.hexToText[b];
+                    else if (b == 0x3C) extracted += "[3C]";
+                    else if (b == 0x3D) extracted += "[3D]";
+                    else if (b == 0x3F) extracted += "[3F]";
+                    else extracted += $"[{b:X2}]";
+                }
+                entry.TextOriginal = extracted;
+            }
+
+            File.WriteAllText(jsonFile, JsonSerializer.Serialize(texts, options));
+            Console.WriteLine($"{jsonFile} extracted successfully.");
+        }
+
+        public void ExtractTextWithPointers(string jsonFile, TableParser parser)
+        {
+            if (!File.Exists(jsonFile)) return;
+            string json = File.ReadAllText(jsonFile);
+            var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true, WriteIndented = true };
+            List<DynamicTextGroup> groups = JsonSerializer.Deserialize<List<DynamicTextGroup>>(json, options);
+
+            foreach (var group in groups)
+            {
+                int pointerBase = Convert.ToInt32(group.Config.PointerBase, 16);
+                
+                // Track duplicate pointers to support empty dummy strings
+                Dictionary<int, string> ptrToText = new Dictionary<int, string>();
+                
+                foreach (var entry in group.Entries)
+                {
+                    if (string.IsNullOrEmpty(entry.PointerAddress)) continue;
+                    
+                    int pointerAddress = Convert.ToInt32(entry.PointerAddress, 16);
+                    int ptrValue = romData[pointerAddress] | (romData[pointerAddress + 1] << 8);
+                    int textOffset = pointerBase + ptrValue;
+                    
+                    if (ptrToText.ContainsKey(textOffset))
+                    {
+                        // Duplicate pointer detected (dummy string)
+                        entry.TextOriginal = "";
+                        continue;
+                    }
+
+                    string extracted = "";
+                    int currentOffset = textOffset;
+                    while (currentOffset < romData.Length)
+                    {
+                        byte b = romData[currentOffset];
+                        if (b == 0x3F)
+                        {
+                            extracted += "[3F]";
+                            break;
+                        }
+                        
+                        if (parser.hexToText.ContainsKey(b)) extracted += parser.hexToText[b];
+                        else if (b == 0x3C) extracted += "[3C]";
+                        else if (b == 0x3D) extracted += "[3D]";
+                        else extracted += $"[{b:X2}]";
+                        
+                        currentOffset++;
+                    }
+                    
+                    ptrToText[textOffset] = extracted;
+                    entry.TextOriginal = extracted;
+                }
+            }
+
+            File.WriteAllText(jsonFile, JsonSerializer.Serialize(groups, options));
+            Console.WriteLine($"{jsonFile} extracted successfully.");
+        }
     }
 }
