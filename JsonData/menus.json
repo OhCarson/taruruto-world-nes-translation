@@ -1,235 +1,197 @@
-[
+﻿[
     {
         "TextOriginal": "つづきから[3F]",
         "TextTranslation": "CONT.[3F]",
+        "TranslationAccurate": "Continue from where you left off[3F]",
         "MaxLength": 0,
         "Address": "0x12024"
     },
     {
         "TextOriginal": "はじめから[3F]",
         "TextTranslation": "START[3F]",
+        "TranslationAccurate": "Start from the beginning[3F]",
         "MaxLength": 0,
         "Address": "0x1202A"
     },
     {
         "TextOriginal": "ファイルうつす[3F]",
         "TextTranslation": "COPY[3F]",
+        "TranslationAccurate": "Copy file[3F]",
         "MaxLength": 0,
         "Address": "0x12030"
     },
     {
         "TextOriginal": "ファイルけす[3F]",
         "TextTranslation": "ERASE[3F]",
+        "TranslationAccurate": "Delete file[3F]",
         "MaxLength": 0,
         "Address": "0x12038"
     },
     {
         "TextOriginal": "タルずかん[3F]",
         "TextTranslation": "EXTRA[3F]",
+        "TranslationAccurate": "Taru Encyclopedia[3F]",
         "MaxLength": 0,
         "Address": "0x1203F"
     },
     {
         "TextOriginal": "ゲーム1・[3F]",
         "TextTranslation": "FILE1[3F]",
+        "TranslationAccurate": "Game 1[3F]",
         "MaxLength": 0,
         "Address": "0x12045"
     },
     {
         "TextOriginal": "ゲーム2・[3F]",
         "TextTranslation": "FILE2[3F]",
+        "TranslationAccurate": "Game 2[3F]",
         "MaxLength": 0,
         "Address": "0x1204B"
     },
     {
         "TextOriginal": "つぎをみる[3F]",
         "TextTranslation": "NEXT[3F]",
+        "TranslationAccurate": "View next[3F]",
         "MaxLength": 0,
         "Address": "0x120A1"
     },
     {
         "TextOriginal": "じんぶつへんをみる[3F]",
         "TextTranslation": "CHARACTR[3F]",
+        "TranslationAccurate": "View the characters section[3F]",
         "MaxLength": 0,
         "Address": "0x120A7"
     },
     {
         "TextOriginal": "どうぐへんをみる[3F]",
         "TextTranslation": "ITEM[3F]",
+        "TranslationAccurate": "View the items section[3F]",
         "MaxLength": 0,
         "Address": "0x120B1"
     },
     {
         "TextOriginal": "わる[3F]",
         "TextTranslation": "END[3F]",
+        "TranslationAccurate": "Quit[3F]",
         "MaxLength": 0,
         "Address": "0x120BB"
     },
     {
         "TextOriginal": "アイテムかう  ためとく[3F]",
         "TextTranslation": "Buy   ",
+        "TranslationAccurate": "Buy item  Save for later[3F]",
         "MaxLength": 0,
         "Address": "1216B"
     },
     {
         "TextOriginal": "ためとく[3F]",
         "TextTranslation": "Keep",
+        "TranslationAccurate": "Save for later[3F]",
         "MaxLength": 0,
         "Address": "12173"
     },
     {
         "TextOriginal": "つかう  やめる[3F]",
         "TextTranslation": "Use",
+        "TranslationAccurate": "Use  Cancel[3F]",
         "MaxLength": 0,
         "Address": "12123"
     },
     {
         "TextOriginal": "やめる[3F]",
         "TextTranslation": "End",
+        "TranslationAccurate": "Cancel[3F]",
         "MaxLength": 0,
         "Address": "12128"
     },
     {
         "TextOriginal": "やる  やめとく[3F]",
         "TextTranslation": "Go",
+        "TranslationAccurate": "Do it  Don't do it[3F]",
         "MaxLength": 0,
         "Address": "12178"
     },
     {
         "TextOriginal": "やめとく[3F]",
         "TextTranslation": "Stop",
+        "TranslationAccurate": "Don't do it[3F]",
         "MaxLength": 0,
         "Address": "1217C"
     },
     {
-        "TextOriginal": "ABCDE",
-        "TextTranslation": "ABCDE",
-        "MaxLength": 5,
-        "Address": "0x12051"
-    },
-    {
-        "TextOriginal": "FGHIJ",
-        "TextTranslation": "FGHIJ",
-        "MaxLength": 5,
-        "Address": "0x12058"
-    },
-    {
-        "TextOriginal": "KLMNO",
-        "TextTranslation": "KLMNO",
-        "MaxLength": 5,
-        "Address": "0x1205F"
-    },
-    {
-        "TextOriginal": "PQRST",
-        "TextTranslation": "PQRST",
-        "MaxLength": 5,
-        "Address": "0x12065"
-    },
-    {
-        "TextOriginal": "UVWXY",
-        "TextTranslation": "UVWXY",
-        "MaxLength": 5,
-        "Address": "0x1206C"
-    },
-    {
-        "TextOriginal": "Zabcd",
-        "TextTranslation": "Zabcd",
-        "MaxLength": 5,
-        "Address": "0x12073"
-    },
-    {
-        "TextOriginal": "efghi",
-        "TextTranslation": "efghi",
-        "MaxLength": 5,
-        "Address": "0x12079"
-    },
-    {
-        "TextOriginal": "jklmn",
-        "TextTranslation": "jklmn",
-        "MaxLength": 5,
-        "Address": "0x12080"
-    },
-    {
-        "TextOriginal": "opqrs",
-        "TextTranslation": "opqrs",
-        "MaxLength": 5,
-        "Address": "0x12087"
-    },
-    {
-        "TextOriginal": "tuvwx",
-        "TextTranslation": "tuvwx",
-        "MaxLength": 5,
-        "Address": "0x1208D"
-    },
-    {
-        "TextOriginal": "yz012",
-        "TextTranslation": "yz012",
-        "MaxLength": 5,
-        "Address": "0x12094"
-    },
-    {
         "TextOriginal": "END",
         "TextTranslation": "END",
+        "TranslationAccurate": "END",
         "MaxLength": 3,
         "Address": "0x1209D"
     },
     {
         "TextOriginal": "Save OK",
         "TextTranslation": "Save OK",
+        "TranslationAccurate": "Save OK",
         "MaxLength": 7,
         "Address": "0x120CD"
     },
     {
         "TextOriginal": "Save   Stop",
         "TextTranslation": "Save   Stop",
+        "TranslationAccurate": "Save   Stop",
         "MaxLength": 11,
         "Address": "0x120D5"
     },
     {
         "TextOriginal": "Save Done!!",
         "TextTranslation": "Save Done!!",
+        "TranslationAccurate": "Save Done!!",
         "MaxLength": 11,
         "Address": "0x120E0"
     },
     {
         "TextOriginal": "Need Save",
         "TextTranslation": "Need Save",
+        "TranslationAccurate": "Need Save",
         "MaxLength": 9,
         "Address": "0x120EC"
     },
     {
         "TextOriginal": "Item! ",
         "TextTranslation": "Item! ",
+        "TranslationAccurate": "Item! ",
         "MaxLength": 6,
         "Address": "0x120F6"
     },
     {
         "TextOriginal": "Save OK",
         "TextTranslation": "Save OK[3F]",
+        "TranslationAccurate": "Save OK[3F]",
         "MaxLength": 0,
         "Address": "0x120CF"
     },
     {
         "TextOriginal": "Save   Stop",
         "TextTranslation": "Save   Stop[3F]",
+        "TranslationAccurate": "Save   Stop[3F]",
         "MaxLength": 0,
         "Address": "0x120D8"
     },
     {
         "TextOriginal": "Save Done!!",
         "TextTranslation": "Save Done!![3F]",
+        "TranslationAccurate": "Save Done!![3F]",
         "MaxLength": 0,
         "Address": "0x120E4"
     },
     {
         "TextOriginal": "Need Save",
         "TextTranslation": "Need Save[3F]",
+        "TranslationAccurate": "Need Save[3F]",
         "MaxLength": 0,
         "Address": "0x120F0"
     },
     {
         "TextOriginal": "Item! ",
         "TextTranslation": "Item! [3F]",
+        "TranslationAccurate": "Item! [3F]",
         "MaxLength": 0,
         "Address": "0x120FA"
     }

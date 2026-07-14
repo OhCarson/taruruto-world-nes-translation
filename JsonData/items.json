@@ -1,217 +1,253 @@
-[
+﻿[
     {
         "TextOriginal": "いつでも どこでも よべばあらわれる あまぐも゜[NL]かじのときなど あっというまに けしてくれる゜[NL]らいうんたろうなど なかまが3・4にんいる゜[3F]",
         "TextTranslation": "Calls a raincloud to[NL]put out fires. Has[NL]friends like Raizou.[3F]",
+        "TranslationAccurate": "A raincloud that appears whenever and wherever you call it. It can put out fires and the like in an instant. It has 3 or 4 companions, including Raiuntar\u014d.[3F]",
         "MaxLength": 72,
         "Address": "0x3c050"
     },
     {
         "TextOriginal": "このカエルのいきをすうと いきをふきかえすという[NL]きゅうきゅういりょうガエル゜ちょっと げひん゜[NL]りあねーちゃんが もっている゜[3F]",
         "TextTranslation": "Medical frog. Its breath[NL]revives you, but its[NL]vulgar.[3F]",
+        "TranslationAccurate": "A first-aid medical frog — breathing in its breath is said to revive you. A little crude. Ria's big sister carries it.[3F]",
         "MaxLength": 65,
         "Address": "0x3c098"
     },
     {
         "TextOriginal": "はくと ものすごいスパードで とんだり はねたり[NL]できる ちょっと きゅうくつな くつ゜[NL]ずっとはいていると あしが ちいさくなっちゃう？[3F]",
         "TextTranslation": "Fast jumping shoes.[NL]Wearing them too long[NL]shrinks your feet.[3F]",
+        "TranslationAccurate": "Shoes that let you fly and jump at incredible speed. They're a little tight. Wear them too long and your feet might shrink.[3F]",
         "MaxLength": 70,
         "Address": "0x3c0d9"
     },
     {
         "TextOriginal": "めいじたものを なんでも ひきつけてしまうたま゜[NL]たる！という じゅもんで せきりょくんにもなる゜[NL]タルのアイテムのなかでも りようかちが たかい゜[3F]",
         "TextTranslation": "Ball that attracts[NL]things. Say TARU! to[NL]turn it to Repel-kun.[3F]",
+        "TranslationAccurate": "A ball that attracts anything you command it to. Saying the spell \"TARU!\" turns it into Repel-kun. One of Taru's most useful items.[3F]",
         "MaxLength": 75,
         "Address": "0x3c11f"
     },
     {
         "TextOriginal": "これを あたまにのせて わるいことをすると[NL]ほめられてしまうという ラッキーなアイテム゜[NL]ただし よいことをすると おこられてしまう…[3F]",
         "TextTranslation": "Worn on head. Praised[NL]for bad deeds, scolded[NL]for good deeds.[3F]",
+        "TranslationAccurate": "A lucky item: put it on your head and you get praised for doing bad things. However, do good things and you get scolded...[3F]",
         "MaxLength": 68,
         "Address": "0x3c16a"
     },
     {
         "TextOriginal": "ほんまるの とーちゃんが つくった えほん゜[NL]ちょっと きがよわい ゆうしゃの おはなし゜[NL]タイトルめいは どべるくの ぼうけん[3F]",
         "TextTranslation": "Dads picture book about[NL]a timid hero.[NL][3F]",
+        "TranslationAccurate": "A picture book made by Honmaru's dad. It's a story about a slightly cowardly hero. The title is \"The Adventures of Dobelk.\"[3F]",
         "MaxLength": 65,
         "Address": "0x3c1ae"
     },
     {
         "TextOriginal": "いろいろなかぜを おこすことができる うちわ゜[NL]ものなどを ふきとばすことにも つかえる゜[NL]あまり おもいものは とばないことも あるかも…[3F]",
         "TextTranslation": "Fan that creates winds[NL]to blow things away.[NL]Fails on heavy stuff.[3F]",
+        "TranslationAccurate": "A fan that can produce all kinds of winds. Can also be used to blow things away. It might not be able to blow very heavy objects, though...[3F]",
         "MaxLength": 71,
         "Address": "0x3c1ef"
     },
     {
         "TextOriginal": "おこったひとの あたまのうえにのせると おゆが[NL]わいて おこったひとの いかりが おさまるという[NL]とても へいわなアイテム゜[3F]",
         "TextTranslation": "Boils water on an angry[NL]persons head.[NL][3F]",
+        "TranslationAccurate": "Place it on the head of an angry person and it boils water there, calming their rage. A very peaceful item.[3F]",
         "MaxLength": 63,
         "Address": "0x3c236"
     },
     {
         "TextOriginal": "こえを おおきくして ビキにしたり ひとのかんが[NL]えを きくこともできる゜ たる！という じゅもん[NL]で きくきくん という アイテムにへんしんする゜[3F]",
         "TextTranslation": "Amplifies voice, hears[NL]thoughts. Say TARU! to[NL]become Listen-kun.[3F]",
+        "TranslationAccurate": "Can amplify your voice to make it huge, and can also hear people's thoughts. Saying the spell \"TARU!\" transforms it into an item called Listen-kun.[3F]",
         "MaxLength": 75,
         "Address": "0x3c275"
     },
     {
         "TextOriginal": "たべると ぜんぜん およげないひとでも クロール[NL]を およげるように てとりあしとり コーチしてく[NL]れる たのもしいケーキ゜ とっても おいしい゜[3F]",
         "TextTranslation": "Cake that coaches poor[NL]swimmers to swim well.[NL][3F]",
+        "TranslationAccurate": "A reliable cake that, when eaten, coaches even people who can't swim at all to swim the crawl stroke step by step. And it's delicious.[3F]",
         "MaxLength": 74,
         "Address": "0x3c2c0"
     },
     {
         "TextOriginal": "こぶをとったり くっつけたりできるアイテム゜[NL]こぶとりじーさんに でてくるオニも じつは この[NL]こぶとりくんを つかったそうである゜[3F]",
         "TextTranslation": "Removes/adds lumps. The[NL]demon in Kobutori Jiisan[NL]used this.[3F]",
+        "TranslationAccurate": "An item that can remove or attach lumps. Apparently even the demon in the folk tale \"Kobutori Jiisan\" used this very item.[3F]",
         "MaxLength": 67,
         "Address": "0x3c30a"
     },
     {
         "TextOriginal": "このシールを あたまにはると ねんが つよくなり[NL]こころにおもったことが かなう゜でも ひとを[NL]うらんだりすると あとで じぶんにかえってくる゜[3F]",
         "TextTranslation": "Sticker grants wishes[NL]via mental power.[NL][3F]",
+        "TranslationAccurate": "Stick this sticker to your head and your mental power grows, granting your heartfelt wishes. But if you bear a grudge against someone, it will come back to you later.[3F]",
         "MaxLength": 73,
         "Address": "0x3c34d"
     },
     {
         "TextOriginal": "これをくびにつけると いったことが げんじつに[NL]なる゜ ただし つかいかたに ちゅういしないと[NL]たいへんなめにあう じつは むなしいアイテム゜[3F]",
         "TextTranslation": "Wearing this makes words[NL]come true. Vain item can[NL]cause disaster.[3F]",
+        "TranslationAccurate": "Wear this around your neck and whatever you say becomes reality. However, if you are not careful how you use it, you will be in serious trouble. In truth, a hollow item.[3F]",
         "MaxLength": 72,
         "Address": "0x3c396"
     },
     {
         "TextOriginal": "しょうじきだと ボッと はながさき うそをつくと[NL]かれてしまう へんなき゜ どんなにうまく うそを[NL]ついても たちまち みやぶってしまう゜[3F]",
         "TextTranslation": "Tree blooms for truth,[NL]withers for lies.[NL][3F]",
+        "TranslationAccurate": "A strange tree that bursts into bloom when you're honest and withers when you lie. No matter how skillfully you lie, it sees through you instantly.[3F]",
         "MaxLength": 70,
         "Address": "0x3c3de"
     },
     {
         "TextOriginal": "めいじたものを なんでも はねのけてしまうたま゜[NL]たる！という じゅもんで いんりょくんにもなる゜[NL]いんりょくんよりは あまり つかわれていない゜[3F]",
         "TextTranslation": "Ball that repels things.[NL]Say TARU! to become[NL]Attract-kun. Rare.[3F]",
+        "TranslationAccurate": "A ball that repels anything you command it to. Saying the spell \"TARU!\" turns it into Attract-kun. It is used less often than Attract-kun.[3F]",
         "MaxLength": 74,
         "Address": "0x3c424"
     },
     {
         "TextOriginal": "これをつけると あいてのわるいところが よくみえ[NL]わるぐちが たくさんでてくる あくまのようなアイ[NL]テム゜ ぎゃくにつけると ほめことばがでてくる゜[3F]",
         "TextTranslation": "Devil item shows flaws,[NL]causes insults. Wear[NL]backward for praise.[3F]",
+        "TranslationAccurate": "Wear this and you can clearly see the faults in others, and insults pour out of you — a truly devilish item. Wear it backward and compliments come out instead.[3F]",
         "MaxLength": 75,
         "Address": "0x3c46e"
     },
     {
         "TextOriginal": "じかんをとめる゜ものにいのちをあたえる゜きる゜[NL]けす゜[69]ラのくきで てきをしばる [69]ラしばり゜[NL]など いろいろつかえる ちょうべんりアイテム！[3F]",
         "TextTranslation": "Stops time. Gives life.[NL]Cuts. Erases.[NL][3F]",
+        "TranslationAccurate": "Stops time. Gives life to objects. Cuts. Erases. Uses its stalk to bind enemies — \"Stalk Bind\" — and more. An incredibly convenient all-purpose item![3F]",
         "MaxLength": 72,
         "Address": "0x3c4b9"
     },
     {
         "TextOriginal": "ほんまるが どんなに パンチのときでも つい[NL]ふらふらっと つられてしまうほどの タルるートの[NL]だいこうぶつ゜[3F]",
         "TextTranslation": "Taruruutos favorite[NL]food. Honmaru is sick of[NL]it.[3F]",
+        "TranslationAccurate": "Taruruuto's absolute favorite food — so much so that even Honmaru, no matter how down he is, always ends up being lured along by it.[3F]",
         "MaxLength": 56,
         "Address": "0x3c501"
     },
     {
         "TextOriginal": "とっても ものしりで せんりがん゜いろんなものを[NL]みせてくれたり おしえてくれる゜でも ずるをする[NL]と こうせんで おしおきされてしまう゜[3F]",
         "TextTranslation": "Clairvoyant. Teaches[NL]things. Punishes liars.[NL][3F]",
+        "TranslationAccurate": "Extremely knowledgeable and has clairvoyant sight. Shows and teaches you all kinds of things. But if you try to cheat, you'll be punished with a beam of light.[3F]",
         "MaxLength": 70,
         "Address": "0x3c539"
     },
     {
         "TextOriginal": "タルるートのマント゜ そらをとぶとき マントが[NL]へんけいして つばさになり おおぞらを じゆうに[NL]とびまわれるようになる゜[3F]",
         "TextTranslation": "Taruruutos cape. Turns[NL]into wings, shield, etc.[NL][3F]",
+        "TranslationAccurate": "Taruruuto's cape. When flying through the sky, the cape transforms into wings, allowing free flight through the wide open skies.[3F]",
         "MaxLength": 62,
         "Address": "0x3c57f"
     },
     {
         "TextOriginal": "ちえと ゆうきが ボワーアッピするという リンゴ[NL]あじのジュース゜ からだが ベロベロのときは[NL]げんきになることができる゜[3F]",
         "TextTranslation": "Apple juice boosts[NL]wisdom and courage.[NL][3F]",
+        "TranslationAccurate": "An apple-flavored juice said to give your wisdom and courage a big power-up. When your body is completely exhausted, it can restore your energy.[3F]",
         "MaxLength": 62,
         "Address": "0x3c5bd"
     },
     {
         "TextOriginal": "これをもって おねがいすると そのほんのなかに[NL]はいることができる゜ただし なくしたりすると[NL]もどれなくなってしまうので ちゅうい゜[3F]",
         "TextTranslation": "Enter a book by holding[NL]it and wishing.[NL][3F]",
+        "TranslationAccurate": "Hold this and make a wish, and you can enter the book of your choice. However, be careful — if you lose it, you won't be able to get back.[3F]",
         "MaxLength": 67,
         "Address": "0x3c5fb"
     },
     {
         "TextOriginal": "これをつけると もっているひとのすがたを べつの[NL]ものに うつしだし じぶんの みがわりにすること[NL]ができる゜[3F]",
         "TextTranslation": "Projects users image[NL]to another object.[NL][3F]",
+        "TranslationAccurate": "Attach this and it projects the wearer's image onto another object, allowing you to use it as a decoy in your place.[3F]",
         "MaxLength": 56,
         "Address": "0x3c63e"
     },
     {
         "TextOriginal": "これをのむと おとこは おんなになり おんなは[NL]おとこになってしまう゜ これを つかったあとは[NL]オカマっぽく ならないように きをつけよう゜[3F]",
         "TextTranslation": "Drink swaps genders.[NL]Careful not to act[NL]weird.[3F]",
+        "TranslationAccurate": "Drink this and a male becomes female, a female becomes male. After using it, be careful not to start acting like your new gender, too.[3F]",
         "MaxLength": 71,
         "Address": "0x3c676"
     },
     {
         "TextOriginal": "タルるートの かずかずの まほうのアイテムが[NL]はいっている ふしぎなかばん゜いくつのアイテムが[NL]はいっているのかは まったくのなぞである゜[3F]",
         "TextTranslation": "Bag with Taruruutos[NL]items. How many are in[NL]there?[3F]",
+        "TranslationAccurate": "A mysterious bag holding Taruruuto's many magical items. Exactly how many items are inside is a complete mystery.[3F]",
         "MaxLength": 70,
         "Address": "0x3c6bd"
     },
     {
         "TextOriginal": "みるみる！という じゅもんで ものが すけて[NL]みえる ほんまるのだいすきなアイテム゜[NL]まじまじ！という じゅもんで もとにもどる゜[3F]",
         "TextTranslation": "Say MIRUMIRU! to see[NL]through things.[NL][3F]",
+        "TranslationAccurate": "Honmaru's favorite item. Say the spell \"MIRUMIRU!\" and things become transparent. Say \"MAJIMAJI!\" to return to normal.[3F]",
         "MaxLength": 66,
         "Address": "0x3c703"
     },
     {
         "TextOriginal": "めいじたものを やじるしのほうこうに まげること[NL]ができる゜みちしるべえ！とめいじると やじるしの[NL]ほうこうに じぶんが とんでいくこともできる゜[3F]",
         "TextTranslation": "Bends things in arrows[NL]direction. Say TARU! to[NL]turn to Straight-kun.[3F]",
+        "TranslationAccurate": "Can bend anything you command in the direction of the arrow. If you say the command \"MICHISHIRUBE!\" you yourself can fly off in the arrow's direction.[3F]",
         "MaxLength": 74,
         "Address": "0x3c745"
     },
     {
         "TextOriginal": "からだにつけて いきを ふきこむと きんにくが[NL]もりもり もりあがって すごいちからもちになる゜[NL]へろへろひんじゃくんなど ぎゃくアイテムもある゜[3F]",
         "TextTranslation": "Wear and blow to gain[NL]super strength.[NL][3F]",
+        "TranslationAccurate": "Put it on your body and blow into it, and your muscles swell up mightily, giving you incredible strength. There are also reverse items such as Weakling-kun.[3F]",
         "MaxLength": 74,
         "Address": "0x3c78f"
     },
     {
         "TextOriginal": "このやで あいてのハートを いると どんなに[NL]いじをはっていても すなおになっていまう゜[NL]よくにたアイテムに やあほれたくん がある゜[3F]",
         "TextTranslation": "Arrow makes anyone[NL]honest, even if[NL]stubborn.[3F]",
+        "TranslationAccurate": "Shoot this arrow into someone's heart and no matter how stubborn they are, they become honest and obedient. A similar item is \"Ya! I'm Smitten-kun.\"[3F]",
         "MaxLength": 68,
         "Address": "0x3c7d9"
     },
     {
         "TextOriginal": "これをたべると ゆめのせかいに はいれる゜[NL]ただし ゆめのなかで ケガをすると ほんとうに[NL]ケガをしてしまう゜ふたりで どうじにもつかえる゜[3F]",
         "TextTranslation": "Eat to enter dreams.[NL]Injuries are real.[NL][3F]",
+        "TranslationAccurate": "Eat this and you can enter the dream world. However, if you get hurt inside the dream, you get really hurt. Two people can use it at the same time.[3F]",
         "MaxLength": 71,
         "Address": "0x3c81d"
     },
     {
         "TextOriginal": "かおじゃしんをはると しゃしんに うつっている[NL]ひとの こうどうを あやつることができる゜[NL]なかまのアイテムに わらわらら がある゜[3F]",
         "TextTranslation": "Paste face photo to[NL]control person.[NL][3F]",
+        "TranslationAccurate": "Paste a person's photo onto it and you can control that person's actions. A related item is \"Warawarara.\"[3F]",
         "MaxLength": 67,
         "Address": "0x3c864"
     },
     {
         "TextOriginal": "て[B0]もら みわままよ゜[NL]ぃりほまわ[B0]ひぁまわ[NL]よもゆま ひ みもんめ・                                [3F]",
         "TextTranslation": "Swim freely[NL]underwater[NL]like a fish.[3F]",
+        "TranslationAccurate": "Swim freely[NL]underwater[NL]like a fish.[3F]",
         "MaxLength": 68,
         "Address": "0x3D556"
     },
     {
         "TextOriginal": "とめもりゆ みひんぁ…[NL]ふぃぁ ぃんま ぁるる らぃへめ[NL]ひりほ ゜るぃ ーるりま るぃぁ・                          [3F]",
         "TextTranslation": "Think fast,[NL]but use too much[NL]and you zone out.[3F]",
+        "TranslationAccurate": "Think fast,[NL]but use too much[NL]and you zone out.[3F]",
         "MaxLength": 73,
         "Address": "0x3D59A"
     },
     {
         "TextOriginal": "す゜んぁまわもるぃん[NL]ぁまひへめまわ [B0]める[NL]わひわまよ゜ ひれれまひわん・                                   [3F]",
         "TextTranslation": "Mysterious[NL]teacher who[NL]rarely appears.[3F]",
+        "TranslationAccurate": "Mysterious[NL]teacher who[NL]rarely appears.[3F]",
         "MaxLength": 74,
         "Address": "0x3D5E3"
     },
     {
         "TextOriginal": "ぬひわれ ひり゜[B0]めまわま…[NL]ふぃぁ らひゆまん ゜るぃ[NL]みひわぁ・                                   [3F]",
         "TextTranslation": "Warp anywhere,[NL]but makes you[NL]fart.[3F]",
+        "TranslationAccurate": "Warp anywhere,[NL]but makes you[NL]fart.[3F]",
         "MaxLength": 70,
         "Address": "0x3D62D"
     },
     {
         "TextOriginal": "・  [3F]",
         "TextTranslation": ".[3F]",
+        "TranslationAccurate": ".[3F]",
         "MaxLength": 4,
         "Address": "0x3D673"
     }

@@ -2,276 +2,322 @@
     {
         "TextOriginal": "Ae[42]iPqC[3F]",
         "TextTranslation": "        [3F]",
+        "TranslationAccurate": "        [3F]",
         "MaxLength": 9,
         "Address": "0x121C8"
     },
     {
         "TextOriginal": "B[4A]SsOH[3F]",
         "TextTranslation": "       [3F]",
+        "TranslationAccurate": "       [3F]",
         "MaxLength": 8,
         "Address": "0x121D1"
     },
     {
         "TextOriginal": "Bsn[BF]H[3F]",
         "TextTranslation": "     [3F]",
+        "TranslationAccurate": "     [3F]",
         "MaxLength": 6,
         "Address": "0x121D9"
     },
     {
         "TextOriginal": "[41][BD]HKsNB[3F]",
         "TextTranslation": "              [3F]",
+        "TranslationAccurate": "              [3F]",
         "MaxLength": 15,
         "Address": "0x121DF"
     },
     {
         "TextOriginal": "F[48]F[48][3F]",
         "TextTranslation": "    [3F]",
+        "TranslationAccurate": "    [3F]",
         "MaxLength": 5,
         "Address": "0x121EE"
     },
     {
         "TextOriginal": "[44][54]CNB[3F]",
         "TextTranslation": "      [3F]",
+        "TranslationAccurate": "      [3F]",
         "MaxLength": 7,
         "Address": "0x121F3"
     },
     {
         "TextOriginal": "[46]Rr[3F]",
         "TextTranslation": "   [3F]",
+        "TranslationAccurate": "   [3F]",
         "MaxLength": 4,
         "Address": "0x121FA"
     },
     {
         "TextOriginal": "L[BF]CG[3F]",
         "TextTranslation": "      [3F]",
+        "TranslationAccurate": "      [3F]",
         "MaxLength": 7,
         "Address": "0x121FE"
     },
     {
         "TextOriginal": "Vs[41][BF][3F]",
         "TextTranslation": "            [3F]",
+        "TranslationAccurate": "            [3F]",
         "MaxLength": 13,
         "Address": "0x12205"
     },
     {
         "TextOriginal": "NGn[BF]H[3F]",
         "TextTranslation": "     [3F]",
+        "TranslationAccurate": "     [3F]",
         "MaxLength": 6,
         "Address": "0x12212"
     },
     {
         "TextOriginal": "[48]sAH[3F]",
         "TextTranslation": "    [3F]",
+        "TranslationAccurate": "    [3F]",
         "MaxLength": 5,
         "Address": "0x12218"
     },
     {
         "TextOriginal": "Pe[3F]",
         "TextTranslation": "  [3F]",
+        "TranslationAccurate": "  [3F]",
         "MaxLength": 3,
         "Address": "0x1221D"
     },
     {
         "TextOriginal": "R[50]K[3F]",
         "TextTranslation": "   [3F]",
+        "TranslationAccurate": "   [3F]",
         "MaxLength": 4,
         "Address": "0x12220"
     },
     {
         "TextOriginal": "[52]s[40]HZFN[54]C[3F]",
         "TextTranslation": "         [3F]",
+        "TranslationAccurate": "         [3F]",
         "MaxLength": 10,
         "Address": "0x12224"
     },
     {
         "TextOriginal": "[52]sLs[3F]",
         "TextTranslation": "    [3F]",
+        "TranslationAccurate": "    [3F]",
         "MaxLength": 5,
         "Address": "0x1222E"
     },
     {
         "TextOriginal": "f[C3][FC][D0][3F]",
         "TextTranslation": "    [3F]",
+        "TranslationAccurate": "    [3F]",
         "MaxLength": 5,
         "Address": "0x12233"
     },
     {
         "TextOriginal": "GsVH[3F]",
         "TextTranslation": "            [3F]",
+        "TranslationAccurate": "            [3F]",
         "MaxLength": 13,
         "Address": "0x12238"
     },
     {
         "TextOriginal": "j[3F]",
         "TextTranslation": "  [3F]",
+        "TranslationAccurate": "  [3F]",
         "MaxLength": 3,
         "Address": "0x12245"
     },
     {
         "TextOriginal": "khkhs[3F]",
         "TextTranslation": "     [3F]",
+        "TranslationAccurate": "     [3F]",
         "MaxLength": 6,
         "Address": "0x12248"
     },
     {
         "TextOriginal": "D[4E][46][BF]Cdseo[3F]",
         "TextTranslation": "          [3F]",
+        "TranslationAccurate": "          [3F]",
         "MaxLength": 11,
         "Address": "0x12295"
     },
     {
         "TextOriginal": "FrBBlU[3F]",
         "TextTranslation": "        [3F]",
+        "TranslationAccurate": "        [3F]",
         "MaxLength": 9,
         "Address": "0x122A0"
     },
     {
         "TextOriginal": "ZmJRTg[3F]",
         "TextTranslation": "       [3F]",
+        "TranslationAccurate": "       [3F]",
         "MaxLength": 8,
         "Address": "0x122A9"
     },
     {
         "TextOriginal": "B[46][40]roB[3F]",
         "TextTranslation": "        [3F]",
+        "TranslationAccurate": "        [3F]",
         "MaxLength": 9,
         "Address": "0x122B1"
     },
     {
         "TextOriginal": "[46][BD][50]E[3F]",
         "TextTranslation": "           [3F]",
+        "TranslationAccurate": "           [3F]",
         "MaxLength": 12,
         "Address": "0x122BA"
     },
     {
         "TextOriginal": "n[BF]C[42]QjJpGl[3F]",
         "TextTranslation": "          [3F]",
+        "TranslationAccurate": "          [3F]",
         "MaxLength": 11,
         "Address": "0x122C6"
     },
     {
         "TextOriginal": "[45]Is[46][BD]XDl[3F]",
         "TextTranslation": "         [3F]",
+        "TranslationAccurate": "         [3F]",
         "MaxLength": 10,
         "Address": "0x122D1"
     },
     {
         "TextOriginal": "[45]Is[46][BD]XD[49]C[3F]",
         "TextTranslation": "          [3F]",
+        "TranslationAccurate": "          [3F]",
         "MaxLength": 11,
         "Address": "0x122DB"
     },
     {
         "TextOriginal": "EEAjen[3F]",
         "TextTranslation": "       [3F]",
+        "TranslationAccurate": "       [3F]",
         "MaxLength": 8,
         "Address": "0x122E6"
     },
     {
         "TextOriginal": "rN[4A]NsNB[3F]",
         "TextTranslation": "          [3F]",
+        "TranslationAccurate": "          [3F]",
         "MaxLength": 11,
         "Address": "0x122EE"
     },
     {
         "TextOriginal": "DiTeoD[3F]",
         "TextTranslation": "       [3F]",
+        "TranslationAccurate": "       [3F]",
         "MaxLength": 8,
         "Address": "0x122F9"
     },
     {
         "TextOriginal": "D[4E][46][BF]CL[BF]C[42]sYMI[3F]",
         "TextTranslation": "              [3F]",
+        "TranslationAccurate": "              [3F]",
         "MaxLength": 15,
         "Address": "0x12301"
     },
     {
         "TextOriginal": "D[4E][46][BF]CQ[4C]o[3F]",
         "TextTranslation": "         [3F]",
+        "TranslationAccurate": "         [3F]",
         "MaxLength": 10,
         "Address": "0x12310"
     },
     {
         "TextOriginal": "[46]s[42]C[46]C[42]s[46][3F]",
         "TextTranslation": "           [3F]",
+        "TranslationAccurate": "           [3F]",
         "MaxLength": 12,
         "Address": "0x1231A"
     },
     {
         "TextOriginal": "FrBBU[3F]",
         "TextTranslation": "      [3F]",
+        "TranslationAccurate": "      [3F]",
         "MaxLength": 7,
         "Address": "0x12326"
     },
     {
         "TextOriginal": "UVreR[44]qC[3F]",
         "TextTranslation": "         [3F]",
+        "TranslationAccurate": "         [3F]",
         "MaxLength": 10,
         "Address": "0x1232D"
     },
     {
         "TextOriginal": "kCL[BD][3F]",
         "TextTranslation": "    [3F]",
+        "TranslationAccurate": "    [3F]",
         "MaxLength": 5,
         "Address": "0x12337"
     },
     {
         "TextOriginal": "aFnh[40]f[3F]",
         "TextTranslation": "        [3F]",
+        "TranslationAccurate": "        [3F]",
         "MaxLength": 9,
         "Address": "0x1233C"
     },
     {
         "TextOriginal": "[4A]BEC[3F]",
         "TextTranslation": "            [3F]",
+        "TranslationAccurate": "            [3F]",
         "MaxLength": 13,
         "Address": "0x12345"
     },
     {
         "TextOriginal": "ZH[3F]",
         "TextTranslation": "          [3F]",
+        "TranslationAccurate": "          [3F]",
         "MaxLength": 11,
         "Address": "0x12352"
     },
     {
         "TextOriginal": "TCL[BF]C[3F]",
         "TextTranslation": "     [3F]",
+        "TranslationAccurate": "     [3F]",
         "MaxLength": 6,
         "Address": "0x1235D"
     },
     {
         "TextOriginal": "lC[46][BE]C[3F]",
         "TextTranslation": "     [3F]",
+        "TranslationAccurate": "     [3F]",
         "MaxLength": 6,
         "Address": "0x12363"
     },
     {
         "TextOriginal": "NsVs[3F]",
         "TextTranslation": "    [3F]",
+        "TranslationAccurate": "    [3F]",
         "MaxLength": 5,
         "Address": "0x12369"
     },
     {
         "TextOriginal": "PFm[50]sVs[3F]",
         "TextTranslation": "        [3F]",
+        "TranslationAccurate": "        [3F]",
         "MaxLength": 9,
         "Address": "0x1236E"
     },
     {
         "TextOriginal": "JPqC[3F]",
         "TextTranslation": "             [3F]",
+        "TranslationAccurate": "             [3F]",
         "MaxLength": 14,
         "Address": "0x12377"
     },
     {
         "TextOriginal": "J[49]C[3F]",
         "TextTranslation": "            [3F]",
+        "TranslationAccurate": "            [3F]",
         "MaxLength": 13,
         "Address": "0x12385"
     },
     {
         "TextOriginal": "HM[4A]KsLeB[3F]",
         "TextTranslation": "         [3F]",
+        "TranslationAccurate": "         [3F]",
         "MaxLength": 10,
         "Address": "0x12392"
     }
