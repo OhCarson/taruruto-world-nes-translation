@@ -31,7 +31,7 @@
             },
             {
                 "TextOriginal": "ほんまる「な[NL]なんだ？！[3E]タル「ふははははははァー！[3E]われこそは[NL]だい[NL]まほうつかい[NL]タルるートだあ！[WAIT][END_BOX]タル「おまえ[NL]ほんとにこまったンガー[NL]と[3E]じゅもんを[NL]となえた゜[NL]ねがいごと[NL]なんだ？[3E]ほんまる「じゃあ[NL]じゃばおを[NL]やっつけてくれ！！[WAIT][3F]",
-                "TextTranslation": "[Honmaru]:W-What?![NL][Taru]:Fuhahaha! I am[NL]Taruruuto![WAIT][END_BOX][Taru]:You said da spell[NL]'Trouble Zzz'.[NL]Wot's your wish?[WAIT][END_BOX][Honmaru]:Beat up [Jabao]![WAIT][3F]",
+                "TextTranslation": "[Honmaru]:W-What?![NL][Taru]:Fuhahaha! I am[NL]Taruruto![WAIT][END_BOX][Taru]:You said da spell[NL]'Trouble Zzz'.[NL]Wot's your wish?[WAIT][END_BOX][Honmaru]:Beat up [Jabao]![WAIT][3F]",
                 "TranslationAccurate": "[Honmaru]: Wh-What?! [Taru]: Fuhahahahaha! I am the great wizard Taruruuto! [Taru]: You chanted the spell 'I'm really in trouble, Zzz.' What is your wish? [Honmaru]: Then beat up Jabao for me!!",
                 "PointerAddress": "0x8"
             },
@@ -43,109 +43,109 @@
             },
             {
                 "TextOriginal": "ほんまる「おまえ[NL]ちっちゃいのに[NL]すげーなあ゜[3E]タル「エッヘン゜[NL]オレ[NL]だいまほうつかい゜[3E]ほんまる「タル[NL]もう1つ[NL]たのみが[NL]あるんだ…[WAIT][3F]",
-                "TextTranslation": "[Honmaru]:You're amazing.[BR][Taru]:Ahem! I'm a[BR]wizard. [Honmaru]:[Taru],[3C][3D]1 favor...[WAIT][3F]",
+                "TextTranslation": "[Honmaru]:Wow! Amazing short[NL]stuff![WAIT][END_BOX][Taru]:Ahem! I'm great[NL]wizard silly.[WAIT][END_BOX][Honmaru]:Hey [Taru]?[NL]can you do me another[NL]favor...[WAIT][3F]",
                 "TranslationAccurate": "[Honmaru]: You're amazing for being so small. [Taru]: Ahem. I am the great wizard, after all. [Honmaru]: Hey Taru, there's one more favor I want to ask...",
                 "PointerAddress": "0xC"
             },
             {
                 "TextOriginal": "タル「だめ゜[NL]もう[NL]ねがい[NL]かなえた゜[3E]ほんまる「そうじゃなくって[NL]ぜひ[NL]ともだちに[3E]なって[NL]ほしいんだ゜[WAIT][END_BOX]タル「おう！[NL]それなら[NL]いいぞ！[3E]ほんまる「じゃあ[NL]オレたちは[NL]ともだちだぜー！[3E]タル「わーい！！[PAGE][3F]",
-                "TextTranslation": "[Taru]:No. Wish granted.[BR][Honmaru]:No, be my[BR]friend.[3C][3D][Taru]:Oh! Okay![BR][Honmaru]:Friends now![BR][Taru]:Yay!![3F]",
+                "TextTranslation": "[Taru]:But [Honmaru], I already[NL]did![WAIT][END_BOX][Honmaru]:Wait no, I wanna be[NL]friends![WAIT][END_BOX][Taru]:Oh! Okay! Sure![NL][Honmaru]:We're Friends![WAIT][END_BOX][Taru]:Yay![PAGE][3F]",
                 "TranslationAccurate": "[Taru]: No. I already granted your wish. [Honmaru]: No, that's not it — I really want you to be my friend. [Taru]: Oh! If that's all, sure! [Honmaru]: Then we're friends now! [Taru]: Yay!!",
                 "PointerAddress": "0xE"
             },
             {
                 "TextOriginal": "タル「うみだー！！[3E]ほんまる「うひょー！[NL]いよなちゃんの[NL]みずぎが[3E]まぶしいぜー！！[35][END_BOX]いよな「やだァ[NL]ほんまるくん[NL]エッチ！[3E]いじがわ「ほんまる゜[NL]あんた[NL]およげるの？[3E]ほんまる「[69]カにするなよなー！[35][END_BOX]はらこ「よし゜ほんまる[NL]しょうぶだ゜[NL]おまえと[3E]タルの[NL]ふたりが[NL]オニだ゜[3E]ほんまる「のぞむところだぜ！[35][END_BOX]ほんまる「タル[NL]たのむぞ…[3E]タル「おう！[NL]まかせろ！[32][3F]",
-                "TextTranslation": "[Taru]:The ocean!![BR][Honmaru]:[Iyona]'s suit[BR]is dazzling!![35][END_BOX][Iyona]:[Honmaru][3C][3D]pervert! [Ijigawa]:Can you swim?[BR][Honmaru]:Don't mock[BR]me![35][END_BOX][Haradoko]:It's a match. You[3C][3D]two are \\\"It\\\".[BR][Honmaru]:You're[BR]on![35][END_BOX][Honmaru]:[Taru], counting[3C][3D]on you. [Taru]:Leave it to[BR]me![32][3F]",
+                "TextTranslation": "[Taru]:The ocean![NL][Honmaru]:[Iyona]'s swimsuit is[NL]dazzling![35][END_BOX][Iyona]:Eww, [Honmaru] you perv![NL][Ijigawa]:Hey [Honmaru]! Can you[NL]even swim ?[WAIT][END_BOX][Honmaru]:Cut it out [Ijigawa]![WAIT][END_BOX][Haradoko]:Hey [Honmaru],[Taru]![NL]I challenge you both![NL]The game? Tag.[WAIT][END_BOX][Haradoko]:And you two are It![NL][Honmaru]:You're on![WAIT][END_BOX][Honmaru]:[Taru], we got this![NL][Taru]:Leave it to me![32][3F]",
                 "TranslationAccurate": "[Taru]: The ocean!! [Honmaru]: Whoa! [Iyona]'s swimsuit is so dazzling!! [Iyona]: Eww, [Honmaru], you pervert! [Ijigawa]: [Honmaru], can you even swim? [Honmaru]: Don't make fun of me! [Haradoko]: Alright, it's a contest. You two — [Honmaru] and [Taru] — are 'It.' [Honmaru]: Bring it on! [Honmaru]: [Taru], I'm counting on you... [Taru]: Yeah! Leave it to me!",
                 "PointerAddress": "0x10"
             },
             {
                 "TextOriginal": "だい2わ[NL]みんなで[NL]かいすいよく[NL]のまき[PAGE][3F]",
-                "TextTranslation": "Ep2:Swimming![3F]",
+                "TextTranslation": "Ep2:Swimming![PAGE][3F]",
                 "TranslationAccurate": "Ep2:Swimming![3F]",
                 "PointerAddress": "0x12"
             },
             {
                 "TextOriginal": "タル「みんな[NL]つかまえたぞー！[3E]ほんまる「ちょろいぜー！[3E]はらこ「ふん゜タルにばかり[NL]たよっていたくせに…[WAIT][END_BOX]いじがわ「じゃあ[NL]こんどは[NL]みんなで[NL]タルを[3E]つかまえようぜ！[3E]タル「わーい！！[PAGE][3F]",
-                "TextTranslation": "[Taru]:Caught everyone![BR][Honmaru]:Piece of cake![BR][Haradoko]:You just used[3C][3D][Taru]..[3C][3D][Ijigawa]:Let's catch [Taru]![BR][Taru]:Yay!![3F]",
+                "TextTranslation": "[Taru]:Caught everyone![NL][Honmaru]:Piece of cake![NL][Haradoko]:You did nothing [Honmaru]![WAIT][END_BOX][Ijigawa]:Let's catch [Taru]![NL][Taru]:Yay!![PAGE][3F]",
                 "TranslationAccurate": "[Taru]: I caught everyone! [Honmaru]: That was easy! [Haradoko]: Hmph. You just relied on [Taru] the whole time... [Ijigawa]: Alright, this time let's all try to catch [Taru]! [Taru]: Yay!!",
                 "PointerAddress": "0x14"
             },
             {
                 "TextOriginal": "タル「ほんまる[NL]なに[NL]みてる？[3E]ほんまる「とーちゃんのかいた[NL]えほんだぜ゜[3E]この[NL]しゅじんこう[NL][69]カで[NL]おくびょうもんだぜ！[WAIT][END_BOX]りあ「でも[NL]そのばにいたら[NL]にげだすんじやない？[3E]ほんまる「いや[NL]オレは[NL]やるぜー！[3E]りあ「そう゜[NL]じゃあ[NL]しょうかいするわ…[WAIT][3F]",
-                "TextTranslation": "[Taru]:What's that?[BR][Honmaru]:[Dad]'s picture[BR]book. The hero is a[3C][3D]coward![3C][3D][Ria]:Would you run away?[BR][Honmaru]:No, I'd fight![BR][Ria]:Really. Meet...[WAIT][3F]",
+                "TextTranslation": "[Taru]:What's that?[NL][Honmaru]:A manga [Dad] drew.[NL]The hero is a coward![WAIT][END_BOX][Ria]:But aren't you a bit[NL]of a coward [Honmaru]?[WAIT][END_BOX][Honmaru]:No, I'm a fighter![BR][Ria]:Well if that's the[NL]case...[WAIT][3F]",
                 "TranslationAccurate": "[Taru]: What are you looking at? [Honmaru]: It's a picture book Dad drew. The main character is a fool and a total coward! [Ria]: But if you were there, wouldn't you run away too? [Honmaru]: No way, I'd fight! [Ria]: Is that so. Then let me introduce you...",
                 "PointerAddress": "0x16"
             },
             {
                 "TextOriginal": "りあ「ぶんがくはかせぼう゜[NL]これを[NL]つかえば[3E]ほんのなかに[NL]はいれるのよ゜[3E]ほんまる「よーし゜[NL]じゃあ[NL]いってくるぜー！[WAIT][3F]",
-                "TextTranslation": "[Ria]:The Lit Hat. Enter[BR]the book with it.[BR][Honmaru]:Alright, going[3C][3D]in![WAIT][3F]",
+                "TextTranslation": "[Ria]:It's [MrHat]![NL]You can enter the[NL]book world with it.[WAIT][END_BOX][Honmaru]:I'll show you![NL]In I go![WAIT][3F]",
                 "TranslationAccurate": "[Ria]: The Literature Scholar's Hat. If you use this, you can enter the world of the book. [Honmaru]: Alright then, I'm going in!",
                 "PointerAddress": "0x18"
             },
             {
                 "TextOriginal": "だい3わ[NL]ゆうしゃ[NL]タルるート！[NL]のまき[PAGE][3F]",
-                "TextTranslation": "Ep3:Hero Taruruuto![3F]",
+                "TextTranslation": "Ep3:Hero Taruruto![PAGE][3F]",
                 "TranslationAccurate": "Ep3:Hero Taruruuto![3F]",
                 "PointerAddress": "0x1A"
             },
             {
                 "TextOriginal": "ドブルク「おまえたち[NL]やるなあ゜オレの[NL]けらいに[3E]してやろうか？[3E]ほんまる「よくゆうぜ！なにも[NL]しなかったくせに゜[WAIT][END_BOX]ドブルク「ふん゜おまえだって[NL]タルるートにばかり[3E]たたかわせてたくせに゜[3E]タル「おう゜ほんまる[NL]ずる！[WAIT][END_BOX]ほんまる「じゃあ[NL]オレたちは[NL]もう[NL]かえるけど[3E]あとのことは[NL]たのんだぜ[NL]ドブルクー！[3E]ドブルク「まかせろ゜オレは[NL]ゆうしゃだぞー！[WAIT][END_BOX]ほんまる「ぶんがくはかせぼう[NL]もとのせかいへ！[3E]はかせぼう「よろしい゜では…[NL]エッホン！[3E]タル「[69]イ[69]ーイ！！[PAGE][3F]",
-                "TextTranslation": "[Doberk]:Want to be my men?[BR][Honmaru]:You didn't do[BR]anything![3C][3D][Doberk]:You let [Taru] fight.[BR][Taru]:Yeah, [Honmaru] is unfair![3C][3D][Honmaru]:We're going[BR]home. I'll leave it to[BR]you, [Doberk]! [Doberk]:I'm a hero![3C][3D][Honmaru]:Hat, take us[BR]back! [MrHat]:Very well...[BR]Ahem! [Taru]:E-Eeeh!![3F]",
+                "TextTranslation": "[Doberk]:You two are okay.[NL]Want to be my[NL]underlings?[WAIT][END_BOX][Honmaru]:But you didn't do[NL]anything![WAIT][END_BOX][Doberk]:Wait, you just let[NL][Taru] do the fighting![NL][Taru]:It's not fair [Honmaru]![WAIT][END_BOX][Honmaru]:We're off home.[NL]It's up to you now [Doberk]![WAIT][END_BOX][Doberk]:I got this![NL]I'm a hero![WAIT][END_BOX][Honmaru]:[MrHat]take us back![NL][MrHat]:Very well...[NL]Ahem![WAIT][END_BOX][Taru]:E-Eeeh!![PAGE][3F]",
                 "TranslationAccurate": "[Doberk]: You two are pretty good. How about I make you my underlings? [Honmaru]: Easy for you to say! You didn't do anything! [Doberk]: Hmph. You're one to talk — you had Taruruuto do all the fighting for you. [Taru]: Yeah! [Honmaru] is not being fair! [Honmaru]: Anyway, we're going home now. The rest is up to you, Doberk! [Doberk]: Leave it to me. I am a hero after all! [Honmaru]: Literature Scholar's Hat, take us back to the real world! [Hat]: Very well. Then... Ahem! [Taru]: E-Eeeh!!",
                 "PointerAddress": "0x1C"
             },
             {
                 "TextOriginal": "タル「わーい！[NL]スキーじょうだー！！[3E]いじがわ「みんなで[NL]レースしようぜ゜[3E]ほんまる「レ[NL]レース？！[WAIT][END_BOX]いじがわ「あんた[NL]すべれないんでしょ？[3E]ほんまる「こうみえても[NL]えどじょうスキーまる[NL]と[3E]よばれていたほどの[NL]うでまえだぜー[WAIT][END_BOX]はらこ「ほう゜[NL]それは[NL]たのしみだな゜[3E]いよな「ほんまるくんに[NL]コーチしてもらおうかな…[3E]じゃばお「じゃあ[NL]リフトに[NL]のろうぜ！[WAIT][3F]",
-                "TextTranslation": "[Taru]:Yay! A ski[BR]resort!! [Ijigawa]:Let's have a[BR]race. [Honmaru]:R-Race?![3C][3D][Ijigawa]:You can't ski?[BR][Honmaru]:I was the Ski[BR]Master![3C][3D][Haradoko]:Ho, I look forward.[BR][Iyona]:[Honmaru], coach me?[BR][Jabao]:Let's get on the[3C][3D]lift![WAIT][3F]",
+                "TextTranslation": "[Taru]:Yay! A ski resort![NL][Ijigawa]:How 'bouta race?[WAIT][END_BOX][Honmaru]:R-Race?![NL][Ijigawa]:Can't ski huh [Honmaru]?[WAIT][END_BOX][Honmaru]:Don't let my looks[NL]fool you, I'm a[NL]ski master![WAIT][END_BOX][Haradoko]:Hooo!? This I[NL]Gotta see![WAIT][END_BOX][Iyona]:[Honmaru] think you can be[NL]my coach?[WAIT][END_BOX][Jabao]:Okay![NL]To the ski lifts![WAIT][3F]",
                 "TranslationAccurate": "[Taru]: Yay! It's a ski resort!! [Ijigawa]: Let's all have a race. [Honmaru]: A-a race?! [Ijigawa]: You can't ski, can you? [Honmaru]: Don't let these looks fool you — I was known as the Ski Master of Edojo! [Haradoko]: Oh? I look forward to seeing that. [Iyona]: Maybe I can have [Honmaru] coach me... [Jabao]: Alright, let's get on the lift!",
                 "PointerAddress": "0x1E"
             },
             {
                 "TextOriginal": "ほんまる「タルー[NL]かわりに[NL]すべってくれよー[3E]オレ[NL]ほんとは[NL]ぜんぜん[NL]すべれないんだ…゜[3E]タル「おう゜[NL]わかった！[NL]かわりに[NL]すべる！[WAIT][END_BOX]ほんまる「サンキュー[NL]タル！[NL]そのあいだに[3E]とっくんして[NL]すべれるように[NL]なっておくぜ！[WAIT][3F]",
-                "TextTranslation": "[Honmaru]:[Taru], ski for[BR]me! I actually can't[BR]ski... [Taru]:Okay! I'll[3C][3D]ski![3C][3D][Honmaru]:Thanks [Taru]![BR]While you do that, I'll[BR]train![WAIT][3F]",
+                "TextTranslation": "[Honmaru]:[Taru] ski for me![NL]I can't ski at all![WAIT][END_BOX][Taru]:You got it [Honmaru]![NL][Honmaru]:Thanks [Taru]![WAIT][END_BOX]While you do that,[NL]]I'll learn![WAIT][3F]",
                 "TranslationAccurate": "[Honmaru]: [Taru], ski in my place! I actually can't ski at all... [Taru]: Got it! I'll ski for you! [Honmaru]: Thanks, [Taru]! While you do that, I'll train hard and learn how to ski!",
                 "PointerAddress": "0x20"
             },
             {
                 "TextOriginal": "だい4わ[NL]はくぎんの[NL]スキーまる？[NL]のまき[PAGE][3F]",
-                "TextTranslation": "Ep4:Silver Ski Master?[3F]",
+                "TextTranslation": "Ep4:Silver Ski Master?[PAGE][3F]",
                 "TranslationAccurate": "Ep4:Silver Ski Master?[3F]",
                 "PointerAddress": "0x22"
             },
             {
                 "TextOriginal": "いよな「すごいわ[NL]タルちゃん！[NL]1とうしょうよ！[3E]いじがわ「たこやき[NL]100コ[NL]おごってやるぜ゜[3E]タル「わーい！！[WAIT][3F]",
-                "TextTranslation": "[Iyona]:Amazing! 1st place![BR][Ijigawa]:I'll buy takoyaki.[BR][Taru]:Yay!![WAIT][3F]",
+                "TextTranslation": "[Iyona]:Wow [Taru]! 1st place![NL][Ijigawa]:I'll treat you to[NL]100 takoyaki![WAIT][END_BOX][Taru]:Yay!![WAIT][3F]",
                 "TranslationAccurate": "[Iyona]: Amazing, [Taru]! First place! [Ijigawa]: I'll treat you to 100 takoyaki. [Taru]: Yay!!",
                 "PointerAddress": "0x24"
             },
             {
                 "TextOriginal": "いよな「タルちゃん[NL]うまいのね！[3E]はらこ「オレと[NL]はりあうのは[NL]10ねんはやいな゜[WAIT][3F]",
-                "TextTranslation": "[Iyona]:[Taru], so good![BR][Haradoko]:10 years too early.[WAIT][3F]",
+                "TextTranslation": "[Iyona]:Woohoo [Taru],amazing skiing![WAIT][END_BOX][Haradoko]:You couldn't surpass[NL]me given 10 years![NL]Muahahaah![WAIT][3F]",
                 "TranslationAccurate": "[Iyona]: [Taru], you're so good at skiing! [Haradoko]: It's ten years too early to compete with me.",
                 "PointerAddress": "0x26"
             },
             {
                 "TextOriginal": "じゃばお「ところで[NL]ほんまるは？[3E]いじがわ「さっき[NL]タンカで[NL]はこばれてたぜ！[3E]タル「オレ[NL]スキーだいすきー！！[PAGE][3F]",
-                "TextTranslation": "[Jabao]:Where's[BR][Honmaru]? [Ijigawa]:On a[BR]stretcher! [Taru]:I love[3C][3D]skiing!![3F]",
+                "TextTranslation": "[Jabao]:Hey, where's[Honmaru]?[NL][Ijigawa]:What's left of him is[Nl]on a strecher![Taru]:I love skiing![PAGE][3F]",
                 "TranslationAccurate": "[Jabao]: By the way, where's [Honmaru]? [Ijigawa]: He was just carried off on a stretcher! [Taru]: I love skiing!!",
                 "PointerAddress": "0x28"
             },
             {
                 "TextOriginal": "ほんまる「タルー゜おまえ[NL]ともだち[NL]いないのか？[3E]タル「ほんまる[NL]ともだち！[3E]ほんまる「オレいがいでだよー゜[WAIT][END_BOX]タル「んー…[WAIT][3F]",
-                "TextTranslation": "[Honmaru]:[Taru]... Any[BR]friends? [Taru]:[Honmaru][BR]is my friend![3C][3D][Honmaru]:Besides me.[3C][3D][Taru]:Hmm...[WAIT][3F]",
+                "TextTranslation": "[Honmaru]:[Taru]You got any friends? [Taru]:[Honmaru]'s my friend![3C][3D][Honmaru]:Well, besides me.[3C][3D][Taru]:Hmm...[WAIT][3F]",
                 "TranslationAccurate": "[Honmaru]: Hey [Taru]. Don't you have any friends? [Taru]: [Honmaru] is my friend! [Honmaru]: I mean besides me. [Taru]: Hmm...",
                 "PointerAddress": "0x2A"
             },
             {
                 "TextOriginal": "ライ[69]ー「ひさしぶりだな！[NL]タルるート！[3E]タル「わーい[NL]オレのともだち[NL]ライ[69]ー！！[3E]ライ[69]ー「なれなれしく[NL]するな！[WAIT][END_BOX]ライ[69]ー「オレのすきな[NL]ミモラちゃんの[NL]こころを[3E]うばった[NL]おまえを[NL]オレは[NL]ゆるさねー！[3E]ふくしゅうしてやるぜ！！[NL]しねー！！[WAIT][3F]",
                 "TextTranslation": "[Rai]:Been a while, [Taru]![BR][Taru]:Yay! My friend[BR][Rai]!! [Rai]:Don't be[3C][3D]friendly![3C][3D][Rai]:You stole [Mimora]! I[BR]will never forgive you![BR]Die!![WAIT][3F]",
-                "TranslationAccurate": "[Rai]: It's been a while, Taruruuto! [Taru]: Yay! My friend [Rai]!! [Rai]: Don't be so familiar with me! [Rai]: I'll never forgive you for stealing the heart of [Mimora], the girl I love! I'll get my revenge!! Die!!",
+                "TranslationAccurate": "[Rai]: It's been a while, Taruruto! [Taru]: Yay! My friend [Rai]!! [Rai]: Don't be so familiar with me! [Rai]: I'll never forgive you for stealing the heart of [Mimora], the girl I love! I'll get my revenge!! Die!!",
                 "PointerAddress": "0x2C"
             },
             {
                 "TextOriginal": "ミモラ「タルさまを[NL]いぢめるなー！[3E]ライ[69]ー「ミ[NL]ミモラちゃん！[3E]ミモラ「ライ[69]ー！[NL]きらいに[NL]なっちゃうぞー！[WAIT][END_BOX]ライ[69]ー「わー[NL]それだけは[NL]かんべんしてっ！[3E]タルるート！[NL]きょうのところは[NL]みのがしてやる！[3E]だが[NL]かならず[NL]やっつけてやる！[NL]あばよ[WAIT][3F]",
-                "TextTranslation": "[Mimora]:Don't bully [Taru]![BR][Rai]:Mi-[Mimora]-chan![BR][Mimora]:I'll hate you![3C][3D][Rai]:Waah, please no![BR]Taruruuto! I'll let you[BR]off today! Bye![WAIT][3F]",
+                "TextTranslation": "[Mimora]:Don't bully [Taru]![BR][Rai]:Mi-[Mimora]-chan![BR][Mimora]:I'll hate you![3C][3D][Rai]:Waah, please no![BR]Taruruto! I'll let you[BR]off today! Bye![WAIT][3F]",
                 "TranslationAccurate": "[Mimora]: Stop bullying [Taru]-sama! [Rai]: Mi-[Mimora]-chan! [Mimora]: I'll come to hate you, [Rai]! [Rai]: Waah, anything but that! Taruruuto! I'll let you off for today! But I'll definitely beat you someday! See ya!",
                 "PointerAddress": "0x2E"
             },
@@ -253,7 +253,7 @@
             },
             {
                 "TextOriginal": "ほんまる「うひょう！[NL]いよなちゃん[NL]イカスー！！[3E]いよな「いやーん゜[NL]ほんまるくん[NL]エッチ！[3F]",
-                "TextTranslation": "[Honmaru]:Whoa! [Iyona][BR]is cool!! [Iyona]:No! [Honmaru][BR]pervert![3F]",
+                "TextTranslation": "[Honmaru]:Whoa! [Iyona] is a total[NL]hottie![NL][Iyona]:AHG! [Honmaru] you perv![3F]",
                 "TranslationAccurate": "[Honmaru]: Whoa! [Iyona] is so hot!! [Iyona]: Ewww. [Honmaru], you pervert!",
                 "PointerAddress": "0x52"
             },
