@@ -7,37 +7,37 @@
         "Entries": [
             {
                 "TextOriginal": "じゃばお「ほんまる！[NL]おまえにかりた[NL]しゅくだい[3E]ぜんぶ[NL]まちがってて[NL]ハジかいたじゃねーか！[WAIT][END_BOX]ほんまる「なんだと！[NL]ひとに[NL]しゅくだいを[3E]みせてもらっといて[NL]その[NL]いいぐさは[NL]なんだー！[PAGE][3F]",
-                "TextTranslation": "[Jabao]:[Honmaru]! The[BR]work was wrong! I look[BR]dumb![3C][3D][Honmaru]:What! You[BR]copied me and now you're[BR]mad?![3F]",
+                "TextTranslation": "[Jabao]:[Honmaru]! Your homework[NL]was wrong! I look dumb![WAIT][END_BOX][Honmaru]:What! You copied me[NL]and now you're mad?[PAGE][3F]",
                 "TranslationAccurate": "[Jabao]: [Honmaru]! The homework I borrowed from you was all wrong — I looked like a total idiot! [Honmaru]: What are you talking about?! You had someone show you their homework and now you're complaining about it?!",
                 "PointerAddress": "0x0"
             },
             {
                 "TextOriginal": "おおあや「けんかなら[NL]そとで[NL]やりなさい！[3E]じゃばお「よし[NL]うらの[NL]あきちで[NL]しょうぶだ！[3E]ほんまる「のぞむところだぜ！！[PAGE][3F]",
-                "TextTranslation": "[Miss Ooaya]:Fight[BR]outside! [Jabao]:Empty[BR]lot, now![3C][3D][Honmaru]:You're on!![3F]",
+                "TextTranslation": "[Miss Ooaya]:Hey! Fight outside[NL][Jabao]:You heard her [Honmaru]![WAIT][END_BOX][Honmaru]:You're on![PAGE][3F]",
                 "TranslationAccurate": "[Miss Ooaya]: If you're going to fight, take it outside! [Jabao]: Fine! Let's settle this in the empty lot out back! [Honmaru]: Bring it on!!",
                 "PointerAddress": "0x2"
             },
             {
                 "TextOriginal": "ほんまる「…とは[NL]いったものの[NL]じゃばおにかつ[3E]じしんは[NL]ないし…゜とーちゃん[NL]たすけてくれよ…[3E]とーちゃん「いま[NL]まほうのけんきゅうちゅうだ！[PAGE][3F]",
-                "TextTranslation": "[Honmaru]:I said that,[BR]but I can't win... [Dad],[BR]help! [Dad]:I'm doing[3C][3D]magic![3F]",
+                "TextTranslation": "[Honmaru]:I said I'd fight[NL]but I can't win.[NL][Dad],help![WAIT][END_BOX][Dad]:I'm busy doing magic![PAGE][3F]",
                 "TranslationAccurate": "[Honmaru]: ...I said that, but I don't actually have the confidence to beat Jabao... Dad, help me out... [Dad]: I'm in the middle of my magic research right now!",
                 "PointerAddress": "0x4"
             },
             {
                 "TextOriginal": "ほんまる「なあー[NL]とーちゃんてば！[3E]とーちゃん「ンガー[NL]ンガー…[3E]ほんまる「あれ[NL]とーちゃん[NL]ねちまったのか？[WAIT][END_BOX]ほんまる「ほんとに[NL]こまった…[3E]とーちゃん「ンガー…[PAGE][3F]",
-                "TextTranslation": "[Honmaru]:Come on, [Dad]![BR][Dad]:Zzz...[BR][Honmaru]:He's asleep?[3C][3D][Honmaru]:I'm in[BR]trouble... [Dad]:Zzz...[3F]",
+                "TextTranslation": "[Honmaru]:Hey [Dad]![NL][Dad]:Zzz...[NL][Honmaru]:He's asleep?[WAIT][END_BOX][Honmaru]:I'm in trouble...[NL][Dad]:Zzz...[PAGE][3F]",
                 "TranslationAccurate": "[Honmaru]: Hey, Dad! [Dad]: Zzz... Zzz... [Honmaru]: Huh? Did Dad fall asleep? [Honmaru]: This is really bad... [Dad]: Zzz...",
                 "PointerAddress": "0x6"
             },
             {
                 "TextOriginal": "ほんまる「な[NL]なんだ？！[3E]タル「ふははははははァー！[3E]われこそは[NL]だい[NL]まほうつかい[NL]タルるートだあ！[WAIT][END_BOX]タル「おまえ[NL]ほんとにこまったンガー[NL]と[3E]じゅもんを[NL]となえた゜[NL]ねがいごと[NL]なんだ？[3E]ほんまる「じゃあ[NL]じゃばおを[NL]やっつけてくれ！！[WAIT][3F]",
-                "TextTranslation": "[Honmaru]:W-What?![BR][Taru]:Fuhahaha! I am[BR]Taruruuto![3C][3D][Taru]:You said the spell[BR]'trouble Zzz'. Wish?[BR][Honmaru]:Beat [Jabao]!![WAIT][3F]",
+                "TextTranslation": "[Honmaru]:W-What?![NL][Taru]:Fuhahaha! I am[NL]Taruruuto![WAIT][END_BOX][Taru]:You said da spell[NL]'Trouble Zzz'.[NL]Wot's your wish?[WAIT][END_BOX][Honmaru]:Beat up [Jabao]![WAIT][3F]",
                 "TranslationAccurate": "[Honmaru]: Wh-What?! [Taru]: Fuhahahahaha! I am the great wizard Taruruuto! [Taru]: You chanted the spell 'I'm really in trouble, Zzz.' What is your wish? [Honmaru]: Then beat up Jabao for me!!",
                 "PointerAddress": "0x8"
             },
             {
                 "TextOriginal": "だい1わ[NL]じゃばおと[NL]けっとう！[NL]のまき[PAGE][3F]",
-                "TextTranslation": "Ep1:Duel with [Jabao]![3F]",
+                "TextTranslation": "Ep1:Beat [Jabao]![PAGE][3F]",
                 "TranslationAccurate": "Ep1:Duel with [Jabao]![3F]",
                 "PointerAddress": "0xA"
             },
