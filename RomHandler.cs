@@ -56,6 +56,9 @@ namespace TaruruutoCLI
         {
             int currentPrgBlocks = romData[4];
             int currentChrBlocks = romData[5];
+            
+            if (currentChrBlocks >= 32) return; // Already 256KB CHR max
+
             int currentPrgSize = currentPrgBlocks * 16384;
             int currentChrSize = currentChrBlocks * 8192;
 
@@ -63,6 +66,14 @@ namespace TaruruutoCLI
 
             Array.Copy(romData, 0, newRom, 0, 16 + currentPrgSize + currentChrSize);
             for (int i = 0; i < extraBlocks * 8192; i++) newRom[16 + currentPrgSize + currentChrSize + i] = 0x00;
+
+            int chrBase = 16 + currentPrgSize;
+            
+            // Copy Bank 112-119 (8KB) to Bank 136-143
+            Array.Copy(romData, chrBase + (112 * 1024), newRom, chrBase + (136 * 1024), 8192);
+
+            // Copy Bank 120-127 (8KB) to Bank 128-135
+            Array.Copy(romData, chrBase + (120 * 1024), newRom, chrBase + (128 * 1024), 8192);
 
             newRom[5] = (byte)(currentChrBlocks + extraBlocks);
             this.romData = newRom;

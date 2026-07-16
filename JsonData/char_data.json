@@ -4,230 +4,230 @@
         "TextTranslation": "Honmaru's best friend.[NL]A dropout wizard who[NL]helps him with items.[3F]",
         "TranslationAccurate": "Honmaru's best friend. As a wizard he's a bit of a dropout, but he helps Honmaru with his many magic items. He loves takoyaki.[3F]",
         "MaxLength": 74,
-        "Address": "0x3CC5A"
+        "Address": "0x42C5A"
     },
     {
         "TextOriginal": "[69]カで ちょっとスケブな しょうがくせい゜だが[NL]とっくんで なんでもものにしてしまう どりょくか[NL]でもある゜いつも いよなのことを きにしている゜[3F]",
         "TextTranslation": "Perverted and dumb, but[NL]a hard-working student[NL]who cares for Iyona.[3F]",
         "TranslationAccurate": "A slightly dim and a bit perverted elementary schooler. But through hard training he manages to master anything—he's quite the hard worker. He always has Iyona on his mind.[3F]",
         "MaxLength": 74,
-        "Address": "0x3CCA4"
+        "Address": "0x42CA4"
     },
     {
         "TextOriginal": "ずのうめいせき うんどうしんけい ばつぐんの[NL]こころのやさしい かわいい おんなのこ゜[NL]なんにでも なまえをつけるくせがある゜[3F]",
         "TextTranslation": "Smart, athletic, and[NL]kind-hearted cute girl.[NL]Names everything.[3F]",
         "TranslationAccurate": "A cute girl with a keen mind, exceptional athleticism, and a gentle heart. She has a habit of giving names to everything she encounters.[3F]",
         "MaxLength": 64,
-        "Address": "0x3CCEE"
+        "Address": "0x42CEE"
     },
     {
         "TextOriginal": "でんりょくがいしゃの おんぞうし゜ふけているが[NL]しょうがくせい゜さまざまな せかいコンテストで[NL]ゆうしゅうなせいせきをもつ゜ほんまるのライ[69]ル゜[3F]",
         "TextTranslation": "Heir to a power company.[NL]Looks old but is a kid.[NL]Honmaru's rich rival.[3F]",
         "TranslationAccurate": "The young heir to an electric power company. He looks mature but is actually an elementary schooler. He has achieved excellent results in various international competitions. He is Honmaru's rival.[3F]",
         "MaxLength": 73,
-        "Address": "0x3CD2E"
+        "Address": "0x42D2E"
     },
     {
         "TextOriginal": "いじがわるく いつも ほんまるに ちょっかいを[NL]だして たのしんでいる゜ でも ほんまるのことが[NL]ちょっとすきな おんなのこ゜[3F]",
         "TextTranslation": "Mean girl who enjoys[NL]teasing Honmaru.[NL]But she likes him.[3F]",
         "TranslationAccurate": "A mean-spirited girl who always enjoys picking on and teasing Honmaru. But deep down, she actually likes him just a little.[3F]",
         "MaxLength": 64,
-        "Address": "0x3CD77"
+        "Address": "0x42D77"
     },
     {
         "TextOriginal": "わがままで デビのしょうがくせい゜ほんまるには[NL]ちょっと じゃまなそんざい゜ せいぎのてっけん[NL]さいたまけん をもつが あまり しられていない゜[3F]",
         "TextTranslation": "Selfish student. A bit[NL]of a nuisance. Uses the[NL]Fist of Justice Saitama[3F]",
         "TranslationAccurate": "A selfish and devilish elementary schooler. He is something of a nuisance to Honmaru. He wields the Iron Fist of Justice: the Saitama Prefecture Punch, though it is not very well known.[3F]",
         "MaxLength": 73,
-        "Address": "0x3CDB7"
+        "Address": "0x42DB7"
     },
     {
         "TextOriginal": "ちょっと いやみな しょうがくせい゜[NL]いつも じゃばおのそばに くっついている゜[NL]ちかごろは あまり そんざいかんがない゜[3F]",
         "TextTranslation": "Slightly annoying kid.[NL]Sticks by Jabao.[NL]Lacks presence.[3F]",
         "TranslationAccurate": "A slightly unpleasant elementary schooler. He is always hanging around by Jabao's side. Lately he doesn't really have much of a presence.[3F]",
         "MaxLength": 62,
-        "Address": "0x3CE00"
+        "Address": "0x42E00"
     },
     {
         "TextOriginal": "なんのしょうがっこう きょうゆ゜ほんまるたちの[NL]たんにんのせんせい゜ おおあやまりの きょういく[NL]りねんの もちぬし゜ ぶどう あわせて10だん゜[3F]",
         "TextTranslation": "Honmaru's teacher. Has a[NL]misguided philosophy but[NL]is a 10th dan master.[3F]",
         "TranslationAccurate": "A teacher at Nanto Elementary School. She is the homeroom teacher for Honmaru and his classmates. She holds a seriously misguided educational philosophy. She is a combined 10th dan master of martial arts.[3F]",
         "MaxLength": 74,
-        "Address": "0x3CE3E"
+        "Address": "0x42E3E"
     },
     {
         "TextOriginal": "ほんまるが ホルモンガーをのんで おんなのこに[NL]へんしんした すがた゜ けっこう かわいい゜[NL]はらこが ちょっと きにいっている゜[3F]",
         "TextTranslation": "Honmaru transformed[NL]into a girl.[NL]Tsutomu likes her.[3F]",
         "TranslationAccurate": "The form Honmaru takes after drinking the Hormona-Ga potion and transforming into a girl. She is quite cute. Tsutomu Harako has taken a bit of a liking to her.[3F]",
         "MaxLength": 66,
-        "Address": "0x3CE88"
+        "Address": "0x42E88"
     },
     {
         "TextOriginal": "タルるートの おねえさん゜ すごい びじん゜[NL]タルのまほうが 10ぷんしか もたないのにたいし[NL]りあのまほうは 10かかん こうかが つづく゜[3F]",
         "TextTranslation": "Taruruuto's beautiful[NL]older sister. Her magic[NL]lasts 10 entire days.[3F]",
         "TranslationAccurate": "Taruruuto's older sister. An absolute beauty. Whereas Taru's magic only lasts 10 minutes, Ria's magic effects last for a full 10 days.[3F]",
         "MaxLength": 72,
-        "Address": "0x3CECA"
+        "Address": "0x42ECA"
     },
     {
         "TextOriginal": "タルるートのことが だいすきな おんなのこ゜[NL]タルの おさななじみ゜ かんじょうが たかぶると[NL]きょうれつな あんまりですわボンチ！がとびだす゜[3F]",
         "TextTranslation": "Taruruuto's childhood[NL]friend who loves him.[NL]Shouts when emotional.[3F]",
         "TranslationAccurate": "A girl who is deeply in love with Taruruuto. She is his childhood friend. When her emotions run high, she lets fly with her powerful \"This is just too much, Bonchi!\" outburst.[3F]",
         "MaxLength": 73,
-        "Address": "0x3CF12"
+        "Address": "0x42F12"
     },
     {
         "TextOriginal": "タルるートのライ[69]ル゜ といっても そうおもって[NL]いるのは ほんにんだけ゜ ミモラがすきで タルを[NL]おとしいれようとするが いつも うらめにでる゜[3F]",
         "TextTranslation": "Self-proclaimed rival.[NL]Likes Mimora and tries[NL]to trap Taru but fails.[3F]",
         "TranslationAccurate": "Taruruuto's rival—though only he himself thinks so. He has feelings for Mimora and constantly tries to bring Taru down, but his schemes always backfire.[3F]",
         "MaxLength": 74,
-        "Address": "0x3CF5B"
+        "Address": "0x42F5B"
     },
     {
         "TextOriginal": "ほんまるのちち゜わかいころ あらゆるかくとうぎを[NL]きわめようとした きびしいおとこ゜ えほんどうわ[NL]さっかで プンネームは おおえど ひけしおとこ゜[3F]",
         "TextTranslation": "Honmaru's dad. Trained[NL]in martial arts in his[NL]youth. Author of books.[3F]",
         "TranslationAccurate": "Honmaru's father. A strict man who in his youth strove to master every form of martial arts. He is also an author of picture books and fairy tales, writing under the pen name \"Oedo Hikeshi Otoko.\"[3F]",
         "MaxLength": 75,
-        "Address": "0x3CFA5"
+        "Address": "0x42FA5"
     },
     {
         "TextOriginal": "ほんまるの やさしいはは゜にんげんのできたひとで[NL]なんでも うけいれてしまう せいかくをもつ゜[NL]いつも かぞくのしあわせを ねがっている゜[3F]",
         "TextTranslation": "Honmaru's kind mother.[NL]A mature person who[NL]accepts everything.[3F]",
         "TranslationAccurate": "Honmaru's kind mother. She is a truly admirable person with a personality that accepts everything without complaint. She always wishes for her family's happiness.[3F]",
         "MaxLength": 70,
-        "Address": "0x3CFF0"
+        "Address": "0x42FF0"
     },
     {
         "TextOriginal": "ほんまるのじーちゃん゜ ふだんはニコニコしていて[NL]やさしいが ほんまるのとーちゃんと はなすときは[NL]ウガウガと だいまじんのように なってしまう゜[3F]",
         "TextTranslation": "Honmaru's grandpa. Very[NL]kind, but rages like a[NL]demon at Honmaru's dad.[3F]",
         "TranslationAccurate": "Honmaru's grandfather. Normally he is all smiles and very kind, but whenever he speaks with Honmaru's father he flies into a fierce, ugawuga rage, becoming like a great demon.[3F]",
         "MaxLength": 74,
-        "Address": "0x3D036"
+        "Address": "0x43036"
     },
     {
         "TextOriginal": "はらこつとむの じいや゜ いつも はらこのかげと[NL]なって ぼっちゃまのために つくしている゜[NL]たこやきをつかって タルたちの じゃまをする゜[3F]",
         "TextTranslation": "Tsutomu's loyal butler.[NL]Serves his young master[NL]and uses food items.[3F]",
         "TranslationAccurate": "Tsutomu Harako's manservant. He always works in the shadows, devoting himself entirely to serving his young master. He uses takoyaki to interfere with Taru and the others.[3F]",
         "MaxLength": 71,
-        "Address": "0x3D080"
+        "Address": "0x43080"
     },
     {
         "TextOriginal": "いよなの おかあさん゜ とてもやさしく きれい゜[NL]むすめのいよなが うつくしく せいちょうするのを[NL]たのしみにしている゜ あまくみてはいけない゜[3F]",
         "TextTranslation": "Iyona's pretty mother.[NL]Looks forward to her[NL]growing up beautifully.[3F]",
         "TranslationAccurate": "Iyona's mother. She is very kind and beautiful. She looks forward to watching her daughter Iyona grow up into a beautiful young woman. Don't underestimate her.[3F]",
         "MaxLength": 73,
-        "Address": "0x3D0C7"
+        "Address": "0x430C7"
     },
     {
         "TextOriginal": "にほんいちの たこやきしょくにん゜そのうでまえは[NL]タルもが みとめている゜ ただ ひとがよすぎて[NL]こどもによわい゜おおあやせんせいに ひとめぼれ゜[3F]",
         "TextTranslation": "Best takoyaki chef. Too[NL]good-natured and weak to[NL]kids. Loves Ooya.[3F]",
         "TranslationAccurate": "Japan's greatest takoyaki chef. Even Taru acknowledges his skill. However, he is just too good-natured and has a weakness for children. He fell head over heels for Miss Ooya at first sight.[3F]",
         "MaxLength": 74,
-        "Address": "0x3D110"
+        "Address": "0x43110"
     },
     {
         "TextOriginal": "ほんまるの とーちゃんがかいた えほんにでてくる[NL]ゆうしゃ゜ どわっはだいおうを たおし せかいを[NL]すくうはずなのだが…゜ちょっと おくびょうもの゜[3F]",
         "TextTranslation": "Hero from a picture[NL]book. Meant to save the[NL]world but is a coward.[3F]",
         "TranslationAccurate": "The hero who appears in a picture book written by Honmaru's father. He is supposed to defeat King Dowah and save the world, but... he is a bit of a coward.[3F]",
         "MaxLength": 75,
-        "Address": "0x3D15A"
+        "Address": "0x4315A"
     },
     {
         "TextOriginal": "このよに ひかりを あたえてくれる めがみさま゜[NL]どわっはだいおうに つかまっていたが タルるート[NL]のかつやくで かんたんに きゅうしゅつされる゜[3F]",
         "TextTranslation": "Goddess of light. Was[NL]captured by King Dowah[NL]but rescued by Taru.[3F]",
         "TranslationAccurate": "A goddess who bestows light upon the world. She was captured by King Dowah, but was easily rescued thanks to Taruruuto's efforts.[3F]",
         "MaxLength": 74,
-        "Address": "0x3D1A5"
+        "Address": "0x431A5"
     },
     {
         "TextOriginal": "せかいを やみにかえて せかいせいふくをたくらむ[NL]あくのだいおう゜ 4にんのぶかを あやつる゜[NL]しかし ほんとうは ただの なかまはずれ？[3F]",
         "TextTranslation": "Evil king who plans to[NL]conquer the world. Is he[NL]really just lonely?[3F]",
         "TranslationAccurate": "An evil king who plots to plunge the world into darkness and take it over. He commands four underlings. But is he truly evil, or is he really just... an outcast who wants to belong?[3F]",
         "MaxLength": 70,
-        "Address": "0x3D1EF"
+        "Address": "0x431EF"
     },
     {
         "TextOriginal": "どわっはだいおうの てした その1゜[NL]ワハハこうせんを ぶきとする゜ そのこうせんを[NL]あびると しぬまで わらいつづけてしまう゜[3F]",
         "TextTranslation": "King Dowah's minion 1.[NL]Uses Wahaha beam.[NL]Laugh until you die.[3F]",
         "TranslationAccurate": "King Dowah's first underling. His weapon is the Wahaha Beam. Anyone who gets hit by it cannot stop laughing until they die.[3F]",
         "MaxLength": 65,
-        "Address": "0x3D235"
+        "Address": "0x43235"
     },
     {
         "TextOriginal": "どわっはだいおうの てした その2゜[NL]108ぴきの きゅうけつコーモを あやつる゜[NL]あいての ちをすう きもちのわるいやつ゜[3F]",
         "TextTranslation": "Dowah's 2nd minion.[NL]Controls vampire bats.[NL]Blood sucker.[3F]",
         "TranslationAccurate": "King Dowah's second underling. He commands 108 vampire bats. He is a disgusting creature who sucks the blood of his opponents.[3F]",
         "MaxLength": 63,
-        "Address": "0x3D276"
+        "Address": "0x43276"
     },
     {
         "TextOriginal": "どわっはだいおうの てした その3゜[NL]きょだいな てのような すがたをしている゜[NL]めが じゃくてん゜[3F]",
         "TextTranslation": "Dowah's 3rd minion.[NL]Giant hand.[NL]Weakness: Eyes.[3F]",
         "TranslationAccurate": "King Dowah's third underling. Its body is shaped like a gigantic hand. Its eyes are its weak point.[3F]",
         "MaxLength": 51,
-        "Address": "0x3D2B5"
+        "Address": "0x432B5"
     },
     {
         "TextOriginal": "どわっはだいおうの てした その4゜[NL]ガメラのような すがたで くちから ひをふいて[NL]こうげきする゜ おこりっぽい゜[3F]",
         "TextTranslation": "Dowah's 4th minion.[NL]Breathes fire.[NL]Short-tempered.[3F]",
         "TranslationAccurate": "King Dowah's fourth underling. It has a Gamera-like form and attacks by breathing fire from its mouth. It has a short temper.[3F]",
         "MaxLength": 59,
-        "Address": "0x3D2E8"
+        "Address": "0x432E8"
     },
     {
         "TextOriginal": "どわっはと そのてしたを たおすための ヒントを[NL]おしえてくれ ドブルクを いちにんまえのゆうしゃ[NL]にするため しゅぎょうしてくれる゜ はずだった…[3F]",
         "TextTranslation": "Supposed to give hints[NL]to defeat Dowah and[NL]train Doburuku...[3F]",
         "TranslationAccurate": "He was supposed to give hints for defeating Dowah and his underlings, and to train Doburuku into a full-fledged hero... or so the plan was.[3F]",
         "MaxLength": 75,
-        "Address": "0x3D323"
+        "Address": "0x43323"
     },
     {
         "TextOriginal": "まぼろしのくに じゃまたいこくの こくおうが[NL]ひそかにかくした ざいほうをまもる ばんにん゜[NL]そのかちは 50おくえんにも なるという゜[3F]",
         "TextTranslation": "Guardian protecting the[NL]hidden treasure of[NL]Jamataikoku.[3F]",
         "TranslationAccurate": "A guardian protecting the treasure secretly hidden by the king of the phantom country, Jamataikoku. The treasure is said to be worth as much as 5 billion yen.[3F]",
         "MaxLength": 69,
-        "Address": "0x3D36E"
+        "Address": "0x4336E"
     },
     {
         "TextOriginal": "まいごになって いきだおれになっていた かっぱ゜[NL]ミモラのかつやくにより いまは かっぱじんじゃで[NL]おねえさんと へいわにくらしている゜[3F]",
         "TextTranslation": "Kappa who got lost.[NL]Now lives peacefully[NL]at a shrine.[3F]",
         "TranslationAccurate": "A kappa who had gotten lost and collapsed from exhaustion. Thanks to Mimora's efforts, he now lives peacefully at Kappa Shrine with his older sister.[3F]",
         "MaxLength": 69,
-        "Address": "0x3D3B3"
+        "Address": "0x433B3"
     },
     {
         "TextOriginal": "タルるートが まほうのくにから よびよせた[NL]かわいいプット゜ しっぽをにぎると そのときに[NL]みていたものに へんしんすることが できる゜[3F]",
         "TextTranslation": "Cute Poot from magic[NL]land. Squeeze its tail[NL]to mimic what you see.[3F]",
         "TranslationAccurate": "A cute Poot that Taruruuto summoned from the magical kingdom. If you squeeze its tail, it can transform into whatever you are looking at at that moment.[3F]",
         "MaxLength": 69,
-        "Address": "0x3D3F8"
+        "Address": "0x433F8"
     },
     {
         "TextOriginal": "ひがしのしょうの [69]レーぶいん゜しんちよう195[NL]センチの えりこ・えみこ・えいこの さんしまい゜[NL]いよなのライ[69]ルで けっしょうせんみもむめぁん・[3F]",
         "TextTranslation": "Higashino V-Ball Club.[NL]195cm tall three sisters[NL]Eriko, Emiko, and Eiko.[3F]",
         "TranslationAccurate": "The volleyball club of Higashi Elementary School. Three sisters—Eriko, Emiko, and Eiko—each 195 cm tall. They are Iyona's rivals, and in the finals...[3F]",
         "MaxLength": 75,
-        "Address": "0x3D43D"
+        "Address": "0x4343D"
     },
     {
         "TextOriginal": "きまりもぃん め゜れりるぁもんぁ・[NL]とわもまん ぁる んれよもぁ[NL]くるりらひわぃ   け゜るりひ・               [3F]",
         "TextTranslation": "Genius hypnotist.[NL]Tries to split[NL]Honmaru & Iyona.[3F]",
         "TranslationAccurate": "Genius hypnotist.[NL]Tries to split[NL]Honmaru & Iyona.[3F]",
         "MaxLength": 65,
-        "Address": "0x3D488"
+        "Address": "0x43488"
     },
     {
         "TextOriginal": "たひへもみもまわ むもわよ・[NL]とるぃむめ  [NL]ひ ゆまりほひらひ らひんぁまわ・                              [3F]",
         "TextTranslation": "Pacifier girl.[NL]Tough &[NL]a kendama master.[3F]",
         "TranslationAccurate": "Pacifier girl.[NL]Tough &[NL]a kendama master.[3F]",
         "MaxLength": 71,
-        "Address": "0x3D4C9"
+        "Address": "0x434C9"
     },
     {
         "TextOriginal": "せまま゜る「ん ぁ[B0]もり・[NL]なりみるわむもぅもりむ らひわぁもひよ[NL]ひわぁん らひんぁまわ・                       [3F]",
         "TextTranslation": "Neeyo's twin.[NL]Unforgiving martial[NL]arts master.[3F]",
         "TranslationAccurate": "Neeyo's twin.[NL]Unforgiving martial[NL]arts master.[3F]",
         "MaxLength": 70,
-        "Address": "0x3D510"
+        "Address": "0x43510"
     }
 ]
